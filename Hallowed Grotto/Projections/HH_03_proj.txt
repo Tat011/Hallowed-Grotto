@@ -1,0 +1,28 @@
+timeOnEachImage: 40
+showTime: 1600
+RND_Image: Misc1_proj
+HHSIU
+SUPillar
+GreenDrop
+Cave_Grapple_3
+HHStatue
+ABLantern
+MFNoot
+USBlue
+HHDepths
+ScavsLiz
+Coral
+AntennaCloud
+HHMiros2
+USBlue2
+Fissure_Harvester
+ABSatelite
+HHPalms
+TMCircle
+LFFence
+USLighthouse
+SalaSlug
+HHGWGate
+LampSat
+SSDiagonal
+DWYellow

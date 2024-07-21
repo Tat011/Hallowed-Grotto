@@ -1,0 +1,28 @@
+timeOnEachImage: 40
+showTime: 1600
+RND_Image: Misc3_proj
+HHGWGate
+SLCenti
+BLCave
+HGPolliwog
+ShelterPup
+HHSIU
+SKGate
+HGPlant
+BLRed
+HHDeerBow
+TMPalm
+Anchialine
+HGDish
+HHSBGATE
+TMMisc
+BLOrange
+HGStatue
+DeerLongLegs
+FRShelter
+SS0G
+SSElec
+AquaSI
+HHMiros2
+Cave_Grapple_1
+Fissure_Harvester

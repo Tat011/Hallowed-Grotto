@@ -1,0 +1,4 @@
+[ADD]HH_pearl_1 : 00ff00 : 91ff91 : HH_Overwritten
+[ADD]HH_pearl_2 : 00fafa : ffffff : HH_SGarden
+[ADD]HH_pearl_3 : e6ff00 : ffff00 : HH_Pebbles
+[ADD]HH_pearl_4 : 787878 : ffffff : HH_SIUPearl

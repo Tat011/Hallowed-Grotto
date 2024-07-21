@@ -1,0 +1,28 @@
+timeOnEachImage: 40
+showTime: 1600
+RND_Image: Misc2_proj
+GWValve
+HHDepthsEcho
+IteratorSun
+BlueFall
+HHDeerBow
+Farlands
+USBlue2
+TMLiz
+HHSIU
+DaddySlug
+SSSymbols
+HHSBGATE
+BLHarvesters
+Subway
+LFWeirdCreature
+HHMiros1
+WaterTree
+ThinkRing
+HHTree
+ABLantern
+ABSatelite
+Cave_1
+HHDepths
+Cave_2
+WallMisc

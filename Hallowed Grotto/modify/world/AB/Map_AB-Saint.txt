@@ -1,0 +1,7 @@
+[MERGE]
+R: AB_DT04: 204.581><-653.778><272><-706><2><Arid Barrens><107><112
+I: AB_HH
+GATE_AB_HH: 423><-873><232><-618><1><><50><35
+
+Connection: AB_DT04,GATE_AB_HH,69,2,8,23,0,1
+[ENDMERGE]

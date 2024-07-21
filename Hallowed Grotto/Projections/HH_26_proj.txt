@@ -1,0 +1,28 @@
+timeOnEachImage: 40
+showTime: 1600
+RND_Image: ONH_PROJ
+Chilling
+Anchialine
+LampSat
+ABLantern
+TMCircle
+GWValve
+HHSIU
+SSSymbols
+BlueFall
+MFNoot
+GreenBlue
+HHMiros2
+Pebbles
+TMBoxes
+Swamplands
+HHPopcorn
+SUFar
+MoonNight
+SSDiagonal
+HHTree
+ABSatelite
+SUPillar
+SUFar
+HHDeerBow
+USCave

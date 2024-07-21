@@ -1,0 +1,28 @@
+timeOnEachImage: 40
+showTime: 1600
+RND_Image: Misc1_proj
+HHPopcorn
+GWSS
+USSpike
+SIPlant
+HHTree
+SBDrills
+AqueductPlants
+AquaFans3
+HHGWGate
+LFEcho
+RWSL
+GWToll
+Anchialine
+HHDepths
+GWScenery
+MFNoot
+MoonNight
+HHSIU
+UWElec
+BLHarvesters
+DeerLongLegs
+HHSBGATE
+WormLiz
+GWRain
+SS0G

@@ -1,0 +1,17 @@
+[ADD]Blooms_Hatchet_Log : BloomsHatchetLog
+[ADD]Blooms_SIU_Log : BloomsSIULog
+[ADD]Diamond_Space_Log : DiamondSpaceLog
+[ADD]Distress_Signal : DistressSignal
+[ADD]DP_Bad_2 : DPBad2
+[ADD]DP_Bad : DPBad
+[ADD]SIU_Diagnostics : SIUDiagnostics
+[ADD]Moon_SIU_Log_2 : MoonSIULog2
+[ADD]Moon_SIU_Log : MoonSIULog
+[ADD]NSH_SIU_Log : NSHSIULog
+[ADD]Pebbles_SIU_Log_2 : PebblesSIULog2
+[ADD]Pebbles_SIU_Log : PebblesSIULog
+[ADD]Satellite_Diagnostics : SatelliteDiagnostics
+[ADD]Space_SIU_Log : SpaceSIULog
+[ADD]SM_SIU : SMSIU
+[ADD]Machine_Log : MachineLog
+[ADD]Lights_Eclipse_Log : LightsEclipseLog

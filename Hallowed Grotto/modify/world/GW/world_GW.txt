@@ -1,0 +1,52 @@
+[FINDLINE]GW_E01 : GW_C09, GW_C10 : SWARMROOM
+[REPLACE]GW_E01 : GW_HH, GW_C10 : SWARMROOM
+[FINDLINE]GW_C09 : GW_C08, GW_B05, GW_E01
+[REPLACE]GW_C09 : GW_C08, GW_B05, GW_HH
+[MERGE]
+CONDITIONAL LINKS
+Spear : REPLACEROOM : GW_HH : GW_HH_Spear
+Artificer : REPLACEROOM : GW_HH : GW_HH_Arti
+Red : REPLACEROOM : GW_HH : GW_HH_Hunter
+Gourmand : REPLACEROOM : GW_HH : GW_HH_Gourmand
+Yellow : REPLACEROOM : GW_HH : GW_HH_Monk
+Rivulet : REPLACEROOM : GW_HH : GW_HH_Riv
+Gravelslug : REPLACEROOM : GW_HH : GW_HH_Gravel
+Outsider : REPLACEROOM : GW_HH : GW_HH_Gravel
+Saint : REPLACEROOM : GW_HH : GW_HH_Saint
+Incandescent : REPLACEROOM : GW_HH : GW_HH_Incan
+Begonia : REPLACEROOM : GW_HH : GW_HH_Incan
+Inv : REPLACEROOM : GW_HH : GW_HH_Hunter
+
+Spear : REPLACEROOM : GATE_HH_GW : GATE_HH_GW_Spear
+Artificer : REPLACEROOM : GATE_HH_GW : GATE_HH_GW_Arti
+Red : REPLACEROOM : GATE_HH_GW : GATE_HH_GW_Hunter
+Gourmand : REPLACEROOM : GATE_HH_GW : GATE_HH_GW_Gourmand
+Yellow : REPLACEROOM : GATE_HH_GW : GATE_HH_GW_Monk
+Rivulet : REPLACEROOM : GATE_HH_GW : GATE_HH_GW_Riv
+Gravelslug : REPLACEROOM : GATE_HH_GW : GATE_HH_GW_Gravel
+Outsider : REPLACEROOM : GATE_HH_GW : GATE_HH_GW_Gravel
+Saint : REPLACEROOM : GATE_HH_GW : GATE_HH_GW_Saint
+Incandescent : REPLACEROOM : GATE_HH_GW : GATE_HH_GW_Incan
+Begonia : REPLACEROOM : GATE_HH_GW : GATE_HH_GW_Incan
+Inv : REPLACEROOM : GATE_HH_GW : GATE_HH_GW_Riv
+
+Spear : REPLACEROOM : GW_Hang : GW_Hang_Spear
+Artificer : REPLACEROOM : GW_Hang : GW_Hang_Arti
+Red : REPLACEROOM : GW_Hang : GW_Hang_Hunter
+Gourmand : REPLACEROOM : GW_Hang : GW_Hang_Gourmand
+Yellow : REPLACEROOM : GW_Hang : GW_Hang_Monk
+Rivulet : REPLACEROOM : GW_Hang : GW_Hang_Riv
+Gravelslug : REPLACEROOM : GW_Hang : GW_Hang_Gravel
+Outsider : REPLACEROOM : GW_Hang : GW_Hang_Gravel
+Saint : REPLACEROOM : GW_Hang : GW_Hang_Saint
+Incandescent : REPLACEROOM : GW_Hang : GW_Hang_Incan
+Begonia : REPLACEROOM : GW_Hang : GW_Hang_Incan
+Inv : REPLACEROOM : GW_Hang : GW_Hang_Incan
+END CONDITIONAL LINKS
+
+ROOMS
+GW_HH : GW_E01, GW_C09, GW_Hang
+GW_Hang : GW_HH, GATE_HH_GW
+GATE_HH_GW : DISCONNECTED, GW_Hang : GATE
+END ROOMS
+[ENDMERGE]

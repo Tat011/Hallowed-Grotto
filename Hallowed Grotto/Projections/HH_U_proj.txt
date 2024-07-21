@@ -1,0 +1,28 @@
+timeOnEachImage: 40
+showTime: 1600
+RND_Image: Misc1_proj
+DeerLongLegs
+Fissure_Beyond
+DPDark
+AquaFans3
+Cave_Grapple_1
+HHPopcorn
+AquaAntenna
+Gate_Far
+LF_Deer
+BLScav
+HHDeepinets
+WaterLantern
+WaterTree
+ThinkRing
+HHMiros1
+SalaSlug
+ScavsLiz
+HGDish
+HHStatue
+AntennaCloud
+ABMiros
+GreenBlue
+HHSIU
+SHMice1
+ShelterPup

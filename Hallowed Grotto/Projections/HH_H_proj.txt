@@ -1,0 +1,28 @@
+timeOnEachImage: 40
+showTime: 1600
+RND_Image: Misc2_proj
+HHGWGate
+AquaFans3
+SUPillar
+Railway
+HHMiros1
+TMPalm
+DPDark
+Fissure_Pit
+HHSIU
+FRLava
+OEGate
+Cave_Train
+HHDeerBow
+AquaFans
+DWPup
+GreyTree
+Pink
+DWBlue2
+HHSBGATE
+M1Surface
+AquaCube
+WaterLantern
+PurpleGuy
+DWPup
+HHMiros2

@@ -1,0 +1,28 @@
+timeOnEachImage: 40
+showTime: 1600
+RND_Image: Misc4_proj
+HHDeepinets
+TMVulture
+AquaSI
+SacredSurface
+HHDeerBow
+USCave
+DWPup
+HHSIU
+AquaPalms
+GreyTree
+Pink
+FRLava
+HHStatue
+OEGate
+WeirdLiz
+DWYellow
+HHFruit
+AquaAntenna
+USBlue2
+BLScav
+HHPuddle
+LFWeirdCreature
+USLighthouse
+AquaGears
+HHDepthsEcho

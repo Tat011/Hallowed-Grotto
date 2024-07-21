@@ -1,0 +1,28 @@
+timeOnEachImage: 40
+showTime: 1600
+RND_Image: Misc2_proj
+HHSBGATE
+SBMiros
+GWRain
+LW2
+HHFruit
+Anchialine
+RWSky
+HITree
+HHDeerBow
+IteratorSun
+MimicLizScav
+SHMice2
+HHPuddle
+LW1
+FRPillar
+LFKelp
+HHDeepinets
+TMLiz
+WallDropwig
+SLCenti
+SHMice1
+HHSIU
+WallMisc
+FRSky
+AquaCube

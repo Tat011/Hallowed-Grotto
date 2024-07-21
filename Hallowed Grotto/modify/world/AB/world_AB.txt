@@ -1,0 +1,19 @@
+[ADD_02]Spear : REPLACEROOM : GATE_AB_HH : GATE_AB_HH_Spear
+
+[ADD_02]Artificer : REPLACEROOM : GATE_AB_HH : GATE_AB_HH_Arti
+
+[ADD_02]Red : REPLACEROOM : GATE_AB_HH : GATE_AB_HH_Hunter
+
+[ADD_02]Gourmand : REPLACEROOM : GATE_AB_HH : GATE_AB_HH_Gourmand
+
+[ADD_02]Yellow : REPLACEROOM : GATE_AB_HH : GATE_AB_HH_Monk
+
+[ADD_02]Rivulet : REPLACEROOM : GATE_AB_HH : GATE_AB_HH_Riv
+
+[ADD_02]Gravelslug,Outsider : REPLACEROOM : GATE_AB_HH : GATE_AB_HH_Gravel
+
+[ADD_02]Saint,Beacon,Photomaniac : REPLACEROOM : GATE_AB_HH : GATE_AB_HH_Saint
+
+[ADD_02]Incandescent,Begonia : REPLACEROOM : GATE_AB_HH : GATE_AB_HH_Incan
+
+[ADD_02]Inv : REPLACEROOM : GATE_AB_HH : GATE_AB_HH_Incan

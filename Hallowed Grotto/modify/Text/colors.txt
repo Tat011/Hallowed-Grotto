@@ -1,0 +1,12 @@
+[FINDLINESTART]UI:
+[REPLACE]UI:|0.9,0.95,1
+[ADD]SIU:|0,0.8,0
+[ADD]Blooms at Night:|0.12,0.3,0.85
+[ADD]One Hatchet:|0.85,0.3,0.12
+[ADD]Ten Seas:|0.6,0.2,0.3
+[ADD]An Eclipse:|0.3,0.3,0.5
+[ADD]Seven Lights:|0.3,0.5,0.3
+[ADD]Three Diamonds:|0.5,0.3,0.3
+[ADD]Endless Space:|0.7,0.5,0.3
+[ADD]Five Blocks of Wood|0.35,0.35,0.35
+[ADD]Tat011:|0.25,0.25,0.4

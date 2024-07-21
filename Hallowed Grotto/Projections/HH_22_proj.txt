@@ -1,0 +1,28 @@
+timeOnEachImage: 40
+showTime: 1600
+RND_Image: ONH_PROJ
+DeerLongLegs
+SHMice1
+SUFar
+TMBoxes
+HHDepths
+Pebbles
+Drowned
+GreenBlue
+HHStatue
+LampSat
+LFKelp
+M1Surface
+HHSIU
+LW1
+SpiderLiz
+HHMiros1
+SHMice2
+MimicLizScav
+IteratorSun
+HITree
+HHTree
+RWSky
+LW2
+SBMiros
+HHFruit

@@ -1,0 +1,28 @@
+timeOnEachImage: 40
+showTime: 1600
+RND_Image: Misc1_proj
+BLScav
+DeerLongLegs
+HGStatue
+FRShelter
+SS0G
+AquaSI
+HHPalms
+AquaPalms
+SSElec
+SacredSurface
+HHTree
+AquaFans2
+DWYellow
+DWBlue
+HHSIU
+M1Machine
+HHMiros1
+WeirdLiz
+HHSBGATE
+PurpleGuy
+Chilling
+SSSymbols
+HHStatue
+FRLava
+TMVulture

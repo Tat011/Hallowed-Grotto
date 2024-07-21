@@ -1,0 +1,28 @@
+timeOnEachImage: 40
+showTime: 1600
+RND_Image: Misc3_proj
+FRSky
+WallDropwig
+HHDeerBow
+WallMisc
+SLCenti
+FRPillar
+HHPopcorn
+TMMisc
+AntennaCloud
+HGPolliwog
+HHSIU
+ShelterPup
+SKGate
+HGPlant
+DMMiros
+HHFruit
+BLRed
+TMVulture
+BLCave
+ABMiros
+HHDeepinets
+GWValve
+MoonNight
+Central_Factory
+HHTree

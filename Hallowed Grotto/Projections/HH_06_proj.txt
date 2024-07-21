@@ -1,0 +1,28 @@
+timeOnEachImage: 40
+showTime: 1600
+RND_Image: Misc4_proj
+PurpleGuy
+Chilling
+HHGWGate
+ThinkRing
+SpiderLiz
+WaterTree
+HHSIU
+BLHarvesters
+Grapple_Climb_Far
+HHDeerBow
+HHFruit
+SHMice1
+DaddySlug
+HITree
+HHMiros2
+RWSky
+LW2
+TMCircle
+DMMiros
+Anchialine
+SalaSlug
+ScavsLiz
+SSDiagonal
+HHMiros1
+M1Machine
