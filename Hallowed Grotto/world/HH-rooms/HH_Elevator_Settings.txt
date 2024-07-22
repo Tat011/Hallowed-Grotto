@@ -1,0 +1,4 @@
+RandomItemDensity: 0.4
+PlacedObjects: ExitSymbolHidden><1102.585><168.3846><, WhiteToken><346.8054><2052.954><-23~-14~0~0~0~DiamondSpaceLog~~0~1~0~0, 
+AmbientSounds: OMNI><AM_ENV-WindGrass.ogg><20><20><0.4><1,
+FadePalette: 33, 0.7, 0.6, 0.5

@@ -1,0 +1,9 @@
+Template: HH_SettingsTemplate_Gravel
+DangerType: Flood
+RainIntensity: 0
+RumbleIntensity: 1
+RandomItemDensity: 1
+RandomItemSpearChance: 1
+Effects: Advertisements-1-276-76, TinyDragonFly-0.5-267-123, RedSwarmer-0.4-267-9,
+PlacedObjects: ExitSymbolHidden><1209.875><183.9262><, ExitSymbolHidden><1936.347><34.61983><,
+FadePalette: 2, 0.1, 0.1, 0.1
