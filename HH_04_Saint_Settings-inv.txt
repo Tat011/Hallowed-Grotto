@@ -1,0 +1,9 @@
+Template: HH_SettingsTemplate_Saint
+DangerType: Flood
+RainIntensity: 0
+RumbleIntensity: 0.4
+RandomItemDensity: 1
+RandomItemSpearChance: 1
+Effects: Advertisements-1-276-76,
+AmbientSounds: OMNI><AM_ENV-WindGrass.ogg><20><20><0.4><1,
+FadePalette: 2, 0.1
