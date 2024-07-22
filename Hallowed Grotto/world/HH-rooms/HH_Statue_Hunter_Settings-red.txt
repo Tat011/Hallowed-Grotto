@@ -1,0 +1,5 @@
+RandomItemDensity: 0.4
+Effects: Darkness-0-264-179,
+PlacedObjects: ExitSymbolHidden><790.662><704.1273><, WhiteToken><383.1919><444.3065><-22~-19~56~-107~0~MoonSIULog~~0~1~0~0, WhiteToken><1016.528><449.698><22~-21~42~103~0~PebblesSIULog2~~0~1~0~0, DangleFruit><790.6711><361.3535><-236~2~2~12, DangleFruit><810.5994><348.0764><106~52~2~12,
+AmbientSounds: OMNI><AM_ENV-WindGrass.ogg><20><20><0.4><1,
+FadePalette: 33, 0.7

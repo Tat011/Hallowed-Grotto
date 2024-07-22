@@ -1,0 +1,4 @@
+Effects: Darkness-0-264-179,
+PlacedObjects: ExitSymbolHidden><790.662><704.1273><, DandelionPatch><709.9088><102.8821><-389.1677~-28.7111, DandelionPatch><704.6422><580.2214><-163.6354~34.57776, DandelionPeach><731.4575><254.5546><0~0~2~12, DandelionPeach><652.4465><261.4625><0~0~2~12,
+AmbientSounds: OMNI><AM_ENV-WindGrass.ogg><20><20><0.4><1,
+FadePalette: 33, 0.7

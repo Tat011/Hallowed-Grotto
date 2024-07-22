@@ -1,0 +1,6 @@
+RandomItemDensity: 0
+Effects: Darkness-0-264-179,
+PlacedObjects: WhiteToken><807.2302><1021.868><-20.63232~-25.02222~287.5333~380.5778~0~DistressSignal~~0~1~0~0~0~1~0~0~0~1~0~0~0~1~0~0, WhiteToken><592.1946><1021.454><21~-24~-558~314~0~SMSIU~~0~1~0~0~0~1~0~0~0~1~0~0~0~1~0~0,
+AmbientSounds: OMNI><AM_ENV-WindGrass.ogg><20><20><0><1, 
+Triggers: RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>na_04 - silicon<eA>vol<eB>0.3<eA>prio<eB>1<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>1<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>1<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>682.285<tB>170.0158<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>, 
+FadePalette: 33, 0.7, 0.7
