@@ -1,3 +1,0 @@
-Effects: WaterGlowworm-1-20-40
-AmbientSounds: OMNI><AM_ENV-WindGrass.ogg><20><20><0.4><1,
-FadePalette: 2, 0.1
