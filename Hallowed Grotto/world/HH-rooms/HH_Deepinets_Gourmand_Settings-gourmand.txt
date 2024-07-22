@@ -1,0 +1,7 @@
+RandomItemDensity: 1
+RandomItemSpearChance: 1
+Effects: RockFlea-1-20-20, GrassHopper-1-9-4, Beetle-1-11-62, TinyDragonFly-0.1-267-123, RedSwarmer-0.1-267-9, Lightning-1-264-179, GreenSparks-1-264-179, 
+AmbientSounds: OMNI><AM_ENV-WindGrass.ogg><20><20><0><1, OMNI><AM_ENV-LightWind.ogg><20><20><1><1, OMNI><AM_ENV-NatWind.ogg><20><20><1><1, OMNI><AM_RAIN-Rumbles.ogg><20><20><1><1, OMNI><AM_RAIN-RollingThunder.ogg><20><20><1><1, 
+EffectColorA: 14
+FadePalette: 8, 0.4, 0.4, 0.4, 0.4
+Triggers: RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>hg<eA>vol<eB>0.3<eA>prio<eB>0.8<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>1<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>1<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>686.8123<tB>176.1751<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>,

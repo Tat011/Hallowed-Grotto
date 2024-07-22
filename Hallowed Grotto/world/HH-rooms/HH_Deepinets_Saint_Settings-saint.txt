@@ -1,0 +1,4 @@
+PlacedObjects: DandelionPatch><1375.687><305.8213><-1355~-49, DandelionPatch><3556.58><321.6446><880~2, 
+RandomItemDensity: 0.7
+RandomItemSpearChance: 0.7
+FadePalette: 2, 0.1, 0.1, 0.1, 0.1
