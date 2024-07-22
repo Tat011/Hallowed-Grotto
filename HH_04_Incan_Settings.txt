@@ -1,4 +1,0 @@
-PlacedObjects: DandelionPatch><192.2177><240.2644><0~100, DandelionPatch><829.3304><427.0903><-275.3344~25.33334, 
-Effects: WaterGlowworm-1-20-40
-AmbientSounds: OMNI><AM_ENV-WindGrass.ogg><20><20><0.4><1,
-FadePalette: 2, 0.1
