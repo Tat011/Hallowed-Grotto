@@ -1,0 +1,7 @@
+Template: HH_SettingsTemplate_Monk
+RandomItemDensity: 1
+RandomItemSpearChance: 1
+Effects: Advertisements-1-276-76, Starfishies-0.25-19-97, RockFlea-0.8-20-20, WaterGlowworm-0.9-20-20, Darkness-0-264-179,
+AmbientSounds: OMNI><AM_ENV-WindGrass.ogg><20><20><0><1,
+PlacedObjects: DevToken><1351.171><554.4338><1~123~0~0~0~~~0~0~0~1, GlowWeed><253.3154><202.6729><-53~-128~1~12,
+FadePalette: 8, 0.3, 0.3, 0.3
