@@ -1,2 +1,2 @@
-Effects: DirtyWater-0.4-286-159, WaterViscosity-0.4-279-102, SilenceWater-0.5-350-150,
+Effects: FastFloodDrain-1-20-20, FastFloodPullDown-1-20-20, DirtyWater-0.4-286-159, WaterViscosity-0.4-279-102, SilenceWater-0.5-350-150,
 FadePalette: 11, 0.3
