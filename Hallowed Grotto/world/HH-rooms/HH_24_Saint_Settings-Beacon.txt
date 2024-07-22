@@ -1,0 +1,3 @@
+Effects: Starfishies-0.4-19-97,
+AmbientSounds: OMNI><AM_ENV-WindGrass.ogg><20><20><0><1,
+PlacedObjects: GlowWeed><797.4097><339.8705><-116~-165~1~12, 

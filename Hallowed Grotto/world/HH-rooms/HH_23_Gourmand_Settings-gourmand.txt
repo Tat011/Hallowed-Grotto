@@ -1,0 +1,2 @@
+PlacedObjects: GooieDuck><542.2499><488.7709><-465.5021~102.2667~1~12, WhiteToken><397.228><431.5512><-47~-24~41~151~0~BloomsSIULog~~0~1~0~0~0~1~0~0, 
+FadePalette: 2, 0.1

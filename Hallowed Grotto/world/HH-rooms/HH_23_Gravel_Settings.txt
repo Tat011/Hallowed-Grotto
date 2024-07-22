@@ -1,0 +1,2 @@
+PlacedObjects: GooieDuck><545.0958><493.7487><-501.7865~69.55557~1~12,
+FadePalette: 2, 0.1

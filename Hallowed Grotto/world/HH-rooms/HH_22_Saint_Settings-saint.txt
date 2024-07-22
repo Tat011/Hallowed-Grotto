@@ -1,0 +1,5 @@
+EffectColorA: 9
+EffectColorB: 7
+Effects: TinyDragonFly-0.01-267-123, RedSwarmer-0.01-267-9, Darkness-0-264-179, VoidSpawn-1-20-20, VoidMelt-0.3-253.4286-70.22857,
+PlacedObjects: KarmaFlower><708.6185><399.9111><-423~-335~2~14, 
+FadePalette: 8, 0.5

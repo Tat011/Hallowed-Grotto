@@ -1,0 +1,2 @@
+PlacedObjects: WaterNut><535.8072><254.6022><-484~194~1~12, WaterNut><606.174><288.1854><0~0~1~8, 
+FadePalette: 2, 0.1

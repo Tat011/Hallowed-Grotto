@@ -1,0 +1,2 @@
+PlacedObjects: DandelionPeach><535.8072><254.6022><-484~194~1~12, DandelionPeach><606.174><288.1854><0~0~1~8, DandelionPatch><492.9425><365.9695><-161.501~146.2222,
+FadePalette: 2, 0.1
