@@ -1,0 +1,3 @@
+Effects: VoidMelt-0.6-253.4286-70.22857, Darkness-0.4-264-179, VoidSpawn-1-20-20,
+AmbientSounds: OMNI><AM_ENV-WindGrass.ogg><20><20><0.2><1,
+FadePalette: 36, 0.15
