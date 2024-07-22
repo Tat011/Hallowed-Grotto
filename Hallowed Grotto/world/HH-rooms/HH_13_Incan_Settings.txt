@@ -1,0 +1,3 @@
+PlacedObjects: DandelionPeach><678.1629><529.616><-146~-130~1~12, DandelionPeach><720.9852><479.2178><-265.374~-114.4889~1~12, DandelionPatch><336.9863><234.6883><-50.51352~137.6889, DandelionPatch><740.7128><415.6971><-286.7177~100.7112, DandelionPatch><247.8323><591.0426><-228.3781~12.53329,
+AmbientSounds: OMNI><AM_ENV-WindGrass.ogg><20><20><0.4><1,
+FadePalette: 2, 0.1

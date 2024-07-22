@@ -1,0 +1,3 @@
+AmbientSounds: OMNI><AM_ENV-WindGrass.ogg><20><20><0.4><1,
+PlacedObjects: DandelionPeach><678.1629><529.616><-146~-130~1~12,
+FadePalette: 2, 0.1

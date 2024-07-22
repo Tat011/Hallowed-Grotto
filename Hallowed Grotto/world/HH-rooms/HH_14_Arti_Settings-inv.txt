@@ -1,0 +1,6 @@
+Template: HH_SettingsTemplate_Arti
+RandomItemDensity: 1
+RandomItemSpearChance: 1
+Effects: Advertisements-1-276-76, Starfishies-0.4-19-97, Darkness-0-264-179,
+AmbientSounds: OMNI><AM_ENV-WindGrass.ogg><20><20><0.4><1,
+FadePalette: 8, 0.3, 0.3
