@@ -1,0 +1,5 @@
+RandomItemDensity: 1
+RandomItemSpearChance: 1
+EffectColorA: 9
+PlacedObjects: UniqueDataPearl><856.71><1246.554><0~0~0~0~HH_pearl_2~0, SpotLight><940.6208><1136.091><0~40~40~40~69~-66,
+FadePalette: 8, 0.40, 0.20

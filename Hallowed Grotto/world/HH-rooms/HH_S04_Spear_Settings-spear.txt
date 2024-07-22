@@ -1,0 +1,3 @@
+DangerType: None
+PlacedObjects: BrokenShelterWaterLevel><665.9433><305.6987><, 
+FadePalette: 41, 0.5
