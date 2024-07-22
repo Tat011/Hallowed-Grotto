@@ -1,0 +1,3 @@
+PlacedObjects: ExitSymbolHidden><212.0836><2112.556><, ExitSymbolHidden><214.6051><186.1089><, DandelionPatch><668.1969><1524.285><5~774, DandelionPatch><735.4086><162.6281><-543~7, 
+EffectColorA: 14
+FadePalette: 2, 0.1, 0.1, 0.1

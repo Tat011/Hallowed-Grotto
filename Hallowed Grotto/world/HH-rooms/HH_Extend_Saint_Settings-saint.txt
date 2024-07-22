@@ -1,0 +1,3 @@
+PlacedObjects: ExitSymbolHidden><3227.688><326.3197><,
+AmbientSounds: OMNI><AM_ENV-WindGrass.ogg><20><20><0.7><1,
+FadePalette: 2, 0.1, 0.1, 0.1
