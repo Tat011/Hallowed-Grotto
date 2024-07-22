@@ -1,0 +1,9 @@
+Template: HH_SettingsTemplate_Incan
+DangerType: Flood
+RainIntensity: 0
+RumbleIntensity: 0.4
+RandomItemDensity: 1
+RandomItemSpearChance: 1
+Effects: Advertisements-1-276-76,
+PlacedObjects: ExitSymbolHidden><53.81195><269.8098><, DandelionPatch><572.5743><329.3127><-506.5583~-3.822205, 
+FadePalette: 2, 0.1

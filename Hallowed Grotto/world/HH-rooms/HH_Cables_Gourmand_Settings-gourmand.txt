@@ -1,0 +1,2 @@
+PlacedObjects: ExitSymbolHidden><53.81195><269.8098><,
+FadePalette: 2, 0.1
