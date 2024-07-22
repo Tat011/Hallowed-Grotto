@@ -1,0 +1,4 @@
+Effects: Starfishies-0.4-19-97, Darkness-0-264-179,
+AmbientSounds: OMNI><AM_ENV-WindGrass.ogg><20><20><0.4><1,
+PlacedObjects: Hazer><711.312><220.2638><0~0~1~12, Hazer><1455.624><212.4705><0~0~1~12, Hazer><1100.078><189.3376><0~0~1~12, 
+FadePalette: 8, 0.3, 0.3

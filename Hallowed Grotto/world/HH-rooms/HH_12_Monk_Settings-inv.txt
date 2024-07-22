@@ -1,0 +1,7 @@
+Template: HH_SettingsTemplate_Entropy
+RumbleIntensity: 0.6
+RandomItemDensity: 1
+RandomItemSpearChance: 1
+Effects: Advertisements-1-276-76, TinyDragonFly-0.7-267-123, RedSwarmer-0.7-267-9,
+AmbientSounds: OMNI><AM_ENV-WindGrass.ogg><20><20><0.4><1,
+FadePalette: 2, 0.1
