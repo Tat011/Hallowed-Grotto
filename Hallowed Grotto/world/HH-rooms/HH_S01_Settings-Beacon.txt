@@ -1,0 +1,3 @@
+DangerType: None
+PlacedObjects: BrokenShelterWaterLevel><453.9777><163.5513><, 
+Effects: RockFlea-0.6-20-20, GrassHopper-0.5-9-4, Beetle-0.2-11-62, TinyDragonFly-0.15-267-123, RedSwarmer-0.1-267-9,

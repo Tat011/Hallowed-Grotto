@@ -1,0 +1,4 @@
+FadePalette: 8, 0.4
+Effects: Darkness-0-296-84, Starfishies-0.35-19-97, TinyDragonFly-0.4-267-123, RedSwarmer-0.4-267-9, VoidMelt-0.25-253.4286-70.22857,
+AmbientSounds: OMNI><AM_ENV-WindGrass.ogg><20><20><0.4><1,
+PlacedObjects: ExitSymbolHidden><1208.458><344.8185><,

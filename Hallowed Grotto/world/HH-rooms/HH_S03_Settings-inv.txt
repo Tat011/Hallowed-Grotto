@@ -1,0 +1,6 @@
+DangerType: None
+RandomItemDensity: 1
+RandomItemSpearChance: 1
+Effects: Advertisements-1-276-76, 
+PlacedObjects: BrokenShelterWaterLevel><446.5811><326.1071><, 
+FadePalette: 2, 0.1

@@ -1,0 +1,4 @@
+DangerType: None
+Effects: RockFlea-0.1-20-20, GrassHopper-0.05-9-4, Beetle-0.05-11-62, TinyDragonFly-0.01-267-123, RedSwarmer-0.01-267-9, 
+PlacedObjects: BrokenShelterWaterLevel><453.9777><163.5513><, 
+FadePalette: 2, 0.1
