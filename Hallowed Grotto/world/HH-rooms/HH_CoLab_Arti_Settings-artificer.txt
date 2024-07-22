@@ -1,0 +1,6 @@
+Palette: 42
+RandomItemDensity: 0.4
+Effects: Darkness-0-264-179, RockFlea-0.54-20-20, GrassHopper-0.14-9-4, Beetle-0.54-11-62, TinyDragonFly-0.14-267-123, RedSwarmer-0.14-267-9,
+PlacedObjects: WhiteToken><1158.323><318.3763><0~-83.62222~74.70313~49.77777~0~SIUDiagnostics~~0~1~0~0~0~1~0~0, UniqueDataPearl><1562.948><252.7816><0~0~0~0~HH_pearl_1~0,
+AmbientSounds: OMNI><AM_ENV-WindGrass.ogg><20><20><0.4><1,
+Triggers: RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>NA_02 - Dustcloud<eA>vol<eB>0.3<eA>prio<eB>0.7<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>1<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>1<tA>multiUse<tB>1<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>676.7719<tB>175.4205<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>,

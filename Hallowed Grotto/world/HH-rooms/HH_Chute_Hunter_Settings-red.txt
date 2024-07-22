@@ -1,0 +1,3 @@
+AmbientSounds: OMNI><AM_ENV-WindGrass.ogg><20><20><0.4><1,
+Effects: Darkness-0-296-84, Starfishies-0.6-19-97,
+FadePalette: 8, 0.4
