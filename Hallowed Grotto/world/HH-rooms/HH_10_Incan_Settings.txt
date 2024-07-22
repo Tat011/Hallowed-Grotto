@@ -1,0 +1,4 @@
+Effects: Starfishies-0.35-19-97, Darkness-0-264-179,
+AmbientSounds: OMNI><AM_ENV-WindGrass.ogg><20><20><0.4><1,
+PlacedObjects: BubbleGrass><215.4518><402.2515><90.66669~208.4571~1~12, BubbleGrass><188.1063><427.936><-203.4286~174.08~1~12, Hazer><711.312><220.2638><0~0~1~12, Hazer><1455.624><212.4705><0~0~1~12, Hazer><1100.078><189.3376><0~0~1~12, DandelionPatch><1672.693><533.0576><-0.0001220703~153.3334,
+FadePalette: 8, 0.3, 0.2777
