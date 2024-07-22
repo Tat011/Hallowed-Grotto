@@ -1,0 +1,6 @@
+Template: HH_SettingsTemplate_Survivor
+RandomItemDensity: 1
+RandomItemSpearChance: 1
+FadePalette: 8, 0.35, 0.5
+Effects: Advertisements-1-276-76, TinyDragonFly-0.9-40-40, RedSwarmer-0.9-2-9,
+AmbientSounds: OMNI><AM_ENV-WindGrass.ogg><20><20><0.4><1,
