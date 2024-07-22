@@ -1,0 +1,3 @@
+Effects: RockFlea-0.4-20-20, GrassHopper-0.9-20-25, Beetle-0.46-20-30, TinyDragonFly-0.35-40-40, RedSwarmer-0.15-2-9, 
+PlacedObjects: LanternOnStick><235.2082><449.4873><-49.09061~-72.08887, 
+FadePalette: 9, 0.35

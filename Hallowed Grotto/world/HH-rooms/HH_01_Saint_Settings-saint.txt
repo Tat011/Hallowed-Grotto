@@ -1,0 +1,2 @@
+Effects: RockFlea-0.45-20-20, Beetle-0.52-20-30, TinyDragonFly-0.4-40-40, RedSwarmer-0.2-2-9, 
+FadePalette: 9, 0.25

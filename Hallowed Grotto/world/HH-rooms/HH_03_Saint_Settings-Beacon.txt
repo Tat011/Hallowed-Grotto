@@ -1,0 +1,3 @@
+Effects: TinyDragonFly-0.9-267-123, RedSwarmer-0.8-267-9
+PlacedObjects: KarmaFlower><268.9487><449.2725><0~0~2~14, BubbleGrass><761.3462><310.3778><43~89~1~12, Mushroom><225.8042><457.0407><-237~-170~1~12, Mushroom><193.5337><471.9471><-265~-245~1~12, Mushroom><209.2533><464.45><-259~95~1~12, 
+Triggers: Spot<tA>event<tB>ShowProjectedImageEvent<eA>afterEncounter<eB>0<eA>fromCycle<eB>0<eA>onlyWhenShowingDirection<eB>0<tA>multiUse<tB>1<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>490.9763<tB>80.80141<tA>fireChance<tB>0.6<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB><tA>pos<tB>575.9763<tB>437.8014<tA>handlePos<tB>-238.3553<tB>1.644653, 

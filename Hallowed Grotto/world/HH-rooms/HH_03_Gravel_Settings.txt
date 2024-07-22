@@ -1,0 +1,3 @@
+Effects: TinyDragonFly-0.9-267-123, RedSwarmer-0.8-267-9
+PlacedObjects: KarmaFlower><268.9487><449.2725><0~0~2~14, BubbleGrass><761.3462><310.3778><43~89~1~12, Mushroom><225.8042><457.0407><-237~-170~1~12, Mushroom><193.5337><471.9471><-265~-245~1~12, Mushroom><209.2533><464.45><-259~95~1~12, LanternOnStick><554.8157><399.7834><-39.84167~-56.44446,
+FadePalette: 2, 0.1
