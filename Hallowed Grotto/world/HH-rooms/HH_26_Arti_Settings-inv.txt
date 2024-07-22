@@ -1,0 +1,8 @@
+Template: HH_SettingsTemplate_Arti
+RandomItemDensity: 1
+RandomItemSpearChance: 1
+Effects: Advertisements-1-276-76, TinyDragonFly-0.7-267-9, RedSwarmer-0.7-20-20, RockFlea-0.8-11-62, Beetle-0.6-267-123, 
+PlacedObjects: ExitSymbolHidden><1674.525><75.39363><, FlyLure><1233.686><321.8585><-623.9489~169.9555~1~12, FlyLure><1105.744><332.8735><-204.9~-105.9556~1~12, FlyLure><1999.089><315.8335><0~0~1~12,
+AmbientSounds: OMNI><AM_ENV-WindGrass.ogg><20><20><0.7><1,
+Triggers: RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>NA_01 - Proxima<eA>vol<eB>0.3<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>6<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>1<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>1<tA>multiUse<tB>1<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>74.38602<tB>395.8904<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>, Spot<tA>event<tB>ShowProjectedImageEvent<eA>afterEncounter<eB>0<eA>fromCycle<eB>0<eA>onlyWhenShowingDirection<eB>0<tA>multiUse<tB>1<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>939.6185<tB>302.0187<tA>fireChance<tB>0.6<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB><tA>pos<tB>677.3549<tB>303.2188<tA>handlePos<tB>-398.1991<tB>-6.910889, 
+FadePalette: 2, 0.1, 0.1, 0.1
