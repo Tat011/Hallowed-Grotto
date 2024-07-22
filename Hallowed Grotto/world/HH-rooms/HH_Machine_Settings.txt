@@ -1,0 +1,7 @@
+RandomItemDensity: 1
+RandomItemSpearChance: 1
+EffectColorA: 14
+Effects: RockFlea-1-20-20, GrassHopper-1-9-4, Beetle-1-11-62, TinyDragonFly-0.1-267-123, RedSwarmer-0.1-267-9, Lightning-1-264-179, GreenSparks-1-264-179, 
+PlacedObjects: ExitSymbolHidden><2848.474><172.7167><, OEsphere><560.5437><419.5771><-27.74683~-2.399963~50~86.60254~0~1, CellDistortion><560.5536><419.9073><-107.4302~14.66666~-26.83752~175.4914~1~0.5000139~1~1, LightningMachine><559.697><391.5986><465.4918~96.7103~0~0~-254.1885~313.4471~-511.2229~-14.2222~0.2554388~0~1~1~1~0.3~1~0~2~0.5051004~0~1~1, LightningMachine><561.4655><449.8592><463.2606~-194.6042~0~0~-185.8885~294.9581~-522.6062~-2.844452~0.25613~0~1~1~1~0.3~1~0~2~0.5~0~1~1, UniqueDataPearl><741.5413><268.5285><0~0~0~0~HH_pearl_3~0, WhiteToken><675.3845><285.2305><-48.37915~-44.35555~0~0~0~MachineLog~~0~1~0~0,
+AmbientSounds: OMNI><AM_ENV-WindGrass.ogg><20><20><0><1, OMNI><AM_ENV-LightWind.ogg><20><20><0.8><1, OMNI><AM_ENV-NatWind.ogg><20><20><1><1, OMNI><AM_RAIN-Rumbles.ogg><20><20><0.75><1, OMNI><AM_RAIN-RollingThunder.ogg><20><20><0.75><1, SPOT><AM_IND-50hz.ogg><687.568><489.6358><1><1><562.4968><418.5814><-103.6554><-101.4887><0><0.3551974,
+FadePalette: 8, 0.5

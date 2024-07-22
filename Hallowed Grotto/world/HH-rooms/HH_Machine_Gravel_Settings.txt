@@ -1,0 +1,5 @@
+PlacedObjects: ExitSymbolHidden><2848.474><172.7167><, DandelionPatch><723.6312><394.6609><-535~57, 
+RandomItemDensity: 0.8
+RandomItemSpearChance: 0.8
+EffectColorA: 14
+FadePalette: 2, 0.1
