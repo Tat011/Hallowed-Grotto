@@ -2,8 +2,8 @@ Palette: 195
 pupSpawnChance: 0
 earlyCycleChance: 1
 earlyCycleFloodChance: 1
-forcePreCycleChance: 1
-rivStormyPreCycleChance: 1
+forcePreCycleChance: 100
+rivStormyPreCycleChance: 100
 
 batDepleteCyclesMin: 4
 batDepleteCyclesMax: 10
