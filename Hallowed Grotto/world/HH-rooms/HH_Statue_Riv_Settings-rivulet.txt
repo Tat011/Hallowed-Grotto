@@ -1,0 +1,5 @@
+RandomItemDensity: 0.4
+Effects: Darkness-0-264-179,
+PlacedObjects: ExitSymbolHidden><790.662><704.1273><, WaterNut><629.6414><271.6414><-295~-12~2~12, WaterNut><755.6957><266.4589><76~-4~2~12, 
+AmbientSounds: OMNI><AM_ENV-WindGrass.ogg><20><20><0.4><1,
+FadePalette: 33, 0.7

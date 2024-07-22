@@ -1,0 +1,2 @@
+PlacedObjects: ExitSymbolHidden><1824.871><242.7674><, ExitSymbolHidden><1353.269><73.18585><, LanternOnStick><2030.929><1011.528><-50.51355~-57.86667, 
+FadePalette: 2, 0.1, 0.1, 0.1

@@ -1,0 +1,2 @@
+PlacedObjects: ExitSymbolHidden><1824.871><242.7674><, ExitSymbolHidden><1353.269><73.18585><, DandelionPatch><1715.005><1110.324><-528.6135~28.88892, DandelionPatch><1947.291><488.3709><98.18121~97.86664, DandelionPatch><1407.137><145.0599><510.8271~89.3333, DandelionPatch><562.8835><149.0996><347.1917~23.91109, DandelionPatch><840.7225><486.1944><-88.22083~122.0445, 
+FadePalette: 2, 0.1, 0.1, 0.1
