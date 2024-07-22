@@ -1,0 +1,7 @@
+Template: HH_SettingsTemplate_Spear
+RandomItemDensity: 1
+RandomItemSpearChance: 1
+Effects: Advertisements-1-276-76, Starfishies-0.4-19-97, RockFlea-0.8-20-20, WaterGlowworm-1-20-20, Darkness-0-264-179,
+AmbientSounds: OMNI><AM_ENV-WindGrass.ogg><20><20><0><1,
+PlacedObjects: Hazer><376.0696><790.4135><0~0~1~12, Hazer><296.4443><332.4525><0~0~1~12, Hazer><289.8885><654.8942><0~0~1~12, Hazer><244.9329><471.6688><0~0~1~12, 
+FadePalette: 8, 0.3, 0.3

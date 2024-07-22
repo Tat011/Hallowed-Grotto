@@ -1,0 +1,4 @@
+Effects: Starfishies-0.4-19-97, RockFlea-0.8-20-20, WaterGlowworm-1-20-20, Darkness-0-264-179,
+AmbientSounds: OMNI><AM_ENV-WindGrass.ogg><20><20><0><1,
+PlacedObjects: Hazer><376.0696><790.4135><0~0~1~12, Hazer><381.4443><326.4525><-432~-54~1~12, Hazer><354.8885><610.8942><-422~-52~1~12, Hazer><339.9329><477.6688><-372~-12~1~12, GlowWeed><502.9014><144.8806><-562~-131~1~12, GlowWeed><560.5179><96.19919><243~-3~1~12, GlowWeed><301.0601><159.6872><-90~112~1~12,
+FadePalette: 8, 0.3, 0.3
