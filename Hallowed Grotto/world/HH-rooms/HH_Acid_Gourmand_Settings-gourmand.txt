@@ -1,0 +1,3 @@
+Effects: DirtyWater-1-286-159, LethalWater-1-1102-637, WaterViscosity-1-279-102, SilenceWater-0.5-350-150,
+PlacedObjects: SteamPipe><600.8736><48.55019><1.761902~78.98284, SteamPipe><852.5816><50.44037><2~87, SteamPipe><865.1616><49.27811><0~69.28001, SteamPipe><586.5439><47.29718><1~70, SteamPipe><612.9142><47.94227><0~95.8229, SteamPipe><623.3253><50.07052><1~60.28, SteamPipe><878.2256><50.27004><0~58, SteamPipe><892.9552><50.58449><0~79, 
+FadePalette: 11, 0.3

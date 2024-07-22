@@ -1,0 +1,2 @@
+PlacedObjects: DandelionPatch><709.576><296.1334><-493.0406~-0.2666626, 
+FadePalette: 2, 0.1
