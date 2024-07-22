@@ -1,0 +1,5 @@
+Palette: 10
+EffectColorA: 9
+EffectColorB: 6
+FadePalette: 125, 0.15
+WetTerrain: ON

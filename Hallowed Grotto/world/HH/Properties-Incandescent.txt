@@ -1,0 +1,161 @@
+Palette: 200
+pupSpawnChance: 0
+hideTimer: True
+earlyCycleChance: 0
+earlyCycleFloodChance: 1
+
+batDepleteCyclesMin: 4
+batDepleteCyclesMax: 10
+batDepleteCyclesMaxIfLessThanTwoLeft: 6
+batDepleteCyclesMaxIfLessThanFiveLeft: 8
+batsPerActiveSwarmRoom: 8
+batsPerInactiveSwarmRoom: 2
+
+voidSpawnTarget: HH_28
+hideVoidSpawn: false
+
+albinos: true
+blackSalamanderChance: 0
+kelpColor: 0,0.4,0
+batGlowColor: 0,1,0
+dragonflyColor: 0,0.8,0
+corruptionEyeColor: 0,0.8,0
+corruptionEffectColor: 0,1,0
+rotEyeColor: BrotherLongLegs-00c300,DaddyLongLegs-00e100,TerrorLongLegs-00ff00,HunterDaddy-926439
+rotEffectColor: BrotherLongLegs-00ff00,DaddyLongLegs-00ff00,TerrorLongLegs-00ff00,HunterDaddy-926439
+
+playerGuideOverseerSpawnChance: 0
+guideColor: 0, 0.455, 0
+
+overseersSpawnChance: 0.6
+overseersMin: 0
+overseersMax: 5
+overseersColorOverride(1): 0.1 //Yellow(ish) (Moon)
+
+Subregion: Hallowed Forest
+Subregion: Primordial Roots
+Subregion: Anchialine System
+Subregion: Lush Laboratory
+Subregion: Cicatrix
+Subregion: Sealed Intelligence Unit
+
+Room Setting Templates: Incan
+
+Room_Attr: HH_S01: BlueLizard-Avoid,ZoopLizard-Avoid,CyanLizard-Avoid,hunterseeker-Avoid,Centipede-Avoid,RedCentipede-Avoid,Scutigera-Avoid,BigNeedleWorm-Avoid,
+Room_Attr: HH_S02: BlueLizard-Avoid,ZoopLizard-Avoid,CyanLizard-Avoid,hunterseeker-Avoid,Centipede-Avoid,RedCentipede-Avoid,Scutigera-Avoid,BigNeedleWorm-Avoid,
+Room_Attr: HH_S03: Salamander-Avoid,WaterSpitter-Avoid,EelLizard-Avoid,AquaCenti-Avoid,JetFish-Avoid,
+Room_Attr: HH_S04: BlueLizard-Avoid,ZoopLizard-Avoid,CyanLizard-Avoid,hunterseeker-Avoid,Centipede-Avoid,RedCentipede-Avoid,Scutigera-Avoid,BigNeedleWorm-Avoid,
+
+Room_Attr: GATE_HH_GW: DropBug-Forbidden,BlueLizard-Forbidden,ZoopLizard-Forbidden,CyanLizard-Forbidden,hunterseeker-Forbidden,Centipede-Forbidden,RedCentipede-Forbidden,Scutigera-Forbidden,BigNeedleWorm-Forbidden,
+Room_Attr: GATE_DS_HH: DropBug-Forbidden,BlueLizard-Forbidden,ZoopLizard-Forbidden,CyanLizard-Forbidden,hunterseeker-Forbidden,Centipede-Forbidden,RedCentipede-Forbidden,Scutigera-Forbidden,BigNeedleWorm-Forbidden,
+Room_Attr: GATE_SB_HH: DropBug-Forbidden,BlueLizard-Forbidden,ZoopLizard-Forbidden,CyanLizard-Forbidden,hunterseeker-Forbidden,Centipede-Forbidden,RedCentipede-Forbidden,Scutigera-Forbidden,BigNeedleWorm-Forbidden,
+Room_Attr: GATE_HH_SL: Salamander-Forbidden,WaterSpitter-Forbidden,EelLizard-Forbidden,AquaCenti-Forbidden,JetFish-Forbidden,BigNeedleWorm-Forbidden,
+Room_Attr: GATE_HH_SB: DropBug-Forbidden,GreenLizard-Forbidden,WaterSpitter-Forbidden,SpitLizard-Forbidden,RedLizard-Forbidden,Centipede-Forbidden,RedCentipede-Forbidden,Scutigera-Forbidden,FireBug-Forbidden,BigNeedleWorm-Forbidden,
+Room_Attr: GATE_AB_HH: Salamander-Forbidden,WaterSpitter-Forbidden,EelLizard-Forbidden,AquaCenti-Forbidden,JetFish-Forbidden,BigNeedleWorm-Forbidden,
+Room_Attr: GATE_HH_UF: DropBug-Forbidden,BlueLizard-Forbidden,ZoopLizard-Forbidden,CyanLizard-Forbidden,hunterseeker-Forbidden,Centipede-Forbidden,RedCentipede-Forbidden,Scutigera-Forbidden,BigNeedleWorm-Forbidden,
+Room_Attr: GATE_HH_SC: DropBug-Forbidden,BlueLizard-Forbidden,ZoopLizard-Forbidden,CyanLizard-Forbidden,hunterseeker-Forbidden,Centipede-Forbidden,RedCentipede-Forbidden,Scutigera-Forbidden,BigNeedleWorm-Forbidden,
+
+Room_Attr: HH_01: DropBug-Avoid,BlueLizard-Avoid,ZoopLizard-Avoid,CyanLizard-Avoid,hunterseeker-Avoid,Centipede-Avoid,Scutigera-Avoid,RedCentipede-Avoid,BigNeedleWorm-Avoid,
+
+Room_Attr: HH_02: DropBug-Like,Centipede-Avoid,Scutigera-Avoid,BigNeedleWorm-Avoid,
+
+Room_Attr: HH_03: DropBug-Like,Salamander-Avoid,Polliwog-Avoid,EelLizard-Avoid,EggBug-Stay,FireBug-Stay,BigNeedleWorm-Avoid,JetFish-Forbidden,
+
+Room_Attr: HH_04: DropBug-Forbidden,Salamander-Forbidden,Polliwog-Forbidden,EelLizard-Forbidden,BlueLizard-Forbidden,ZoopLizard-Forbidden,CyanLizard-Forbidden,hunterseeker-Forbidden,SmallCentipede-Forbidden,Centipede-Forbidden,Scutigera-Forbidden,JetFish-Forbidden,BigNeedleWorm-Forbidden,
+
+Room_Attr: HH_05: DropBug-Like,Overseer-Stay,BigEel-Stay,BigNeedleWorm-Stay,JetFish-Like,Salamander-Stay,Polliwog-Stay,EelLizard-Stay,SmallCentipede-Forbidden,Centipede-Forbidden,RedCentipede-Avoid,Scutigera-Forbidden,EggBug-Avoid,FireBug-Avoid,
+
+Room_Attr: HH_06: DropBug-Like,SmallCentipede-Stay,Centipede-Stay,Scutigera-Stay,RedCentipede-Like,BigNeedleWorm-Avoid,
+
+Room_Attr: HH_07: DropBug-Avoid,Centipede-Avoid,Scutigera-Avoid,BigNeedleWorm-Avoid,
+
+Room_Attr: HH_08: DropBug-Like,
+
+Room_Attr: HH_09: DropBug-Like,Overseer-Stay,Deer-Stay,BigNeedleWorm-Avoid,JetFish-Like,Salamander-Stay,Polliwog-Stay,EelLizard-Stay,SmallCentipede-Forbidden,Centipede-Forbidden,RedCentipede-Avoid,Scutigera-Forbidden,EggBug-Avoid,FireBug-Avoid,MirosBird-Forbidden,MirosVulture-Forbidden,
+
+Room_Attr: HH_10: DropBug-Like,Overseer-Avoid,BlueLizard-Forbidden,ZoopLizard-Forbidden,CyanLizard-Forbidden,hunterseeker-Forbidden,Salamander-Forbidden,Polliwog-Forbidden,EelLizard-Forbidden,WaterSpitter-Forbidden,BigNeedleWorm-Forbidden,
+
+Room_Attr: HH_11: DropBug-Avoid,BlueLizard-Avoid,ZoopLizard-Avoid,CyanLizard-Avoid,hunterseeker-Avoid,Centipede-Forbidden,RedCentipede-Avoid,Scutigera-Forbidden,BigNeedleWorm-Avoid,EggBug-Avoid,FireBug-Avoid,
+
+Room_Attr: HH_12: DropBug-Avoid,BlueLizard-Avoid,ZoopLizard-Avoid,CyanLizard-Avoid,hunterseeker-Avoid,Centipede-Forbidden,RedCentipede-Avoid,Scutigera-Forbidden,BigNeedleWorm-Avoid,
+
+Room_Attr: HH_13: BigSpider-Like,MotherSpider-Like,SpitterSpider-Like,BlueLizard-Avoid,ZoopLizard-Avoid,CyanLizard-Avoid,hunterseeker-Avoid,SmallCentipede-Stay,Centipede-Forbidden,RedCentipede-Avoid,Scutigera-Forbidden,BigNeedleWorm-Avoid,EggBug-Avoid,FireBug-Avoid,
+
+Room_Attr: HH_14: Overseer-Avoid,Salamander-Forbidden,Polliwog-Forbidden,WaterSpitter-Forbidden,EelLizard-Forbidden,AquaCenti-Forbidden,
+
+Room_Attr: HH_15: Overseer-Avoid,BigEel-Stay,Salamander-Stay,EelLizard-Stay,WaterSpitter-Forbidden,AquaCenti-Stay,JetFish-Stay,
+
+Room_Attr: HH_16: BigSpider-Avoid,MotherSpider-Avoid,SpitterSpider-Avoid,BlueLizard-Avoid,ZoopLizard-Avoid,CyanLizard-Avoid,hunterseeker-Avoid,Centipede-Forbidden,RedCentipede-Avoid,Scutigera-Forbidden,BigNeedleWorm-Avoid,EggBug-Avoid,FireBug-Avoid,
+
+Room_Attr: HH_17: JetFish-Forbidden,Salamander-Forbidden,Polliwog-Forbidden,EelLizard-Forbidden,MirosVulture-Forbidden,
+
+Room_Attr: HH_18: JetFish-Forbidden,Salamander-Forbidden,Polliwog-Forbidden,EelLizard-Forbidden,
+
+Room_Attr: HH_19: JetFish-Forbidden,Salamander-Forbidden,Polliwog-Forbidden,EelLizard-Forbidden,
+
+Room_Attr: HH_20: Overseer-Avoid,Salamander-Avoid,Polliwog-Avoid,EelLizard-Avoid,WaterSpitter-Avoid,AquaCenti-Avoid,JetFish-Avoid,
+
+Room_Attr: HH_21: Overseer-Avoid,Salamander-Avoid,Polliwog-Avoid,EelLizard-Avoid,WaterSpitter-Avoid,AquaCenti-Avoid,JetFish-Avoid,
+
+Room_Attr: HH_22: JetFish-Forbidden,Salamander-Forbidden,Polliwog-Forbidden,EelLizard-Forbidden,
+
+Room_Attr: HH_23: BigSpider-Like,MotherSpider-Like,SpitterSpider-Like,GreenLizard-Avoid,WaterSpitter-Avoid,SpitLizard-Avoid,RedLizard-Avoid,Salamander-Avoid,Polliwog-Avoid,EelLizard-Avoid,Centipede-Avoid,Scutigera-Avoid,EggBug-Stay,FireBug-Stay,BigNeedleWorm-Avoid,
+
+Room_Attr: HH_24: Overseer-Avoid,GreenLizard-Forbidden,WaterSpitter-Forbidden,SpitLizard-Forbidden,RedLizard-Forbidden,Salamander-Avoid,Polliwog-Avoid,EelLizard-Avoid,AquaCenti-Avoid,JetFish-Like,
+
+Room_Attr: HH_25: JetFish-Forbidden,Overseer-Avoid,GreenLizard-Stay,WaterSpitter-Stay,SpitLizard-Stay,RedLizard-Stay,
+
+Room_Attr: HH_26: Overseer-Stay,Deer-Stay,GreenLizard-Stay,WaterSpitter-Stay,SpitLizard-Stay,RedLizard-Stay,EggBug-Like,FireBug-Like,MirosVulture-Forbidden,BigNeedleWorm-Avoid,
+
+Room_Attr: HH_27: Overseer-Forbidden,GreenLizard-Avoid,WaterSpitter-Avoid,SpitLizard-Avoid,RedLizard-Avoid,Centipede-Avoid,Scutigera-Avoid,RedCentipede-Avoid,EggBug-Avoid,FireBug-Avoid,
+
+Room_Attr: HH_28: Overseer-Forbidden,GreenLizard-Forbidden,WaterSpitter-Forbidden,SpitLizard-Forbidden,RedLizard-Forbidden,Centipede-Forbidden,Scutigera-Forbidden,RedCentipede-Forbidden,EggBug-Forbidden,FireBug-Forbidden,MirosVulture-Forbidden,
+
+Room_Attr: HH_29: Overseer-Avoid,Salamander-Avoid,Polliwog-Avoid,EelLizard-Avoid,WaterSpitter-Avoid,AquaCenti-Avoid,JetFish-Like,
+
+Room_Attr: HH_30: GreenLizard-Forbidden,WaterSpitter-Forbidden,SpitLizard-Forbidden,RedLizard-Forbidden,
+
+Room_Attr: HH_31: Overseer-Forbidden,GreenLizard-Forbidden,WaterSpitter-Forbidden,SpitLizard-Forbidden,RedLizard-Forbidden,Centipede-Forbidden,Scutigera-Forbidden,RedCentipede-Forbidden,EggBug-Forbidden,FireBug-Forbidden,
+
+Room_Attr: HH_AAAA: JetFish-Avoid,Overseer-Avoid,Salamander-Avoid,Polliwog-Avoid,EelLizard-Avoid,WaterSpitter-Avoid,AquaCenti-Avoid,
+Room_Attr: HH_Puddle: JetFish-Avoid,Overseer-Avoid,Salamander-Avoid,EelLizard-Avoid,WaterSpitter-Avoid,AquaCenti-Avoid,Deer-Forbidden,MirosBird-Forbidden,MirosVulture-Forbidden,BigEel-Forbidden,EggBug-Forbidden,FireBug-Forbidden,
+Room_Attr: HH_WATER: JetFish-Avoid,Overseer-Avoid,Salamander-Avoid,Polliwog-Avoid,EelLizard-Avoid,WaterSpitter-Avoid,AquaCenti-Avoid,
+Room_Attr: HH_Chute: JetFish-Avoid,Overseer-Avoid,Salamander-Avoid,Polliwog-Avoid,EelLizard-Avoid,WaterSpitter-Avoid,AquaCenti-Avoid,
+Room_Attr: HH_AB: JetFish-Avoid,Overseer-Avoid,Salamander-Forbidden,Polliwog-Avoid,EelLizard-Forbidden,WaterSpitter-Forbidden,AquaCenti-Forbidden,
+
+Room_Attr: HH_Acid: BigNeedleWorm-Avoid,
+Room_Attr: HH_UF: BigNeedleWorm-Avoid,
+
+Room_Attr: HH_Between: BigNeedleWorm-Avoid,BlueLizard-Avoid,ZoopLizard-Avoid,CyanLizard-Avoid,hunterseeker-Avoid,
+Room_Attr: HH_Entrance: BigNeedleWorm-Avoid,BlueLizard-Avoid,ZoopLizard-Avoid,CyanLizard-Avoid,hunterseeker-Avoid,
+
+Room_Attr: HH_C: EelLizard-Avoid,
+
+Room_Attr: HH_Cabinets: Overseer-Avoid,MirosBird-Stay,MirosVulture-Stay,Deer-Forbidden,BlueLizard-Avoid,ZoopLizard-Avoid,CyanLizard-Avoid,hunterseeker-Avoid,BigNeedleWorm-Avoid,Centipede-Forbidden,Scutigera-Forbidden,RedCentipede-Avoid,
+Room_Attr: HH_Four: Overseer-Avoid,MirosVulture-Stay,BlueLizard-Avoid,ZoopLizard-Avoid,CyanLizard-Avoid,hunterseeker-Avoid,BigNeedleWorm-Avoid,Centipede-Forbidden,Scutigera-Forbidden,RedCentipede-Avoid,
+Room_Attr: HH_Deepinets: Overseer-Avoid,MirosBird-Stay,MirosVulture-Stay,Deer-Forbidden,BlueLizard-Avoid,ZoopLizard-Avoid,CyanLizard-Avoid,hunterseeker-Avoid,BigNeedleWorm-Avoid,Centipede-Forbidden,Scutigera-Forbidden,RedCentipede-Avoid,
+Room_Attr: HH_L: Overseer-Avoid,MirosBird-Stay,MirosVulture-Stay,Deer-Forbidden,BlueLizard-Avoid,ZoopLizard-Avoid,CyanLizard-Avoid,hunterseeker-Avoid,BigNeedleWorm-Avoid,Centipede-Forbidden,Scutigera-Forbidden,RedCentipede-Avoid,
+
+Room_Attr: HH_Cables: BigNeedleWorm-Avoid,EggBug-Like,FireBug-Like,
+
+Room_Attr: HH_Connection: BigNeedleWorm-Avoid,BlueLizard-Avoid,ZoopLizard-Avoid,CyanLizard-Avoid,hunterseeker-Avoid,
+Room_Attr: HH_CoConnection: BigNeedleWorm-Avoid,BlueLizard-Avoid,ZoopLizard-Avoid,CyanLizard-Avoid,hunterseeker-Avoid,
+
+Room_Attr: HH_Lab: Overseer-Like,BigNeedleWorm-Avoid,
+Room_Attr: HH_CoLab: Overseer-Like,BigNeedleWorm-Avoid,MirosVulture-Forbidden,
+
+Room_Attr: HH_SIU: Overseer-Avoid,BigNeedleWorm-Forbidden,BlueLizard-Forbidden,ZoopLizard-Forbidden,CyanLizard-Forbidden,hunterseeker-Forbidden,EggBug-Forbidden,FireBug-Forbidden,
+Room_Attr: HH_Statue: Overseer-Like,BigNeedleWorm-Avoid,
+Room_Attr: HH_Elevator: Overseer-Like,BigNeedleWorm-Avoid,SmallCentipede-Stay,Centipede-Stay,Scutigera-Stay,
+
+Room_Attr: HH_Extend: BigNeedleWorm-Avoid,SmallCentipede-Stay,Centipede-Stay,Scutigera-Stay,GreenLizard-Stay,WaterSpitter-Stay,SpitLizard-Stay,RedLizard-Stay,
+
+Room_Attr: HH_H: Overseer-Stay,Deer-Stay,MirosBird-Forbidden,MirosVulture-Forbidden,BigNeedleWorm-Avoid,
+
+Room_Attr: HH_Machine: Overseer-Forbidden,
+
+Room_Attr: HH_SC: BigNeedleWorm-Avoid,Centipede-Avoid,Scutigera-Avoid,BlueLizard-Avoid,ZoopLizard-Avoid,CyanLizard-Avoid,hunterseeker-Avoid,
+
+Room_Attr: HH_Shelter: BigNeedleWorm-Avoid,BlueLizard-Avoid,ZoopLizard-Avoid,CyanLizard-Avoid,hunterseeker-Avoid,
+
+Room_Attr: HH_U: DropBug-Like,BigNeedleWorm-Avoid,BigSpider-Like,MotherSpider-Like,SpitterSpider-Like,Centipede-Like,Scutigera-Like,EggBug-Like,FireBug-Like,

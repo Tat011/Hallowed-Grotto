@@ -1,0 +1,1432 @@
+CONDITIONAL LINKS
+//Spearmaster rooms
+Spear : REPLACEROOM : HH_01 : HH_01_Spear
+Spear : REPLACEROOM : HH_02 : HH_02_Spear
+Spear : REPLACEROOM : HH_03 : HH_03_Spear
+Spear : REPLACEROOM : HH_04 : HH_04_Spear
+Spear : REPLACEROOM : HH_05 : HH_05_Spear
+Spear : REPLACEROOM : HH_06 : HH_06_Spear
+Spear : REPLACEROOM : HH_07 : HH_07_Spear
+Spear : REPLACEROOM : HH_08 : HH_08_Spear
+Spear : REPLACEROOM : HH_09 : HH_09_Spear
+Spear : REPLACEROOM : HH_10 : HH_10_Spear
+Spear : REPLACEROOM : HH_12 : HH_12_Spear
+Spear : REPLACEROOM : HH_13 : HH_13_Spear
+Spear : REPLACEROOM : HH_14 : HH_14_Spear
+Spear : REPLACEROOM : HH_15 : HH_15_Spear
+Spear : REPLACEROOM : HH_16 : HH_16_Spear
+Spear : REPLACEROOM : HH_17 : HH_17_Spear
+Spear : REPLACEROOM : HH_18 : HH_18_Spear
+Spear : REPLACEROOM : HH_19 : HH_19_Spear
+Spear : REPLACEROOM : HH_20 : HH_20_Spear
+Spear : REPLACEROOM : HH_21 : HH_21_Spear
+Spear : REPLACEROOM : HH_22 : HH_22_Spear
+Spear : REPLACEROOM : HH_23 : HH_23_Spear
+Spear : REPLACEROOM : HH_24 : HH_24_Spear
+Spear : REPLACEROOM : HH_25 : HH_25_Spear
+Spear : REPLACEROOM : HH_26 : HH_26_Spear
+Spear : REPLACEROOM : HH_29 : HH_29_Spear
+
+Spear : REPLACEROOM : HH_AAAA : HH_AAAA_Spear
+Spear : REPLACEROOM : HH_Puddle : HH_Puddle_Spear
+Spear : REPLACEROOM : HH_WATER : HH_WATER_Spear
+
+Spear : REPLACEROOM : HH_Cables : HH_Cables_Spear
+Spear : REPLACEROOM : HH_Entrance : HH_Entrance_Spear
+Spear : REPLACEROOM : HH_Extend : HH_Extend_Spear
+Spear : REPLACEROOM : HH_H : HH_H_Spear
+Spear : REPLACEROOM : HH_U : HH_U_Spear
+Spear : REPLACEROOM : HH_Shelter : HH_Shelter_Spear
+
+//Spearmaster Lab
+Spear : REPLACEROOM : HH_Lab : HH_Lab_Spear
+Spear : REPLACEROOM : HH_CoLab : HH_CoLab_Spear
+Spear : REPLACEROOM : HH_Statue : HH_Statue_Spear
+Spear : REPLACEROOM : HH_Elevator : HH_Elevator_Spear
+Spear : REPLACEROOM : HH_SIU : HH_SIU_Spear
+
+Spear : REPLACEROOM : HH_Connection : HH_Connection_Spear
+Spear : REPLACEROOM : HH_CoConnection : HH_CoConnection_Spear
+
+//Spearmaster Unstable System
+Spear : REPLACEROOM : HH_Between : HH_Between_Spear
+Spear : REPLACEROOM : HH_Machine : HH_Machine_Spear
+Spear : REPLACEROOM : HH_Cabinets : HH_Cabinets_Spear
+Spear : REPLACEROOM : HH_Deepinets : HH_Deepinets_Spear
+Spear : REPLACEROOM : HH_Four : HH_Four_Spear
+Spear : REPLACEROOM : HH_L : HH_L_Spear
+
+//Spearmaster UF
+Spear : REPLACEROOM : HH_Acid : HH_Acid_Spear
+Spear : REPLACEROOM : HH_UF : HH_UF_Spear
+Spear : REPLACEROOM : GATE_HH_UF : GATE_HH_UF_Spear
+
+//Spearmaster SC
+Spear : REPLACEROOM : GATE_HH_SC : GATE_HH_SC_Spear
+
+//Spearmaster AB
+Spear : REPLACEROOM : GATE_AB_HH : GATE_AB_HH_Spear
+
+//Spearmaster shelters
+Spear : REPLACEROOM : HH_S01 : HH_S01_Spear
+Spear : REPLACEROOM : HH_S04 : HH_S04_Spear
+
+//Spearmaster gates
+Spear : REPLACEROOM : GATE_HH_GW : GATE_HH_GW_Spear
+Spear : REPLACEROOM : GATE_DS_HH : GATE_DS_HH_Spear
+Spear : REPLACEROOM : GATE_SB_HH : GATE_SB_HH_Spear
+Spear : REPLACEROOM : GATE_HH_SL : GATE_HH_SL_Spear
+
+//Artificer rooms
+Artificer : REPLACEROOM : HH_01 : HH_01_Arti
+Artificer : REPLACEROOM : HH_02 : HH_02_Arti
+Artificer : REPLACEROOM : HH_03 : HH_03_Arti
+Artificer : REPLACEROOM : HH_04 : HH_04_Arti
+Artificer : REPLACEROOM : HH_05 : HH_05_Arti
+Artificer : REPLACEROOM : HH_06 : HH_06_Arti
+Artificer : REPLACEROOM : HH_07 : HH_07_Arti
+Artificer : REPLACEROOM : HH_08 : HH_08_Arti
+Artificer : REPLACEROOM : HH_09 : HH_09_Arti
+Artificer : REPLACEROOM : HH_10 : HH_10_Arti
+Artificer : REPLACEROOM : HH_12 : HH_12_Arti
+Artificer : REPLACEROOM : HH_13 : HH_13_Arti
+Artificer : REPLACEROOM : HH_14 : HH_14_Arti
+Artificer : REPLACEROOM : HH_15 : HH_15_Arti
+Artificer : REPLACEROOM : HH_16 : HH_16_Arti
+Artificer : REPLACEROOM : HH_17 : HH_17_Arti
+Artificer : REPLACEROOM : HH_18 : HH_18_Arti
+Artificer : REPLACEROOM : HH_19 : HH_19_Arti
+Artificer : REPLACEROOM : HH_20 : HH_20_Arti
+Artificer : REPLACEROOM : HH_21 : HH_21_Arti
+Artificer : REPLACEROOM : HH_22 : HH_22_Arti
+Artificer : REPLACEROOM : HH_23 : HH_23_Arti
+Artificer : REPLACEROOM : HH_24 : HH_24_Arti
+Artificer : REPLACEROOM : HH_25 : HH_25_Arti
+Artificer : REPLACEROOM : HH_26 : HH_26_Arti
+Artificer : REPLACEROOM : HH_29 : HH_29_Arti
+
+Artificer : REPLACEROOM : HH_AAAA : HH_AAAA_Arti
+Artificer : REPLACEROOM : HH_Puddle : HH_Puddle_Arti
+Artificer : REPLACEROOM : HH_WATER : HH_WATER_Arti
+
+Artificer : REPLACEROOM : HH_Cables : HH_Cables_Arti
+Artificer : REPLACEROOM : HH_Entrance : HH_Entrance_Arti
+Artificer : REPLACEROOM : HH_Extend : HH_Extend_Arti
+Artificer : REPLACEROOM : HH_H : HH_H_Arti
+Artificer : REPLACEROOM : HH_U : HH_U_Arti
+Artificer : REPLACEROOM : HH_Shelter : HH_Shelter_Arti
+
+//Artificer Lab
+Artificer : REPLACEROOM : HH_Lab : HH_Lab_Arti
+Artificer : REPLACEROOM : HH_CoLab : HH_CoLab_Arti
+Artificer : REPLACEROOM : HH_Statue : HH_Statue_Arti
+Artificer : REPLACEROOM : HH_Elevator : HH_Elevator_Arti
+Artificer : REPLACEROOM : HH_SIU : HH_SIU_Arti
+
+Artificer : REPLACEROOM : HH_Connection : HH_Connection_Arti
+Artificer : REPLACEROOM : HH_CoConnection : HH_CoConnection_Arti
+
+//Artificer Unstable System
+Artificer : REPLACEROOM : HH_Between : HH_Between_Arti
+Artificer : REPLACEROOM : HH_Machine : HH_Machine_Arti
+Artificer : REPLACEROOM : HH_Cabinets : HH_Cabinets_Arti
+Artificer : REPLACEROOM : HH_Deepinets : HH_Deepinets_Arti
+Artificer : REPLACEROOM : HH_Four : HH_Four_Arti
+Artificer : REPLACEROOM : HH_L : HH_L_Arti
+
+//Artificer UF
+Artificer : REPLACEROOM : HH_Acid : HH_Acid_Arti
+Artificer : REPLACEROOM : HH_UF : HH_UF_Arti
+Artificer : REPLACEROOM : GATE_HH_UF : GATE_HH_UF_Arti
+
+//Artificer SC
+Artificer : REPLACEROOM : GATE_HH_SC : GATE_HH_SC_Arti
+
+//Artificer AB
+Artificer : REPLACEROOM : GATE_AB_HH : GATE_AB_HH_Arti
+
+//Artificer shelters
+Artificer : REPLACEROOM : HH_S01 : HH_S01_Arti
+Artificer : REPLACEROOM : HH_S04 : HH_S04_Arti
+
+//Artificer gates
+Artificer : REPLACEROOM : GATE_HH_GW : GATE_HH_GW_Arti
+Artificer : REPLACEROOM : GATE_DS_HH : GATE_DS_HH_Arti
+Artificer : REPLACEROOM : GATE_SB_HH : GATE_SB_HH_Arti
+Artificer : REPLACEROOM : GATE_HH_SL : GATE_HH_SL_Arti
+
+//Hunter rooms
+Red : REPLACEROOM : HH_01 : HH_01_Hunter
+Red : REPLACEROOM : HH_02 : HH_02_Hunter
+Red : REPLACEROOM : HH_03 : HH_03_Hunter
+Red : REPLACEROOM : HH_04 : HH_04_Hunter
+Red : REPLACEROOM : HH_05 : HH_05_Hunter
+Red : REPLACEROOM : HH_06 : HH_06_Hunter
+Red : REPLACEROOM : HH_07 : HH_07_Hunter
+Red : REPLACEROOM : HH_08 : HH_08_Hunter
+Red : REPLACEROOM : HH_09 : HH_09_Hunter
+Red : REPLACEROOM : HH_10 : HH_10_Hunter
+Red : REPLACEROOM : HH_11 : HH_11_Hunter
+Red : REPLACEROOM : HH_12 : HH_12_Hunter
+Red : REPLACEROOM : HH_13 : HH_13_Hunter
+Red : REPLACEROOM : HH_14 : HH_14_Hunter
+Red : REPLACEROOM : HH_15 : HH_15_Hunter
+Red : REPLACEROOM : HH_16 : HH_16_Hunter
+Red : REPLACEROOM : HH_17 : HH_17_Hunter
+Red : REPLACEROOM : HH_18 : HH_18_Hunter
+Red : REPLACEROOM : HH_19 : HH_19_Hunter
+Red : REPLACEROOM : HH_20 : HH_20_Hunter
+Red : REPLACEROOM : HH_21 : HH_21_Hunter
+Red : REPLACEROOM : HH_22 : HH_22_Hunter
+Red : REPLACEROOM : HH_23 : HH_23_Hunter
+Red : REPLACEROOM : HH_24 : HH_24_Hunter
+Red : REPLACEROOM : HH_25 : HH_25_Hunter
+Red : REPLACEROOM : HH_26 : HH_26_Hunter
+Red : REPLACEROOM : HH_29 : HH_29_Hunter
+
+Red : REPLACEROOM : HH_AAAA : HH_AAAA_Hunter
+Red : REPLACEROOM : HH_Puddle : HH_Puddle_Hunter
+Red : REPLACEROOM : HH_WATER : HH_WATER_Hunter
+
+Red : REPLACEROOM : HH_Cables : HH_Cables_Hunter
+Red : REPLACEROOM : HH_Entrance : HH_Entrance_Hunter
+Red : REPLACEROOM : HH_Extend : HH_Extend_Hunter
+Red : REPLACEROOM : HH_H : HH_H_Hunter
+Red : REPLACEROOM : HH_U : HH_U_Hunter
+Red : REPLACEROOM : HH_Shelter : HH_Shelter_Hunter
+
+//Hunter Lab
+Red : REPLACEROOM : HH_Lab : HH_Lab_Hunter
+Red : REPLACEROOM : HH_CoLab : HH_CoLab_Hunter
+Red : REPLACEROOM : HH_Statue : HH_Statue_Hunter
+Red : REPLACEROOM : HH_Elevator : HH_Elevator_Hunter
+Red : REPLACEROOM : HH_SIU : HH_SIU_Hunter
+
+Red : REPLACEROOM : HH_Connection : HH_Connection_Hunter
+Red : REPLACEROOM : HH_CoConnection : HH_CoConnection_Hunter
+
+//Hunter Unstable System
+Red : REPLACEROOM : HH_Between : HH_Between_Hunter
+Red : REPLACEROOM : HH_Machine : HH_Machine_Hunter
+Red : REPLACEROOM : HH_Cabinets : HH_Cabinets_Hunter
+Red : REPLACEROOM : HH_Deepinets : HH_Deepinets_Hunter
+Red : REPLACEROOM : HH_Four : HH_Four_Hunter
+Red : REPLACEROOM : HH_L : HH_L_Hunter
+
+//Hunter UF
+Red : REPLACEROOM : HH_Acid : HH_Acid_Hunter
+Red : REPLACEROOM : HH_UF : HH_UF_Hunter
+Red : REPLACEROOM : GATE_HH_UF : GATE_HH_UF_Hunter
+
+//Hunter SC
+Red : REPLACEROOM : GATE_HH_SC : GATE_HH_SC_Hunter
+
+//Hunter AB
+Red : REPLACEROOM : GATE_AB_HH : GATE_AB_HH_Hunter
+
+//Hunter shelters
+Red : REPLACEROOM : HH_S01 : HH_S01_Hunter
+Red : REPLACEROOM : HH_S04 : HH_S04_Hunter
+
+//Hunter gates
+Red : REPLACEROOM : GATE_HH_GW : GATE_HH_GW_Hunter
+Red : REPLACEROOM : GATE_DS_HH : GATE_DS_HH_Hunter
+Red : REPLACEROOM : GATE_SB_HH : GATE_SB_HH_Hunter
+Red : REPLACEROOM : GATE_HH_SL : GATE_HH_SL_Hunter
+
+//Gourmand rooms
+Gourmand : REPLACEROOM : HH_01 : HH_01_Gourmand
+Gourmand : REPLACEROOM : HH_02 : HH_02_Gourmand
+Gourmand : REPLACEROOM : HH_03 : HH_03_Gourmand
+Gourmand : REPLACEROOM : HH_04 : HH_04_Gourmand
+Gourmand : REPLACEROOM : HH_05 : HH_05_Gourmand
+Gourmand : REPLACEROOM : HH_06 : HH_06_Gourmand
+Gourmand : REPLACEROOM : HH_07 : HH_07_Gourmand
+Gourmand : REPLACEROOM : HH_08 : HH_08_Gourmand
+Gourmand : REPLACEROOM : HH_09 : HH_09_Gourmand
+Gourmand : REPLACEROOM : HH_10 : HH_10_Gourmand
+Gourmand : REPLACEROOM : HH_11 : HH_11_Gourmand
+Gourmand : REPLACEROOM : HH_12 : HH_12_Gourmand
+Gourmand : REPLACEROOM : HH_13 : HH_13_Gourmand
+Gourmand : REPLACEROOM : HH_14 : HH_14_Gourmand
+Gourmand : REPLACEROOM : HH_15 : HH_15_Gourmand
+Gourmand : REPLACEROOM : HH_16 : HH_16_Gourmand
+Gourmand : REPLACEROOM : HH_17 : HH_17_Gourmand
+Gourmand : REPLACEROOM : HH_18 : HH_18_Gourmand
+Gourmand : REPLACEROOM : HH_19 : HH_19_Gourmand
+Gourmand : REPLACEROOM : HH_20 : HH_20_Gourmand
+Gourmand : REPLACEROOM : HH_21 : HH_21_Gourmand
+Gourmand : REPLACEROOM : HH_22 : HH_22_Gourmand
+Gourmand : REPLACEROOM : HH_23 : HH_23_Gourmand
+Gourmand : REPLACEROOM : HH_24 : HH_24_Gourmand
+Gourmand : REPLACEROOM : HH_25 : HH_25_Gourmand
+Gourmand : REPLACEROOM : HH_26 : HH_26_Gourmand
+Gourmand : REPLACEROOM : HH_29 : HH_29_Gourmand
+
+Gourmand : REPLACEROOM : HH_AAAA : HH_AAAA_Gourmand
+Gourmand : REPLACEROOM : HH_Puddle : HH_Puddle_Gourmand
+Gourmand : REPLACEROOM : HH_WATER : HH_WATER_Gourmand
+
+Gourmand : REPLACEROOM : HH_Cables : HH_Cables_Gourmand
+Gourmand : REPLACEROOM : HH_Entrance : HH_Entrance_Gourmand
+Gourmand : REPLACEROOM : HH_Extend : HH_Extend_Gourmand
+Gourmand : REPLACEROOM : HH_H : HH_H_Gourmand
+Gourmand : REPLACEROOM : HH_U : HH_U_Gourmand
+Gourmand : REPLACEROOM : HH_Shelter : HH_Shelter_Gourmand
+
+//Gourmand Lab
+Gourmand : REPLACEROOM : HH_Lab : HH_Lab_Gourmand
+Gourmand : REPLACEROOM : HH_CoLab : HH_CoLab_Gourmand
+Gourmand : REPLACEROOM : HH_Statue : HH_Statue_Gourmand
+Gourmand : REPLACEROOM : HH_Elevator : HH_Elevator_Gourmand
+Gourmand : REPLACEROOM : HH_SIU : HH_SIU_Gourmand
+
+Gourmand : REPLACEROOM : HH_Connection : HH_Connection_Gourmand
+Gourmand : REPLACEROOM : HH_CoConnection : HH_CoConnection_Gourmand
+
+//Gourmand Unstable System
+Gourmand : REPLACEROOM : HH_Between : HH_Between_Gourmand
+Gourmand : REPLACEROOM : HH_Machine : HH_Machine_Gourmand
+Gourmand : REPLACEROOM : HH_Cabinets : HH_Cabinets_Gourmand
+Gourmand : REPLACEROOM : HH_Deepinets : HH_Deepinets_Gourmand
+Gourmand : REPLACEROOM : HH_Four : HH_Four_Gourmand
+Gourmand : REPLACEROOM : HH_L : HH_L_Gourmand
+
+//Gourmand UF
+Gourmand : REPLACEROOM : HH_Acid : HH_Acid_Gourmand
+Gourmand : REPLACEROOM : HH_UF : HH_UF_Gourmand
+Gourmand : REPLACEROOM : GATE_HH_UF : GATE_HH_UF_Gourmand
+
+//Gourmand SC
+Gourmand : REPLACEROOM : GATE_HH_SC : GATE_HH_SC_Gourmand
+
+//Gourmand AB
+Gourmand : REPLACEROOM : GATE_AB_HH : GATE_AB_HH_Gourmand
+
+//Gourmand shelters
+Gourmand : REPLACEROOM : HH_S01 : HH_S01_Gourmand
+Gourmand : REPLACEROOM : HH_S04 : HH_S04_Gourmand
+
+//Gourmand gates
+Gourmand : REPLACEROOM : GATE_HH_GW : GATE_HH_GW_Gourmand
+Gourmand : REPLACEROOM : GATE_DS_HH : GATE_DS_HH_Gourmand
+Gourmand : REPLACEROOM : GATE_SB_HH : GATE_SB_HH_Gourmand
+Gourmand : REPLACEROOM : GATE_HH_SL : GATE_HH_SL_Gourmand
+
+//Monk rooms
+Yellow : REPLACEROOM : HH_01 : HH_01_Monk
+Yellow : REPLACEROOM : HH_02 : HH_02_Monk
+Yellow : REPLACEROOM : HH_03 : HH_03_Monk
+Yellow : REPLACEROOM : HH_04 : HH_04_Monk
+Yellow : REPLACEROOM : HH_05 : HH_05_Monk
+Yellow : REPLACEROOM : HH_06 : HH_06_Monk
+Yellow : REPLACEROOM : HH_07 : HH_07_Monk
+Yellow : REPLACEROOM : HH_08 : HH_08_Monk
+Yellow : REPLACEROOM : HH_09 : HH_09_Monk
+Yellow : REPLACEROOM : HH_10 : HH_10_Monk
+Yellow : REPLACEROOM : HH_11 : HH_11_Monk
+Yellow : REPLACEROOM : HH_12 : HH_12_Monk
+Yellow : REPLACEROOM : HH_13 : HH_13_Monk
+Yellow : REPLACEROOM : HH_14 : HH_14_Monk
+Yellow : REPLACEROOM : HH_15 : HH_15_Monk
+Yellow : REPLACEROOM : HH_16 : HH_16_Monk
+Yellow : REPLACEROOM : HH_17 : HH_17_Monk
+Yellow : REPLACEROOM : HH_18 : HH_18_Monk
+Yellow : REPLACEROOM : HH_19 : HH_19_Monk
+Yellow : REPLACEROOM : HH_20 : HH_20_Monk
+Yellow : REPLACEROOM : HH_21 : HH_21_Monk
+Yellow : REPLACEROOM : HH_22 : HH_22_Monk
+Yellow : REPLACEROOM : HH_23 : HH_23_Monk
+Yellow : REPLACEROOM : HH_24 : HH_24_Monk
+Yellow : REPLACEROOM : HH_25 : HH_25_Monk
+Yellow : REPLACEROOM : HH_26 : HH_26_Monk
+Yellow : REPLACEROOM : HH_29 : HH_29_Monk
+
+Yellow : REPLACEROOM : HH_AAAA : HH_AAAA_Monk
+Yellow : REPLACEROOM : HH_Puddle : HH_Puddle_Monk
+Yellow : REPLACEROOM : HH_WATER : HH_WATER_Monk
+
+Yellow : REPLACEROOM : HH_Cables : HH_Cables_Monk
+Yellow : REPLACEROOM : HH_Entrance : HH_Entrance_Monk
+Yellow : REPLACEROOM : HH_Extend : HH_Extend_Monk
+Yellow : REPLACEROOM : HH_H : HH_H_Monk
+Yellow : REPLACEROOM : HH_U : HH_U_Monk
+Yellow : REPLACEROOM : HH_Shelter : HH_Shelter_Monk
+
+//Monk Lab
+Yellow : REPLACEROOM : HH_Lab : HH_Lab_Monk
+Yellow : REPLACEROOM : HH_CoLab : HH_CoLab_Monk
+Yellow : REPLACEROOM : HH_Statue : HH_Statue_Monk
+Yellow : REPLACEROOM : HH_Elevator : HH_Elevator_Monk
+Yellow : REPLACEROOM : HH_SIU : HH_SIU_Monk
+
+Yellow : REPLACEROOM : HH_Connection : HH_Connection_Monk
+Yellow : REPLACEROOM : HH_CoConnection : HH_CoConnection_Monk
+
+//Monk Unstable System
+Yellow : REPLACEROOM : HH_Between : HH_Between_Monk
+Yellow : REPLACEROOM : HH_Machine : HH_Machine_Monk
+Yellow : REPLACEROOM : HH_Cabinets : HH_Cabinets_Monk
+Yellow : REPLACEROOM : HH_Deepinets : HH_Deepinets_Monk
+Yellow : REPLACEROOM : HH_Four : HH_Four_Monk
+Yellow : REPLACEROOM : HH_L : HH_L_Monk
+
+//Monk UF
+Yellow : REPLACEROOM : HH_Acid : HH_Acid_Monk
+Yellow : REPLACEROOM : HH_UF : HH_UF_Monk
+Yellow : REPLACEROOM : GATE_HH_UF : GATE_HH_UF_Monk
+
+//Monk SC
+Yellow : REPLACEROOM : GATE_HH_SC : GATE_HH_SC_Monk
+
+//Monk AB
+Yellow : REPLACEROOM : GATE_AB_HH : GATE_AB_HH_Monk
+
+//Monk shelters
+Yellow : REPLACEROOM : HH_S01 : HH_S01_Monk
+Yellow : REPLACEROOM : HH_S04 : HH_S04_Monk
+
+//Monk gates
+Yellow : REPLACEROOM : GATE_HH_GW : GATE_HH_GW_Monk
+Yellow : REPLACEROOM : GATE_DS_HH : GATE_DS_HH_Monk
+Yellow : REPLACEROOM : GATE_SB_HH : GATE_SB_HH_Monk
+Yellow : REPLACEROOM : GATE_HH_SL : GATE_HH_SL_Monk
+
+//Rivulet rooms
+Rivulet : REPLACEROOM : HH_01 : HH_01_Riv
+Rivulet : REPLACEROOM : HH_02 : HH_02_Riv
+Rivulet : REPLACEROOM : HH_03 : HH_03_Riv
+Rivulet : REPLACEROOM : HH_04 : HH_04_Riv
+Rivulet : REPLACEROOM : HH_05 : HH_05_Riv
+Rivulet : REPLACEROOM : HH_06 : HH_06_Riv
+Rivulet : REPLACEROOM : HH_07 : HH_07_Riv
+Rivulet : REPLACEROOM : HH_08 : HH_08_Riv
+Rivulet : REPLACEROOM : HH_09 : HH_09_Riv
+Rivulet : REPLACEROOM : HH_10 : HH_10_Riv
+Rivulet : REPLACEROOM : HH_11 : HH_11_Riv
+Rivulet : REPLACEROOM : HH_12 : HH_12_Riv
+Rivulet : REPLACEROOM : HH_13 : HH_13_Riv
+Rivulet : REPLACEROOM : HH_14 : HH_14_Riv
+Rivulet : REPLACEROOM : HH_15 : HH_15_Riv
+Rivulet : REPLACEROOM : HH_16 : HH_16_Riv
+Rivulet : REPLACEROOM : HH_17 : HH_17_Riv
+Rivulet : REPLACEROOM : HH_18 : HH_18_Riv
+Rivulet : REPLACEROOM : HH_19 : HH_19_Riv
+Rivulet : REPLACEROOM : HH_20 : HH_20_Riv
+Rivulet : REPLACEROOM : HH_21 : HH_21_Riv
+Rivulet : REPLACEROOM : HH_22 : HH_22_Riv
+Rivulet : REPLACEROOM : HH_23 : HH_23_Riv
+Rivulet : REPLACEROOM : HH_24 : HH_24_Riv
+Rivulet : REPLACEROOM : HH_25 : HH_25_Riv
+Rivulet : REPLACEROOM : HH_26 : HH_26_Riv
+Rivulet : REPLACEROOM : HH_28 : HH_28_Riv
+Rivulet : REPLACEROOM : HH_29 : HH_29_Riv
+
+Rivulet : REPLACEROOM : HH_AAAA : HH_AAAA_Riv
+Rivulet : REPLACEROOM : HH_Puddle : HH_Puddle_Riv
+Rivulet : REPLACEROOM : HH_WATER : HH_WATER_Riv
+
+Rivulet : REPLACEROOM : HH_Cables : HH_Cables_Riv
+Rivulet : REPLACEROOM : HH_Entrance : HH_Entrance_Riv
+Rivulet : REPLACEROOM : HH_Extend : HH_Extend_Riv
+Rivulet : REPLACEROOM : HH_H : HH_H_Riv
+Rivulet : REPLACEROOM : HH_U : HH_U_Riv
+Rivulet : REPLACEROOM : HH_Shelter : HH_Shelter_Riv
+
+//Rivulet Lab
+Rivulet : REPLACEROOM : HH_Lab : HH_Lab_Riv
+Rivulet : REPLACEROOM : HH_CoLab : HH_CoLab_Riv
+Rivulet : REPLACEROOM : HH_Statue : HH_Statue_Riv
+Rivulet : REPLACEROOM : HH_Elevator : HH_Elevator_Riv
+Rivulet : REPLACEROOM : HH_SIU : HH_SIU_Riv
+
+Rivulet : REPLACEROOM : HH_Connection : HH_Connection_Riv
+Rivulet : REPLACEROOM : HH_CoConnection : HH_CoConnection_Riv
+
+//Rivulet Unstable System
+Rivulet : REPLACEROOM : HH_Between : HH_Between_Riv
+Rivulet : REPLACEROOM : HH_Machine : HH_Machine_Riv
+Rivulet : REPLACEROOM : HH_Cabinets : HH_Cabinets_Riv
+Rivulet : REPLACEROOM : HH_Deepinets : HH_Deepinets_Riv
+Rivulet : REPLACEROOM : HH_Four : HH_Four_Riv
+Rivulet : REPLACEROOM : HH_L : HH_L_Riv
+
+//Rivulet UF
+Rivulet : REPLACEROOM : HH_Acid : HH_Acid_Riv
+Rivulet : REPLACEROOM : HH_UF : HH_UF_Riv
+Rivulet : REPLACEROOM : GATE_HH_UF : GATE_HH_UF_Riv
+
+//Rivulet SC
+Rivulet : REPLACEROOM : GATE_HH_SC : GATE_HH_SC_Riv
+
+//Rivulet AB
+Rivulet : REPLACEROOM : GATE_AB_HH : GATE_AB_HH_Riv
+
+//Rivulet shelters
+Rivulet : REPLACEROOM : HH_S01 : HH_S01_Riv
+Rivulet : REPLACEROOM : HH_S04 : HH_S04_Riv
+
+//Rivulet gates
+Rivulet : REPLACEROOM : GATE_HH_GW : GATE_HH_GW_Riv
+Rivulet : REPLACEROOM : GATE_DS_HH : GATE_DS_HH_Riv
+Rivulet : REPLACEROOM : GATE_SB_HH : GATE_SB_HH_Riv
+Rivulet : REPLACEROOM : GATE_HH_SL : GATE_HH_SL_Riv
+
+//Gravel-Eater/Outsider rooms
+Gravelslug,Outsider : REPLACEROOM : HH_01 : HH_01_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_02 : HH_02_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_03 : HH_03_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_04 : HH_04_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_05 : HH_05_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_06 : HH_06_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_07 : HH_07_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_08 : HH_08_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_09 : HH_09_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_10 : HH_10_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_11 : HH_11_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_12 : HH_12_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_13 : HH_13_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_14 : HH_14_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_15 : HH_15_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_16 : HH_16_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_17 : HH_17_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_18 : HH_18_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_19 : HH_19_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_20 : HH_20_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_21 : HH_21_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_22 : HH_22_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_23 : HH_23_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_24 : HH_24_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_25 : HH_25_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_26 : HH_26_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_27 : HH_28_Riv
+Gravelslug,Outsider : REPLACEROOM : HH_29 : HH_29_Gravel
+
+Gravelslug,Outsider : REPLACEROOM : HH_AAAA : HH_AAAA_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_Puddle : HH_Puddle_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_WATER : HH_WATER_Gravel
+
+Gravelslug,Outsider : REPLACEROOM : HH_Cables : HH_Cables_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_Entrance : HH_Entrance_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_Extend : HH_Extend_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_H : HH_H_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_U : HH_U_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_Shelter : HH_Shelter_Gravel
+
+//Gravel-Eater Lab
+Gravelslug,Outsider : REPLACEROOM : HH_Lab : HH_Lab_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_CoLab : HH_CoLab_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_Statue : HH_Statue_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_Elevator : HH_Elevator_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_SIU : HH_SIU_Gravel
+
+Gravelslug,Outsider : REPLACEROOM : HH_Connection : HH_Connection_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_CoConnection : HH_CoConnection_Gravel
+
+//Gravel-Eater Unstable System
+Gravelslug,Outsider : REPLACEROOM : HH_Between : HH_Between_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_Machine : HH_Machine_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_Cabinets : HH_Cabinets_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_Deepinets : HH_Deepinets_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_Four : HH_Four_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_L : HH_L_Gravel
+
+//Gravel-Eater UF
+Gravelslug,Outsider : REPLACEROOM : HH_Acid : HH_Acid_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_UF : HH_UF_Riv
+Gravelslug,Outsider : REPLACEROOM : GATE_HH_UF : GATE_HH_UF_Gravel
+
+//Gravel-Eater SC
+Gravelslug,Outsider : REPLACEROOM : GATE_HH_SC : GATE_HH_SC_Gravel
+
+//Gravel-Eater AB
+Gravelslug,Outsider : REPLACEROOM : GATE_AB_HH : GATE_AB_HH_Gravel
+
+//Gravel-Eater shelters
+Gravelslug,Outsider : REPLACEROOM : HH_S01 : HH_S01_Gravel
+Gravelslug,Outsider : REPLACEROOM : HH_S04 : HH_S04_Gravel
+
+//Gravel-Eater gates
+Gravelslug,Outsider : REPLACEROOM : GATE_HH_GW : GATE_HH_GW_Gravel
+Gravelslug,Outsider : REPLACEROOM : GATE_DS_HH : GATE_DS_HH_Gravel
+Gravelslug,Outsider : REPLACEROOM : GATE_SB_HH : GATE_SB_HH_Gravel
+Gravelslug,Outsider : REPLACEROOM : GATE_HH_SL : GATE_HH_SL_Gravel
+
+//Saint rooms
+Saint : REPLACEROOM : HH_01 : HH_01_Saint
+Saint : REPLACEROOM : HH_02 : HH_02_Saint
+Saint : REPLACEROOM : HH_03 : HH_03_Saint
+Saint : REPLACEROOM : HH_04 : HH_04_Saint
+Saint : REPLACEROOM : HH_05 : HH_05_Saint
+Saint : REPLACEROOM : HH_06 : HH_06_Saint
+Saint : REPLACEROOM : HH_07 : HH_07_Saint
+Saint : REPLACEROOM : HH_08 : HH_08_Saint
+Saint : REPLACEROOM : HH_09 : HH_09_Saint
+Saint : REPLACEROOM : HH_10 : HH_10_Saint
+Saint : REPLACEROOM : HH_11 : HH_11_Saint
+Saint : REPLACEROOM : HH_12 : HH_12_Saint
+Saint : REPLACEROOM : HH_13 : HH_13_Saint
+Saint : REPLACEROOM : HH_14 : HH_14_Saint
+Saint : REPLACEROOM : HH_15 : HH_15_Saint
+Saint : REPLACEROOM : HH_16 : HH_16_Saint
+Saint : REPLACEROOM : HH_17 : HH_17_Saint
+Saint : REPLACEROOM : HH_18 : HH_18_Saint
+Saint : REPLACEROOM : HH_19 : HH_19_Saint
+Saint : REPLACEROOM : HH_20 : HH_20_Saint
+Saint : REPLACEROOM : HH_21 : HH_21_Saint
+Saint : REPLACEROOM : HH_22 : HH_22_Saint
+Saint : REPLACEROOM : HH_23 : HH_23_Saint
+Saint : REPLACEROOM : HH_24 : HH_24_Saint
+Saint : REPLACEROOM : HH_25 : HH_25_Saint
+Saint : REPLACEROOM : HH_26 : HH_26_Saint
+Saint : REPLACEROOM : HH_27 : HH_27_Saint
+Saint : REPLACEROOM : HH_29 : HH_29_Saint
+
+Saint : REPLACEROOM : HH_AAAA : HH_AAAA_Saint
+Saint : REPLACEROOM : HH_Puddle : HH_Puddle_Saint
+Saint : REPLACEROOM : HH_WATER : HH_WATER_Saint
+
+Saint : REPLACEROOM : HH_Cables : HH_Cables_Saint
+Saint : REPLACEROOM : HH_Entrance : HH_Entrance_Saint
+Saint : REPLACEROOM : HH_Extend : HH_Extend_Saint
+Saint : REPLACEROOM : HH_H : HH_H_Saint
+Saint : REPLACEROOM : HH_U : HH_U_Saint
+Saint : REPLACEROOM : HH_Shelter : HH_Shelter_Saint
+
+//Saint Lab
+Saint : REPLACEROOM : HH_Lab : HH_Lab_Saint
+Saint : REPLACEROOM : HH_CoLab : HH_CoLab_Saint
+Saint : REPLACEROOM : HH_Statue : HH_Statue_Saint
+Saint : REPLACEROOM : HH_Elevator : HH_Elevator_Saint
+Saint : REPLACEROOM : HH_SIU : HH_SIU_Saint
+
+Saint : REPLACEROOM : HH_Connection : HH_Connection_Saint
+Saint : REPLACEROOM : HH_CoConnection : HH_CoConnection_Saint
+
+//Saint Unstable System
+Saint : REPLACEROOM : HH_Between : HH_Between_Saint
+Saint : REPLACEROOM : HH_Machine : HH_Machine_Saint
+Saint : REPLACEROOM : HH_Cabinets : HH_Cabinets_Saint
+Saint : REPLACEROOM : HH_Deepinets : HH_Deepinets_Saint
+Saint : REPLACEROOM : HH_Four : HH_Four_Saint
+Saint : REPLACEROOM : HH_L : HH_L_Saint
+
+//Saint UF
+Saint : REPLACEROOM : HH_Acid : HH_Acid_Saint
+Saint : REPLACEROOM : HH_UF : HH_UF_Saint
+Saint : REPLACEROOM : GATE_HH_UF : GATE_HH_UF_Saint
+
+//Saint SC
+Saint : REPLACEROOM : GATE_HH_SC : GATE_HH_SC_Saint
+
+//Saint AB
+Saint : REPLACEROOM : GATE_AB_HH : GATE_AB_HH_Saint
+
+//Saint shelters
+Saint : REPLACEROOM : HH_S01 : HH_S01_Saint
+Saint : REPLACEROOM : HH_S04 : HH_S04_Saint
+
+//Saint gates
+Saint : REPLACEROOM : GATE_HH_GW : GATE_HH_GW_Saint
+Saint : REPLACEROOM : GATE_DS_HH : GATE_DS_HH_Saint
+Saint : REPLACEROOM : GATE_SB_HH : GATE_SB_HH_Saint
+Saint : REPLACEROOM : GATE_HH_SL : GATE_HH_SL_Saint
+
+//Pitch Black rooms
+Beacon,Photomaniac : HH_02 : HH_01 : DISCONNECTED
+Beacon,Photomaniac : REPLACEROOM : HH_02 : HH_02_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_03 : HH_03_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_04 : HH_04_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_05 : HH_05_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_06 : HH_06_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_07 : HH_07_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_08 : HH_08_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_09 : HH_09_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_10 : HH_10_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_11 : HH_11_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_12 : HH_12_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_13 : HH_13_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_14 : HH_14_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_15 : HH_15_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_16 : HH_16_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_17 : HH_17_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_18 : HH_18_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_19 : HH_19_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_20 : HH_20_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_21 : HH_21_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_22 : HH_22_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_23 : HH_23_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_24 : HH_24_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_25 : HH_25_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_26 : HH_26_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_29 : HH_29_Saint
+
+Beacon,Photomaniac : REPLACEROOM : HH_AAAA : HH_AAAA_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_Puddle : HH_Puddle_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_WATER : HH_WATER_Saint
+
+Beacon,Photomaniac : REPLACEROOM : HH_Cables : HH_Cables_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_Entrance : HH_Entrance_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_Extend : HH_Extend_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_H : HH_H_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_U : HH_U_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_Shelter : HH_Shelter_Saint
+
+//Pitch Black Lab
+Beacon,Photomaniac : REPLACEROOM : HH_Lab : HH_Lab_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_CoLab : HH_CoLab_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_Statue : HH_Statue_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_Elevator : HH_Elevator_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_SIU : HH_SIU_Saint
+
+Beacon,Photomaniac : REPLACEROOM : HH_Connection : HH_Connection_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_CoConnection : HH_CoConnection_Saint
+
+//Pitch Black Unstable System
+Beacon,Photomaniac : REPLACEROOM : HH_Between : HH_Between_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_Machine : HH_Machine_Monk
+Beacon,Photomaniac : REPLACEROOM : HH_Cabinets : HH_Cabinets_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_Deepinets : HH_Deepinets_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_Four : HH_Four_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_L : HH_L_Saint
+
+//Pitch Black UF
+Beacon,Photomaniac : REPLACEROOM : HH_Acid : HH_Acid_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_UF : HH_UF_Saint
+Beacon,Photomaniac : REPLACEROOM : GATE_HH_UF : GATE_HH_UF_Saint
+
+//Pitch Black SC
+Beacon,Photomaniac : REPLACEROOM : GATE_HH_SC : GATE_HH_SC_Saint
+
+//Pitch Black AB
+Beacon,Photomaniac : REPLACEROOM : GATE_AB_HH : GATE_AB_HH_Saint
+
+//Pitch Black shelters
+Beacon,Photomaniac : REPLACEROOM : HH_S01 : HH_S01_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_S04 : HH_S04_Saint
+
+//Pitch Black gates
+Beacon,Photomaniac : REPLACEROOM : GATE_DS_HH : GATE_DS_HH_Saint
+Beacon,Photomaniac : REPLACEROOM : GATE_HH_SL : GATE_HH_SL_Spear
+Beacon,Photomaniac : HH_30 : GATE_SB_HH : DISCONNECTED
+Beacon,Photomaniac : HH_25 : GATE_HH_SB : DISCONNECTED
+
+//Future rooms
+Incandescent,Begonia : REPLACEROOM : HH_01 : HH_01_Incan
+Incandescent,Begonia : REPLACEROOM : HH_02 : HH_02_Incan
+Incandescent,Begonia : REPLACEROOM : HH_03 : HH_03_Incan
+Incandescent,Begonia : REPLACEROOM : HH_04 : HH_04_Incan
+Incandescent,Begonia : REPLACEROOM : HH_05 : HH_05_Incan
+Incandescent,Begonia : REPLACEROOM : HH_06 : HH_06_Incan
+Incandescent,Begonia : REPLACEROOM : HH_07 : HH_07_Incan
+Incandescent,Begonia : REPLACEROOM : HH_08 : HH_08_Incan
+Incandescent,Begonia : REPLACEROOM : HH_09 : HH_09_Incan
+Incandescent,Begonia : REPLACEROOM : HH_10 : HH_10_Incan
+Incandescent,Begonia : REPLACEROOM : HH_11 : HH_11_Incan
+Incandescent,Begonia : REPLACEROOM : HH_12 : HH_12_Incan
+Incandescent,Begonia : REPLACEROOM : HH_13 : HH_13_Incan
+Incandescent,Begonia : REPLACEROOM : HH_14 : HH_14_Incan
+Incandescent,Begonia : REPLACEROOM : HH_15 : HH_15_Incan
+Incandescent,Begonia : REPLACEROOM : HH_16 : HH_16_Incan
+Incandescent,Begonia : REPLACEROOM : HH_17 : HH_17_Incan
+Incandescent,Begonia : REPLACEROOM : HH_18 : HH_18_Incan
+Incandescent,Begonia : REPLACEROOM : HH_19 : HH_19_Incan
+Incandescent,Begonia : REPLACEROOM : HH_20 : HH_20_Incan
+Incandescent,Begonia : REPLACEROOM : HH_21 : HH_21_Saint
+Incandescent,Begonia : REPLACEROOM : HH_22 : HH_22_Incan
+Incandescent,Begonia : REPLACEROOM : HH_23 : HH_23_Incan
+Incandescent,Begonia : REPLACEROOM : HH_24 : HH_24_Incan
+Incandescent,Begonia : REPLACEROOM : HH_25 : HH_25_Incan
+Incandescent,Begonia : REPLACEROOM : HH_26 : HH_26_Incan
+Incandescent,Begonia : REPLACEROOM : HH_27 : HH_27_Saint
+Incandescent,Begonia : REPLACEROOM : HH_29 : HH_29_Incan
+
+Incandescent,Begonia : REPLACEROOM : HH_AAAA : HH_AAAA_Incan
+Incandescent,Begonia : REPLACEROOM : HH_Puddle : HH_Puddle_Incan
+Incandescent,Begonia : REPLACEROOM : HH_WATER : HH_WATER_Incan
+
+Incandescent,Begonia : REPLACEROOM : HH_Cables : HH_Cables_Incan
+Incandescent,Begonia : REPLACEROOM : HH_Entrance : HH_Entrance_Incan
+Incandescent,Begonia : REPLACEROOM : HH_Extend : HH_Extend_Incan
+Incandescent,Begonia : REPLACEROOM : HH_H : HH_H_Incan
+Incandescent,Begonia : REPLACEROOM : HH_U : HH_U_Incan
+Incandescent,Begonia : REPLACEROOM : HH_Shelter : HH_Shelter_Incan
+
+//Future Lab
+Incandescent,Begonia : REPLACEROOM : HH_Lab : HH_Lab_Incan
+Incandescent,Begonia : REPLACEROOM : HH_CoLab : HH_CoLab_Incan
+Incandescent,Begonia : REPLACEROOM : HH_Statue : HH_Statue_Incan
+Incandescent,Begonia : REPLACEROOM : HH_Elevator : HH_Elevator_Incan
+Incandescent,Begonia : REPLACEROOM : HH_SIU : HH_SIU_Incan
+
+Incandescent,Begonia : REPLACEROOM : HH_Connection : HH_Connection_Incan
+Incandescent,Begonia : REPLACEROOM : HH_CoConnection : HH_CoConnection_Incan
+
+//Future Unstable System
+Incandescent,Begonia : REPLACEROOM : HH_Between : HH_Between_Incan
+Incandescent,Begonia : REPLACEROOM : HH_Machine : HH_Machine_Incan
+Incandescent,Begonia : REPLACEROOM : HH_Cabinets : HH_Cabinets_Incan
+Incandescent,Begonia : REPLACEROOM : HH_Deepinets : HH_Deepinets_Incan
+Incandescent,Begonia : REPLACEROOM : HH_Four : HH_Four_Incan
+Incandescent,Begonia : REPLACEROOM : HH_L : HH_L_Incan
+
+//Future UF
+Incandescent,Begonia : REPLACEROOM : HH_Acid : HH_Acid_Incan
+Incandescent,Begonia : REPLACEROOM : HH_UF : HH_UF_Incan
+Incandescent,Begonia : REPLACEROOM : GATE_HH_UF : GATE_HH_UF_Incan
+
+//Future SC
+Incandescent,Begonia : REPLACEROOM : GATE_HH_SC : GATE_HH_SC_Incan
+
+//Future AB
+Incandescent,Begonia : REPLACEROOM : GATE_AB_HH : GATE_AB_HH_Incan
+
+//Future shelters
+Incandescent,Begonia : REPLACEROOM : HH_S01 : HH_S01_Incan
+Incandescent,Begonia : REPLACEROOM : HH_S04 : HH_S04_Incan
+
+//Future gates
+Incandescent,Begonia : REPLACEROOM : GATE_HH_GW : GATE_HH_GW_Incan
+Incandescent,Begonia : REPLACEROOM : GATE_DS_HH : GATE_DS_HH_Incan
+Incandescent,Begonia : REPLACEROOM : GATE_SB_HH : GATE_SB_HH_Incan
+Incandescent,Begonia : REPLACEROOM : GATE_HH_SL : GATE_HH_SL_Incan
+
+//Inv rooms
+Inv : REPLACEROOM : HH_01 : HH_01_Spear
+Inv : REPLACEROOM : HH_02 : HH_02_Riv
+Inv : REPLACEROOM : HH_03 : HH_03_Gourmand
+Inv : REPLACEROOM : HH_04 : HH_04_Saint
+Inv : REPLACEROOM : HH_06 : HH_06_Spear
+Inv : REPLACEROOM : HH_07 : HH_07_Riv
+Inv : REPLACEROOM : HH_08 : HH_08_Saint
+Inv : REPLACEROOM : HH_09 : HH_09_Hunter
+Inv : REPLACEROOM : HH_10 : HH_10_Saint
+Inv : REPLACEROOM : HH_11 : HH_11_Monk
+Inv : REPLACEROOM : HH_12 : HH_12_Monk
+Inv : REPLACEROOM : HH_13 : HH_13_Saint
+Inv : REPLACEROOM : HH_14 : HH_14_Arti
+Inv : REPLACEROOM : HH_15 : HH_15_Monk
+Inv : REPLACEROOM : HH_16 : HH_16_Riv
+Inv : REPLACEROOM : HH_17 : HH_17_Arti
+Inv : REPLACEROOM : HH_18 : HH_18_Saint
+Inv : REPLACEROOM : HH_20 : HH_20_Gourmand
+Inv : REPLACEROOM : HH_21 : HH_21_Spear
+Inv : REPLACEROOM : HH_22 : HH_22_Hunter
+Inv : REPLACEROOM : HH_23 : HH_23_Riv
+Inv : REPLACEROOM : HH_24 : HH_24_Riv
+Inv : REPLACEROOM : HH_25 : HH_25_Incan
+Inv : REPLACEROOM : HH_26 : HH_26_Arti
+Inv : REPLACEROOM : HH_27 : HH_27_Saint
+Inv : REPLACEROOM : HH_29 : HH_29_Spear
+
+Inv : REPLACEROOM : HH_Cables : HH_Cables_Incan
+Inv : REPLACEROOM : HH_Puddle : HH_Puddle_Riv
+Inv : REPLACEROOM : HH_WATER : HH_WATER_Spear
+
+Inv : REPLACEROOM : HH_Entrance : HH_Entrance_Gravel
+Inv : REPLACEROOM : HH_Extend : HH_Extend_Spear
+Inv : REPLACEROOM : HH_H : HH_H_Saint
+Inv : REPLACEROOM : HH_U : HH_U_Arti
+Inv : REPLACEROOM : HH_Shelter : HH_Shelter_Saint
+
+//Inv Lab
+Inv : REPLACEROOM : HH_Lab : HH_Lab_Spear
+Inv : REPLACEROOM : HH_CoLab : HH_CoLab_Incan
+Inv : REPLACEROOM : HH_Statue : HH_Statue_Arti
+Inv : REPLACEROOM : HH_Elevator : HH_Elevator_Riv
+Inv : REPLACEROOM : HH_SIU : HH_SIU_Incan
+
+Inv : REPLACEROOM : HH_Connection : HH_Connection_Incan
+Inv : REPLACEROOM : HH_CoConnection : HH_CoConnection_Spear
+
+//Inv Unstable System
+Inv : REPLACEROOM : HH_Between : HH_Between_Monk
+Inv : REPLACEROOM : HH_Cabinets : HH_Cabinets_Spear
+Inv : REPLACEROOM : HH_Deepinets : HH_Deepinets_Saint
+Inv : REPLACEROOM : HH_L : HH_L_Hunter
+
+//Inv UF
+Inv : REPLACEROOM : HH_Acid : HH_Acid_Spear
+Inv : REPLACEROOM : HH_UF : HH_UF_Saint
+Inv : REPLACEROOM : GATE_HH_UF : GATE_HH_UF_Gourmand
+
+//Inv SC
+Inv : REPLACEROOM : GATE_HH_SC : GATE_HH_SC_Incan
+
+//Inv AB
+Inv : REPLACEROOM : GATE_AB_HH : GATE_AB_HH_Incan
+
+//Inv shelters
+Inv : REPLACEROOM : HH_S04 : HH_S04_Incan
+
+//Inv gates
+Inv : REPLACEROOM : GATE_DS_HH : GATE_DS_HH_Saint
+Inv : REPLACEROOM : GATE_HH_GW : GATE_HH_GW_Riv
+Inv : REPLACEROOM : GATE_HH_SL : GATE_HH_SL_Incan
+
+//Entropy
+NCREntropy : REPLACEROOM : GATE_SB_HH : GATE_SB_HH_Saint
+END CONDITIONAL LINKS
+
+ROOMS
+//Shelters
+HH_S01 : HH_08 : SHELTER
+HH_S02 : HH_30 : SHELTER
+HH_S03 : HH_21 : SHELTER
+HH_S04 : HH_Shelter : SHELTER
+
+//Gates
+GATE_HH_GW : HH_01, DISCONNECTED : GATE
+GATE_DS_HH : DISCONNECTED, HH_12 : GATE
+GATE_HH_SL : HH_29, DISCONNECTED : GATE
+GATE_SB_HH : DISCONNECTED, HH_30 : GATE
+GATE_HH_SB : HH_25, DISCONNECTED : GATE
+
+HH_01 : GATE_HH_GW, HH_02
+HH_02 : HH_01, HH_06, HH_U : SWARMROOM
+HH_03 : HH_13, HH_09, HH_04
+HH_04 : HH_03, HH_05
+HH_05 : HH_Cables, HH_04, HH_10, HH_21, HH_20 : SWARMROOM
+HH_07 : HH_08, HH_06, HH_11 : SWARMROOM
+HH_08 : HH_12, HH_S01, HH_07
+HH_09 : HH_11, HH_H, HH_03, HH_10, HH_WATER, HH_15
+HH_10 : HH_09, HH_14, HH_05
+HH_11 : HH_07, HH_09
+HH_12 : GATE_DS_HH, HH_08
+HH_13 : HH_U, HH_03
+HH_14 : HH_C, HH_10, HH_24
+HH_15 : HH_09, HH_29, HH_21
+HH_16 : HH_H, HH_26, HH_23
+HH_17 : HH_Chute, HH_18
+HH_18 : HH_WATER, HH_17, HH_19
+HH_19 : HH_22, HH_18
+HH_20 : HH_05, HH_Chute
+HH_22 : HH_Puddle, HH_25, HH_19
+HH_23 : HH_26, HH_16, HH_Extend
+HH_24 : HH_Extend, HH_14, HH_21, HH_AAAA
+HH_25 : HH_AAAA, HH_22, GATE_HH_SB, HH_27 : SWARMROOM
+HH_26 : HH_CoConnection, HH_30, HH_16, HH_23 : SWARMROOM
+HH_27 : HH_25, HH_31
+HH_28 : HH_31
+HH_29 : GATE_HH_SL, HH_15
+HH_30 : GATE_SB_HH, HH_26, HH_S02
+HH_31 : HH_27, HH_28
+
+//post release rooms
+HH_C : HH_14
+HH_Extend : HH_23, HH_Elevator, HH_24
+HH_Cables : HH_06, HH_Connection, HH_U, HH_05
+HH_U : HH_02, HH_13, DISCONNECTED, HH_Cables, HH_Shelter, HH_Entrance
+HH_Shelter : HH_U, HH_S04, HH_Cabinets
+
+HH_Chute : HH_20, HH_17
+HH_Puddle : HH_21, HH_Four, HH_22
+HH_AAAA : HH_24, HH_25
+HH_WATER : HH_09, HH_18
+
+//Arid Barrens conection rooms
+HH_AB : GATE_AB_HH, HH_21
+GATE_AB_HH : DISCONNECTED, DISCONNECTED, DISCONNECTED, HH_AB : GATE
+
+//Sizzling Sewers conection rooms
+HH_Acid : HH_UF, HH_H
+HH_UF : GATE_HH_UF, HH_Acid
+GATE_HH_UF : DISCONNECTED, HH_UF : GATE
+
+//Sacred Garden conection rooms
+HH_SC : GATE_HH_SC, HH_06
+GATE_HH_SC : DISCONNECTED, DISCONNECTED, HH_SC, DISCONNECTED : GATE
+
+//Lab
+HH_Connection : HH_Lab, HH_Cables
+HH_CoConnection : HH_CoLab, HH_26
+HH_Lab : HH_Statue, HH_Connection
+HH_Statue : HH_SIU, HH_Lab, HH_CoLab, HH_Elevator
+HH_CoLab : HH_CoConnection, HH_Statue
+HH_Elevator : HH_Statue, HH_Four, HH_Extend
+HH_SIU : HH_Statue
+
+//Unstable System
+HH_Entrance : HH_U, HH_Between, DISCONNECTED
+HH_Between : HH_Entrance, HH_Cabinets
+HH_Cabinets : HH_Shelter, HH_Between, HH_Four, DISCONNECTED
+HH_Deepinets : DISCONNECTED, HH_L, HH_Four
+HH_L : HH_Deepinets, HH_Machine
+HH_Four : HH_Elevator, HH_Cabinets, HH_Puddle, HH_Deepinets
+HH_Machine : HH_L
+
+//conditional rooms which break room ids
+{SC}HH_06 : HH_SC, HH_07, HH_02, HH_Cables
+{!SC}HH_06 : DISCONNECTED, HH_07, HH_02, HH_Cables
+{AB}HH_21 : HH_AB, HH_05, HH_24, HH_S03, HH_15, HH_Puddle
+{!AB}HH_21 : DISCONNECTED, HH_05, HH_24, HH_S03, HH_15, HH_Puddle
+{UF}HH_H : HH_Acid, HH_09, HH_16
+{!UF}HH_H : DISCONNECTED, HH_09, HH_16
+END ROOMS
+
+CREATURES
+//All
+HH_02 : 4-TentaclePlant-{Ignorecycle}
+HH_11 : 2-TentaclePlant-{Ignorecycle}
+HH_14 : 3-JetFish-{Ignorecycle}
+HH_26 : 5-Salamander-{PreCycle}
+HH_05 : 6-JetFish-{Ignorecycle}, 8-JetFish-{Ignorecycle}
+HH_09 : 7-JetFish-{Ignorecycle}, 8-JetFish-{Ignorecycle}, 9-JetFish-{Ignorecycle}
+HH_14 : 3-JetFish-{PreCycle}
+HH_15 : 4-JetFish-{Ignorecycle}, 4-JetFish-{PreCycle}
+HH_H : 4-JetFish-{Ignorecycle}
+
+(X-Rivulet,Beacon,Photomaniac)HH_10 : 3-JetFish-{PreCycle}
+(Beacon,Photomaniac)HH_10 : 4-JetFish-{PreCycle}
+(Rivulet)HH_10 : 3-JetFish
+HH_21 : 6-TentaclePlant-{Ignorecycle}
+
+(X-Gravelslug,Outsider,Saint,Incandescent,Begonia)HH_22 : 3-FireBug
+(Gravelslug,Outsider,Saint,Incandescent,Begonia)HH_22 : 3-FireBug-{Ignorecycle}
+
+//Spearmaster
+(Spear)OFFSCREEN : 0-Deer-6, 0-Leviathan-{Ignorecycle}, 0-MirosBird-26, 0-MirosVulture
+
+(Spear)LINEAGE : HH_01 : 2 : DaddyLongLegs-{Ignorecycle}-1, TerrorLongLegs-{Ignorecycle}-0
+(Spear)LINEAGE : HH_02 : 3 : Blue-{Mean:1.0}-0.7, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Spear)LINEAGE : HH_03 : 3 : Eggbug-0.4, FireBug-0
+(Spear)HH_05 : 5-BigNeedleWorm, 9-Eel-{PreCycle}
+(Spear)LINEAGE : HH_05 : 7 : Salamander-{Ignorecycle}-0.6, Eel-{Ignorecycle}-0
+(Spear)LINEAGE : HH_06 : 4 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(Spear)HH_07 : 3-TentaclePlant-{Ignorecycle}
+(Spear)LINEAGE : HH_08 : 3 : Blue-{Mean:1.0}-0.7, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Spear)HH_09 : 9-Eel-{PreCycle}
+(Spear)LINEAGE : HH_09 : 6 : Salamander-{Ignorecycle}-0.6, Eel-{Ignorecycle}-0
+(Spear)HH_13 : 2-Small Centipede-{AlternateForm}-2
+(Spear)LINEAGE : HH_23 : 3 : Eggbug-0.4, FireBug-0
+(Spear)LINEAGE : HH_26 : 4 : Green-{Mean:1.0}-0.7, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(Spear)LINEAGE : HH_U : 6 : Blue-{Mean:1.0}-0.7, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Spear)LINEAGE : HH_H : 3 : Salamander-{Ignorecycle}-0.6, Eel-{Ignorecycle}-0
+(Spear)HH_Extend : 3-Small Centipede-{AlternateForm}-2
+(Spear)LINEAGE : HH_Extend : 3 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(Spear)LINEAGE : HH_Extend : 4 : Green-{Mean:1.0}-0.7, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(Spear)LINEAGE : HH_15 : 3 : Eel-{Ignorecycle}-0.4, AquaCenti-{Ignorecycle}-0
+
+(Spear)LINEAGE : HH_19 : 2 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-{Voidsea}-0
+(Spear)LINEAGE : HH_25 : 4 : Green-{Mean:1.0}-0.7, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(Spear)LINEAGE : HH_Elevator : 3 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(Spear)HH_Elevator : 3-Small Centipede-{AlternateForm}-2
+(Spear)LINEAGE : HH_Statue : 4 : Blue-{Mean:1.0}-0.7, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+
+//Artificer
+(Artificer)OFFSCREEN : 0-Deer-7, 0-Leviathan-{Ignorecycle}, 0-MirosBird-28, 0-MirosVulture
+
+(Artificer)LINEAGE : HH_01 : 2 : DaddyLongLegs-{Ignorecycle}-1, TerrorLongLegs-{Ignorecycle}-0
+(Artificer)LINEAGE : HH_02 : 3 : Blue-{Mean:1.0}-0.75, White-0.45, Cyan-0.45, Seeker-{Mean:1.0}-0
+(Artificer)LINEAGE : HH_03 : 3 : Eggbug-0.45, FireBug-0
+(Artificer)HH_05 : 5-BigNeedleWorm, 9-Eel-{PreCycle}
+(Artificer)LINEAGE : HH_05 : 7 : Salamander-{Ignorecycle}-0.65, Eel-{Ignorecycle}-0
+(Artificer)LINEAGE : HH_06 : 4 : Scutigera-0.45, Centipede-{0.8}-0.45, Centipede-{0.9}-0.45, Centipede-{1.0}-0.45, RedCentipede-0
+(Artificer)HH_07 : 3-TentaclePlant-{Ignorecycle}
+(Artificer)LINEAGE : HH_08 : 3 : Blue-{Mean:1.0}-0.75, White-0.45, Cyan-0.45, Seeker-{Mean:1.0}-0
+(Artificer)HH_09 : 9-Eel-{PreCycle}
+(Artificer)LINEAGE : HH_09 : 6 : Salamander-{Ignorecycle}-0.65, Eel-{Ignorecycle}-0
+(Artificer)HH_13 : 2-Small Centipede-{AlternateForm}-2
+(Artificer)LINEAGE : HH_23 : 3 : Eggbug-0.45, FireBug-0
+(Artificer)LINEAGE : HH_26 : 4 : Green-{Mean:1.0}-0.75, WaterSpitter-0.45, SpitLizard-{Mean:1.0}-0.45, Red-{Mean:1.0}-0
+
+(Artificer)LINEAGE : HH_U : 6 : Blue-{Mean:1.0}-0.75, White-0.45, Cyan-0.45, Seeker-{Mean:1.0}-0
+(Artificer)LINEAGE : HH_H : 3 : Salamander-{Ignorecycle}-0.65, Eel-{Ignorecycle}-0
+(Artificer)HH_Extend : 3-Small Centipede-{AlternateForm}-2
+(Artificer)LINEAGE : HH_Extend : 3 : Scutigera-0.45, Centipede-{0.8}-0.45, Centipede-{0.9}-0.45, Centipede-{1.0}-0.45, RedCentipede-0
+(Artificer)LINEAGE : HH_Extend : 4 : Green-{Mean:1.0}-0.75, WaterSpitter-0.45, SpitLizard-{Mean:1.0}-0.45, Red-{Mean:1.0}-0
+
+(Artificer)LINEAGE : HH_15 : 3 : Eel-{Ignorecycle}-0.45, AquaCenti-{Ignorecycle}-0
+
+(Artificer)LINEAGE : HH_19 : 2 : Scutigera-0.45, Centipede-{0.8}-0.45, Centipede-{0.9}-0.45, Centipede-{1.0}-0.45, RedCentipede-{Voidsea}-0
+(Artificer)LINEAGE : HH_25 : 4 : Green-{Mean:1.0}-0.75, WaterSpitter-0.45, SpitLizard-{Mean:1.0}-0.45, Red-{Mean:1.0}-0
+
+(Artificer)LINEAGE : HH_Elevator : 3 : Scutigera-0.45, Centipede-{0.8}-0.45, Centipede-{0.9}-0.45, Centipede-{1.0}-0.45, RedCentipede-0
+(Artificer)HH_Elevator : 3-Small Centipede-{AlternateForm}-2
+(Artificer)LINEAGE : HH_Statue : 4 : Blue-{Mean:1.0}-0.75, White-0.45, Cyan-0.45, Seeker-{Mean:1.0}-0
+
+//Hunter
+(Red)OFFSCREEN : 0-Deer-8, 0-Leviathan-{Ignorecycle}, 0-MirosBird-26, 0-MirosVulture
+
+(Red)LINEAGE : HH_01 : 2 : DaddyLongLegs-{Ignorecycle}-1, TerrorLongLegs-{Ignorecycle}-0
+(Red)LINEAGE : HH_02 : 3 : Blue-{Mean:1.0}-0.7, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Red)LINEAGE : HH_03 : 3 : Eggbug-0.4, FireBug-0
+(Red)HH_05 : 5-BigNeedleWorm, 9-Eel-{PreCycle}
+(Red)LINEAGE : HH_05 : 7 : Salamander-{Ignorecycle}-0.6, Eel-{Ignorecycle}-0
+(Red)LINEAGE : HH_06 : 4 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(Red)HH_07 : 3-TentaclePlant-{Ignorecycle}
+(Red)LINEAGE : HH_08 : 3 : Blue-{Mean:1.0}-0.7, White-0.3, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Red)HH_09 : 9-Eel-{PreCycle}
+(Red)LINEAGE : HH_09 : 6 : Salamander-{Ignorecycle}-0.6, Eel-{Ignorecycle}-0
+(Red)HH_13 : 2-Small Centipede-{AlternateForm}-2
+(Red)LINEAGE : HH_23 : 3 : Eggbug-0.4, FireBug-0
+(Red)LINEAGE : HH_26 : 4 : Green-{Mean:1.0}-0.7, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(Red)LINEAGE : HH_U : 6 : Blue-{Mean:1.0}-0.7, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Red)LINEAGE : HH_H : 3 : Salamander-{Ignorecycle}-0.6, Eel-{Ignorecycle}-0
+(Red)HH_Extend : 3-Small Centipede-{AlternateForm}-2
+(Red)LINEAGE : HH_Extend : 3 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(Red)LINEAGE : HH_Extend : 4 : Green-{Mean:1.0}-0.7, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(Red)LINEAGE : HH_15 : 3 : Eel-{Ignorecycle}-0.4, AquaCenti-{Ignorecycle}-0
+
+(Red)LINEAGE : HH_19 : 2 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-{Voidsea}-0
+(Red)LINEAGE : HH_25 : 4 : Green-{Mean:1.0}-0.7, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(Red)LINEAGE : HH_Elevator : 3 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(Red)HH_Elevator : 3-Small Centipede-{AlternateForm}-2
+(Red)LINEAGE : HH_Statue : 4 : Blue-{Mean:1.0}-0.7, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+
+//Gourmand
+(Gourmand)OFFSCREEN : 0-Deer-9, 0-Leviathan-{Ignorecycle}, 0-MirosBird-24, 0-MirosVulture
+
+(Gourmand)LINEAGE : HH_01 : 2 : DaddyLongLegs-{Ignorecycle}-1, TerrorLongLegs-{Ignorecycle}-0
+(Gourmand)LINEAGE : HH_02 : 3 : Blue-0.65, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Gourmand)LINEAGE : HH_03 : 3 : Eggbug-0.4, FireBug-0
+(Gourmand)HH_05 : 5-BigNeedleWorm, 9-Eel-{PreCycle}
+(Gourmand)LINEAGE : HH_05 : 7 : Salamander-{Ignorecycle}-0.55, Eel-{Ignorecycle}-0
+(Gourmand)LINEAGE : HH_06 : 4 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(Gourmand)HH_07 : 3-TentaclePlant-{Ignorecycle}, 4-TentaclePlant-{Ignorecycle}
+(Gourmand)LINEAGE : HH_08 : 3 : Blue-0.65, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Gourmand)HH_09 : 9-Eel-{PreCycle}
+(Gourmand)LINEAGE : HH_09 : 6 : Salamander-{Ignorecycle}-0.55, Eel-{Ignorecycle}-0
+(Gourmand)HH_13 : 2-Small Centipede-{AlternateForm}
+(Gourmand)LINEAGE : HH_23 : 3 : Eggbug-0.4, FireBug-0
+(Gourmand)LINEAGE : HH_26 : 4 : Green-{Mean:1.0}-0.65, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(Gourmand)LINEAGE : HH_U : 6 : Blue-{Mean:1.0}-0.65, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Gourmand)LINEAGE : HH_H : 3 : Salamander-{Ignorecycle}-0.55, Eel-{Ignorecycle}-0
+(Gourmand)HH_Extend : 3-Small Centipede-{AlternateForm}-2
+(Gourmand)LINEAGE : HH_Extend : 3 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(Gourmand)LINEAGE : HH_Extend : 4 : Green-{Mean:1.0}-0.65, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(Gourmand)LINEAGE : HH_15 : 3 : Eel-{Ignorecycle}-0.4, AquaCenti-{Ignorecycle}-0
+
+(Gourmand)LINEAGE : HH_19 : 2 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-{Voidsea}-0
+(Gourmand)LINEAGE : HH_25 : 4 : Green-{Mean:1.0}-0.65, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(Gourmand)LINEAGE : HH_Elevator : 3 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(Gourmand)HH_Elevator : 3-Small Centipede-{AlternateForm}-2
+(Gourmand)LINEAGE : HH_Statue : 4 : Blue-0.65, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+
+//Survivor
+(White)OFFSCREEN : 0-Deer-10, 0-Leviathan-{Ignorecycle}, 0-MirosBird-22, 0-MirosVulture
+
+(White)LINEAGE : HH_01 : 2 : BrotherLongLegs-{Ignorecycle}-1, DaddyLongLegs-{Ignorecycle}-1, TerrorLongLegs-{Ignorecycle}-0
+(White)LINEAGE : HH_02 : 3 : Blue-0.6, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(White)LINEAGE : HH_03 : 3 : Eggbug-0.35, FireBug-0
+(White)HH_05 : 5-BigNeedleWorm, 9-Eel-{PreCycle}
+(White)LINEAGE : HH_05 : 7 : Salamander-{Ignorecycle}-0.5, Eel-{Ignorecycle}-0
+(White)LINEAGE : HH_06 : 4 : Scutigera-0.4, Centipede-{0.7}-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(White)HH_06 : 4-Small Centipede-{AlternateForm}
+(White)HH_07 : 3-TentaclePlant-{Ignorecycle}, 4-TentaclePlant-{Ignorecycle}
+(White)LINEAGE : HH_08 : 3 : Blue-0.6, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(White)HH_09 : 9-Eel-{PreCycle}
+(White)LINEAGE : HH_09 : 6 : Salamander-{Ignorecycle}-0.5, Eel-{Ignorecycle}-0
+(White)HH_13 : 2-Small Centipede-{AlternateForm}-2
+(White)LINEAGE : HH_23 : 3 : Eggbug-0.35, FireBug-0
+(White)LINEAGE : HH_26 : 4 : Green-0.6, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(White)LINEAGE : HH_U : 6 : Blue-0.6, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(White)LINEAGE : HH_H : 3 : Salamander-{Ignorecycle}-0.5, Eel-{Ignorecycle}-0
+(White)HH_Extend : 3-Small Centipede-{AlternateForm}-2
+(White)LINEAGE : HH_Extend : 3 : Scutigera-0.4, Centipede-{0.7}-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(White)LINEAGE : HH_Extend : 4 : Green-0.6, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(White)LINEAGE : HH_15 : 3 : Eel-{Ignorecycle}-0.35, AquaCenti-{Ignorecycle}-0
+
+(White)LINEAGE : HH_19 : 2 : Scutigera-0.4, Centipede-{0.7}-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-{Voidsea}-0
+(White)LINEAGE : HH_25 : 4 : Green-0.6, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(White)LINEAGE : HH_Elevator : 3 : Scutigera-0.4, Centipede-{0.7}-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(White)HH_Elevator : 3-Small Centipede-{AlternateForm}-2
+(White)LINEAGE : HH_Statue : 4 : Blue-0.6, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+
+//Monk
+(Yellow)OFFSCREEN : 0-Deer-10, 0-Leviathan-{Ignorecycle}, 0-MirosBird-20, 0-MirosVulture
+
+(Yellow)LINEAGE : HH_01 : 2 : BrotherLongLegs-{Ignorecycle}-1, DaddyLongLegs-{Ignorecycle}-1, TerrorLongLegs-{Ignorecycle}-0
+(Yellow)LINEAGE : HH_02 : 3 : Blue-0.55, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Yellow)LINEAGE : HH_03 : 3 : Eggbug-0.35, FireBug-0
+(Yellow)HH_05 : 5-BigNeedleWorm, 9-Eel-{PreCycle}
+(Yellow)LINEAGE : HH_05 : 7 : Salamander-{Ignorecycle}-0.45, Eel-{Ignorecycle}-0
+(Yellow)LINEAGE : HH_06 : 4 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(Yellow)HH_06 : 4-Small Centipede-{AlternateForm}
+(Yellow)HH_07 : 3-TentaclePlant-{Ignorecycle}, 4-TentaclePlant-{Ignorecycle}
+(Yellow)LINEAGE : HH_08 : 3 : Blue-0.55, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Yellow)HH_09 : 9-Eel-{PreCycle}
+(Yellow)LINEAGE : HH_09 : 6 : Salamander-{Ignorecycle}-0.45, Eel-{Ignorecycle}-0
+(Yellow)HH_13 : 2-Small Centipede-{AlternateForm}-2
+(Yellow)LINEAGE : HH_23 : 3 : Eggbug-0.35, FireBug-0
+(Yellow)LINEAGE : HH_26 : 4 : Green-0.55, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(Yellow)LINEAGE : HH_U : 6 : Blue-0.55, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Yellow)LINEAGE : HH_H : 3 : Salamander-{Ignorecycle}-0.45, Eel-{Ignorecycle}-0
+(Yellow)HH_Extend : 3-Small Centipede-{AlternateForm}-2
+(Yellow)LINEAGE : HH_Extend : 3 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(Yellow)LINEAGE : HH_Extend : 4 : Green-0.55, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(Yellow)LINEAGE : HH_15 : 3 : Eel-{Ignorecycle}-0.35, AquaCenti-{Ignorecycle}-0
+
+(Yellow)LINEAGE : HH_19 : 2 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-{Voidsea}-0
+(Yellow)LINEAGE : HH_25 : 4 : Green-0.55, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(Yellow)LINEAGE : HH_Elevator : 3 : Scutigera-0.3, Centipede-{0.8}-0.35, Centipede-{0.9}-0.35, Centipede-{1.0}-0.4, RedCentipede-0
+(Yellow)HH_Elevator : 3-Small Centipede-{AlternateForm}-2
+(Yellow)LINEAGE : HH_Statue : 4 : Blue-0.55, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+
+//Rivulet
+(Rivulet)OFFSCREEN : 0-Deer-11, 0-Leviathan-{Ignorecycle}, 0-MirosBird-14
+
+(Rivulet)LINEAGE : HH_01 : 2 : BrotherLongLegs-{Ignorecycle}-1, DaddyLongLegs-{Ignorecycle}-0
+(Rivulet)LINEAGE : HH_02 : 3 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Rivulet)LINEAGE : HH_03 : 3 : Eggbug-0.4, FireBug-0
+(Rivulet)HH_05 : 5-BigNeedleWorm, 7-AquaCenti-{Ignorecycle}, 9-Eel-{PreCycle}
+(Rivulet)LINEAGE : HH_06 : 4 : Centipede-{0.5}-0.65, Centipede-{0.6}-0.65, Centipede-{0.7}-0.65, Centipede-{0.8}-0.65, Centipede-{0.9}-0.65, Centipede-{1.0}-0.65, RedCentipede-0
+(Rivulet)HH_07 : 3-TentaclePlant-{Ignorecycle}, 4-TentaclePlant-{Ignorecycle}, 5-TentaclePlant-{Ignorecycle}
+(Rivulet)LINEAGE : HH_08 : 3 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Rivulet)HH_09 : 6-AquaCenti-{Ignorecycle}, 9-Eel-{PreCycle}
+(Rivulet)HH_13 : 3-Small Centipede
+(Rivulet)LINEAGE : HH_13 : 2 : BigSpider-0.4, MotherSpider-0.4, SpitterSpider-0
+(Rivulet)LINEAGE : HH_23 : 3 : Eggbug-0.4, FireBug-0
+(Rivulet)LINEAGE : HH_23 : 4 : BigSpider-0.4, MotherSpider-0.4, SpitterSpider-0
+(Rivulet)LINEAGE : HH_26 : 4 : Green-{Mean:1.0}-0.65, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(Rivulet)LINEAGE : HH_U : 6 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Rivulet)LINEAGE : HH_H : 3 : Salamander-{Ignorecycle}-0.55, Eel-{Ignorecycle}-0
+(Rivulet)HH_Extend : 3-Small Centipede-2
+(Rivulet)LINEAGE : HH_Extend : 3 : Centipede-{0.5}-0.65, Centipede-{0.6}-0.65, Centipede-{0.7}-0.65, Centipede-{0.8}-0.65, Centipede-{0.9}-0.65, Centipede-{1.0}-0.65, RedCentipede-0
+(Rivulet)LINEAGE : HH_Extend : 4 : Green-0.55, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(Rivulet)HH_15 : 3-AquaCenti-{Ignorecycle}
+
+(Rivulet)LINEAGE : HH_19 : 2 : Centipede-{0.5}-0.65, Centipede-{0.6}-0.65, Centipede-{0.7}-0.65, Centipede-{0.8}-0.65, Centipede-{0.9}-0.65, Centipede-{1.0}-0.65, RedCentipede-{Voidsea}-0
+(Rivulet)HH_19 : 3-FireBug
+(Rivulet)LINEAGE : HH_25 : 4 : Green-{Mean:1.0}-0.65, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(Rivulet)LINEAGE : HH_Elevator : 3 : Centipede-{0.5}-0.65, Centipede-{0.6}-0.65, Centipede-{0.7}-0.65, Centipede-{0.8}-0.65, Centipede-{0.9}-0.65, Centipede-{1.0}-0.65, RedCentipede-0
+(Rivulet)HH_Elevator : 3-Small Centipede-2
+(Rivulet)LINEAGE : HH_Statue : 4 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+
+(Rivulet)LINEAGE : HH_Cabinets : 4 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Rivulet)LINEAGE : HH_Deepinets : 3 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+
+//Gravel Eater
+(Gravelslug,Outsider)OFFSCREEN : 0-Deer-12, 0-Leviathan-{Ignorecycle}, 0-Scavenger-{Ignorecycle}, 0-ScavengerElite-{Ignorecycle}
+
+(Gravelslug,Outsider)LINEAGE : HH_01 : 2 : BigSpider-{Ignorecycle}-0.4, MotherSpider-{Ignorecycle}-0.4, SpitterSpider-{Ignorecycle}-0
+(Gravelslug,Outsider)LINEAGE : HH_02 : 3 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Gravelslug,Outsider)LINEAGE : HH_03 : 3 : Eggbug-{Ignorecycle}-0.4, FireBug-{Ignorecycle}-0
+(Gravelslug,Outsider)HH_05 : 5-BigNeedleWorm-{Ignorecycle}, 7-Polliwog-{Ignorecycle}, 9-Polliwog-{Ignorecycle}
+(Gravelslug,Outsider)LINEAGE : HH_06 : 4 : Centipede-{0.5}-0.65, Centipede-{0.6}-0.65, Centipede-{0.7}-0.65, Centipede-{0.8}-0.65, Centipede-{0.9}-0.65, Centipede-{1.0}-0.65, RedCentipede-0
+(Gravelslug,Outsider)HH_07 : 3-TentaclePlant-{Ignorecycle}, 4-TentaclePlant-{Ignorecycle}, 5-TentaclePlant-{Ignorecycle}
+(Gravelslug,Outsider)LINEAGE : HH_08 : 3 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Gravelslug,Outsider)HH_09 : 6-Polliwog-{Ignorecycle}, 9-Polliwog-{Ignorecycle}
+(Gravelslug,Outsider)LINEAGE : HH_10 : 3 : BigSpider-{Ignorecycle}-0.4, MotherSpider-{Ignorecycle}-0.4, SpitterSpider-{Ignorecycle}-0
+(Gravelslug,Outsider)HH_13 : 3-Small Centipede-{Ignorecycle}
+(Gravelslug,Outsider)LINEAGE : HH_13 : 2 : BigSpider-{Ignorecycle}-0.4, MotherSpider-{Ignorecycle}-0.4, SpitterSpider-{Ignorecycle}-0
+(Gravelslug,Outsider)LINEAGE : HH_23 : 3 : Eggbug-{Ignorecycle}-0.4, FireBug-{Ignorecycle}-0
+(Gravelslug,Outsider)LINEAGE : HH_23 : 4 : BigSpider-0.4, MotherSpider-0.4, SpitterSpider-0
+(Gravelslug,Outsider)LINEAGE : HH_26 : 4 : Green-{Mean:1.0}-0.65, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(Gravelslug,Outsider)LINEAGE : HH_U : 6 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Gravelslug,Outsider)HH_H : 3-Polliwog-{Ignorecycle}
+(Gravelslug,Outsider)HH_Extend : 3-Small Centipede-2
+(Gravelslug,Outsider)LINEAGE : HH_Extend : 3 : Centipede-{0.5}-0.65, Centipede-{0.6}-0.65, Centipede-{0.7}-0.65, Centipede-{0.8}-0.65, Centipede-{0.9}-0.65, Centipede-{1.0}-0.65, RedCentipede-0
+(Gravelslug,Outsider)LINEAGE : HH_Extend : 4 : Green-{Mean:1.0}-0.65, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(Gravelslug,Outsider)LINEAGE : HH_15 : 3 : Eel-{Ignorecycle}-0.4, AquaCenti-{Ignorecycle}-0
+
+(Gravelslug,Outsider)LINEAGE : HH_19 : 2 : Centipede-{0.5}-0.65, Centipede-{0.6}-0.65, Centipede-{0.7}-0.65, Centipede-{0.8}-0.65, Centipede-{0.9}-0.65, Centipede-{1.0}-0.65, RedCentipede-{Voidsea}-0
+(Gravelslug,Outsider)HH_19 : 3-FireBug-{Ignorecycle}
+(Gravelslug,Outsider)HH_22 : 3-FireBug-{Ignorecycle}
+(Gravelslug,Outsider)LINEAGE : HH_25 : 4 : Green-{Mean:1.0}-0.65, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(Gravelslug,Outsider)LINEAGE : HH_Elevator : 3 : Centipede-{0.5}-0.65, Centipede-{0.6}-0.65, Centipede-{0.7}-0.65, Centipede-{0.8}-0.65, Centipede-{0.9}-0.65, Centipede-{1.0}-0.65, RedCentipede-0
+(Gravelslug,Outsider)HH_Elevator : 3-Small Centipede-{Ignorecycle}-2
+(Gravelslug,Outsider)LINEAGE : HH_Statue : 4 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+
+(Gravelslug,Outsider)LINEAGE : HH_Cabinets : 4 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Gravelslug,Outsider)LINEAGE : HH_Cabinets : 4 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Gravelslug,Outsider)LINEAGE : HH_Cabinets : 4 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Gravelslug,Outsider)LINEAGE : HH_Deepinets : 3 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Gravelslug,Outsider)LINEAGE : HH_Deepinets : 4 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Gravelslug,Outsider)LINEAGE : HH_Deepinets : 4 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+
+//Saint
+(Saint)OFFSCREEN : 0-Deer-{Ignorecycle}-13, 0-Leviathan-{Voidsea}
+
+(Saint)LINEAGE : HH_01 : 2 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
+(Saint)LINEAGE : HH_02 : 3 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
+(Saint)LINEAGE : HH_03 : 3 : EggBug-{Ignorecycle}-1, FireBug-{Ignorecycle}-0
+(Saint)HH_05 : 5-BigNeedleWorm-{Ignorecycle}, 7-Polliwog-{Ignorecycle}, 9-Polliwog-{Ignorecycle}
+(Saint)LINEAGE : HH_06 : 4 : Centipede-{0.6}-1, Centipede-{0.8}-1, Centipede-{1.0}-1, RedCentipede-0
+(Saint)HH_07 : 3-TentaclePlant-{Ignorecycle}, 4-TentaclePlant-{Ignorecycle}, 5-TentaclePlant-{Ignorecycle}
+(Saint)LINEAGE : HH_08 : 3 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
+(Saint)HH_09 : 6-Polliwog-{Ignorecycle}, 9-Polliwog-{Ignorecycle}
+(Saint)LINEAGE : HH_10 : 3 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
+(Saint)HH_13 : 3-Small Centipede-{Ignorecycle}
+(Saint)LINEAGE : HH_13 : 2 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
+(Saint)LINEAGE : HH_23 : 3 : EggBug-{Ignorecycle}-1, FireBug-{Ignorecycle}-0
+(Saint)LINEAGE : HH_23 : 4 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
+(Saint)LINEAGE : HH_26 : 4 : Green-{Mean:1.0}-1, WaterSpitter-1, SpitLizard-{Mean:1.0}-1, Red-{Mean:1.0}-0
+
+(Saint)LINEAGE : HH_U : 6 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
+(Saint)LINEAGE : HH_U : 6 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
+(Saint)HH_H : 3-Polliwog-{Ignorecycle}
+(Saint)HH_Extend : 3-Small Centipede-2
+(Saint)LINEAGE : HH_Extend : 3 : Centipede-{0.6}-1, Centipede-{0.8}-1, Centipede-{1.0}-1, RedCentipede-0
+(Saint)LINEAGE : HH_Extend : 4 : Green-{Mean:1.0}-1, WaterSpitter-1, SpitLizard-{Mean:1.0}-1, Red-{Mean:1.0}-0
+
+(Saint)LINEAGE : HH_15 : 3 : Eel-{Ignorecycle}-1, AquaCenti-{Ignorecycle}-0
+
+(Saint)LINEAGE : HH_19 : 2 : Centipede-{0.6}-1, Centipede-{0.8}-1, Centipede-{1.0}-1, RedCentipede-{Voidsea}-0
+(Saint)HH_19 : 3-FireBug-{Ignorecycle}-2
+(Saint)HH_22 : 3-FireBug-{Ignorecycle}
+(Saint)LINEAGE : HH_25 : 4 : Green-{Mean:1.0}-1, WaterSpitter-1, SpitLizard-{Mean:1.0}-1, Red-{Mean:1.0}-0
+
+(Saint)LINEAGE : HH_Elevator : 3 : Centipede-{0.4}-1, Centipede-{0.6}-1, Centipede-{0.8}-1, Centipede-{1.0}-1, RedCentipede-0
+(Saint)HH_Elevator : 3-Small Centipede-{Ignorecycle}-2
+(Saint)LINEAGE : HH_Statue : 4 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
+(Saint)LINEAGE : HH_Statue : 4 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
+
+(Saint)LINEAGE : HH_Cabinets : 4 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
+(Saint)LINEAGE : HH_Cabinets : 4 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
+(Saint)LINEAGE : HH_Cabinets : 4 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
+(Saint)LINEAGE : HH_Cabinets : 4 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
+(Saint)LINEAGE : HH_Deepinets : 3 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
+(Saint)LINEAGE : HH_Deepinets : 3 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
+(Saint)LINEAGE : HH_Deepinets : 4 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
+(Saint)LINEAGE : HH_Deepinets : 4 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
+
+//Future
+(Incandescent,Begonia)OFFSCREEN : 0-Deer-{Ignorecycle}-14, 0-Leviathan-{Voidsea}
+
+(Incandescent,Begonia)HH_01 : 2-DropWig-{Ignorecycle}
+(Incandescent,Begonia)HH_02 : 3-DropWig-{Ignorecycle}
+(Incandescent,Begonia)LINEAGE : HH_03 : 3 : EggBug-{Ignorecycle}-0.4, FireBug-{Ignorecycle}-0
+(Incandescent,Begonia)HH_05 : 5-BigNeedleWorm-{Ignorecycle}, 7-Polliwog-{Ignorecycle}, 9-Polliwog-{Ignorecycle}
+(Incandescent,Begonia)LINEAGE : HH_06 : 4 : Centipede-{0.5}-0.65, Centipede-{0.6}-0.65, Centipede-{0.7}-0.65, Centipede-{0.8}-0.65, Centipede-{0.9}-0.65, Centipede-{1.0}-0.65, RedCentipede-0
+(Incandescent,Begonia)HH_07 : 3-TentaclePlant-{Ignorecycle}, 4-TentaclePlant-{Ignorecycle}, 5-TentaclePlant-{Ignorecycle}
+(Incandescent,Begonia)HH_08 : 3-DropWig-{Ignorecycle}
+(Incandescent,Begonia)HH_09 : 6-Polliwog-{Ignorecycle}, 9-Polliwog-{Ignorecycle}
+(Incandescent,Begonia)HH_10 : 3-DropWig-{Ignorecycle}
+(Incandescent,Begonia)HH_13 : 3-Small Centipede-{Ignorecycle}
+(Incandescent,Begonia)HH_13 : 2-DropWig-{Ignorecycle}
+(Incandescent,Begonia)LINEAGE : HH_23 : 3 : EggBug-{Ignorecycle}-0.4, FireBug-{Ignorecycle}-0
+(Incandescent,Begonia)HH_23 : 4-DropWig-{Ignorecycle}
+(Incandescent,Begonia)LINEAGE : HH_26 : 4 : Green-{Mean:1.0}-0.65, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(Incandescent,Begonia)HH_U : 6-DropWig-{Ignorecycle}
+(Incandescent,Begonia)HH_H : 3-Polliwog-{Ignorecycle}
+(Incandescent,Begonia)HH_Extend : 3-Small Centipede-2
+(Incandescent,Begonia)LINEAGE : HH_Extend : 3 : Centipede-{0.5}-0.65, Centipede-{0.6}-0.65, Centipede-{0.7}-0.65, Centipede-{0.8}-0.65, Centipede-{0.9}-0.65, Centipede-{1.0}-0.65, RedCentipede-0
+(Incandescent,Begonia)LINEAGE : HH_Extend : 4 : Green-{Mean:1.0}-0.65, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(Incandescent,Begonia)LINEAGE : HH_15 : 3 : Eel-{Ignorecycle}-0.4, AquaCenti-{Ignorecycle}-0
+
+(Incandescent,Begonia)LINEAGE : HH_19 : 2 : Centipede-{0.5}-0.65, Centipede-{0.6}-0.65, Centipede-{0.7}-0.65, Centipede-{0.8}-0.65, Centipede-{0.9}-0.65, Centipede-{1.0}-0.65, RedCentipede-{Voidsea}-0
+(Incandescent,Begonia)HH_19 : 3-FireBug-{Ignorecycle}-2
+(Incandescent,Begonia)HH_22 : 3-FireBug-{Ignorecycle}
+(Incandescent,Begonia)LINEAGE : HH_25 : 4 : Green-{Mean:1.0}-0.65, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(Incandescent,Begonia)LINEAGE : HH_Elevator : 3 : Centipede-{0.5}-0.65, Centipede-{0.6}-0.65, Centipede-{0.7}-0.65, Centipede-{0.8}-0.65, Centipede-{0.9}-0.65, Centipede-{1.0}-0.65, RedCentipede-0
+(Incandescent,Begonia)HH_Elevator : 3-Small Centipede-{Ignorecycle}-2
+(Incandescent,Begonia)HH_Statue : 4-DropWig-{Ignorecycle}-2
+
+(Incandescent,Begonia)HH_Cabinets : 4-DropWig-{Ignorecycle}-4
+(Incandescent,Begonia)HH_Deepinets : 3-DropWig-{Ignorecycle}-4
+
+//Pitch Black
+(Beacon,Photomaniac)OFFSCREEN : 0-Deer-10, 0-Leviathan-{Ignorecycle}, 0-MirosBird-22, 0-MirosVulture
+
+(Beacon,Photomaniac)LINEAGE : HH_02 : 3 : BigSpider-{Ignorecycle}-0.4, MotherSpider-{Ignorecycle}-0.4, SpitterSpider-{Ignorecycle}-0
+(Beacon,Photomaniac)LINEAGE : HH_03 : 3 : EggBug-{Ignorecycle}-0.4, FireBug-{Ignorecycle}-0
+(Beacon,Photomaniac)HH_05 : 5-BigNeedleWorm, 7-Polliwog-{Ignorecycle}, 9-Polliwog-{PreCycle}
+(Beacon,Photomaniac)LINEAGE : HH_06 : 4 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(Beacon,Photomaniac)HH_07 : 3-TentaclePlant-{Ignorecycle}, 4-TentaclePlant-{Ignorecycle}, 5-TentaclePlant-{Ignorecycle}
+(Beacon,Photomaniac)LINEAGE : HH_08 : 3 : BigSpider-{Ignorecycle}-0.4, MotherSpider-{Ignorecycle}-0.4, SpitterSpider-{Ignorecycle}-0
+(Beacon,Photomaniac)HH_09 : 6-Polliwog-{Ignorecycle}, 9-Polliwog-{PreCycle}
+(Beacon,Photomaniac)LINEAGE : HH_10 : 3 : BigSpider-{Ignorecycle}-0.4, MotherSpider-{Ignorecycle}-0.4, SpitterSpider-{Ignorecycle}-0
+(Beacon,Photomaniac)HH_13 : 3-Small Centipede-{AlternateForm}
+(Beacon,Photomaniac)LINEAGE : HH_13 : 2 : BigSpider-{Ignorecycle}-0.4, MotherSpider-{Ignorecycle}-0.4, SpitterSpider-{Ignorecycle}-0
+(Beacon,Photomaniac)LINEAGE : HH_23 : 3 : EggBug-{Ignorecycle}-0.4, FireBug-{Ignorecycle}-0
+(Beacon,Photomaniac)LINEAGE : HH_26 : 4 : Green-{Mean:1.0}-0.65, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(Beacon,Photomaniac)LINEAGE : HH_U : 6 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
+(Beacon,Photomaniac)LINEAGE : HH_U : 6 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
+(Beacon,Photomaniac)HH_H : 3-Polliwog-{Ignorecycle}
+(Beacon,Photomaniac)HH_Extend : 3-Small Centipede-2
+(Beacon,Photomaniac)LINEAGE : HH_Extend : 3 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(Beacon,Photomaniac)LINEAGE : HH_Extend : 4 : Green-{Mean:1.0}-0.65, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(Beacon,Photomaniac)LINEAGE : HH_15 : 3 : Eel-{Ignorecycle}-0.4, AquaCenti-{Ignorecycle}-0
+
+(Beacon,Photomaniac)LINEAGE : HH_19 : 2 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-{Voidsea}-0
+(Beacon,Photomaniac)LINEAGE : HH_25 : 4 : Green-{Mean:1.0}-0.65, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(Beacon,Photomaniac)LINEAGE : HH_Elevator : 3 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(Beacon,Photomaniac)HH_Elevator : 3-Small Centipede-{AlternateForm}-2, 3-Small Centipede
+(Beacon,Photomaniac)HH_Statue : 4-DropWig-{Ignorecycle}-2
+
+//Inv
+(Inv)OFFSCREEN : 0-Deer-{Ignorecycle}-14, 0-Leviathan-{Ignorecycle}-2, 0-Overseer-400, 0-Scavenger-20, 0-ScavengerElite-100, 0-MirosBird-30, 0-MirosVulture-2
+
+(Inv,NCREntropy)HH_01 : 2-TerrorLongLegs-{Ignorecycle}
+(Inv,NCREntropy)HH_02 : 3-Seeker-{Mean:1.0}
+(Inv,NCREntropy)HH_03 : 3-FireBug
+(Inv,NCREntropy)HH_05 : 5-BigNeedleWorm, 7-Eel-{Ignorecycle}, 9-Eel-{PreCycle}
+(Inv,NCREntropy)LINEAGE : HH_06 : 4 : Scutigera-1, Centipede-{1.0}-1, RedCentipede-0
+(Inv,NCREntropy)HH_07 : 3-TentaclePlant-{Ignorecycle}, 4-TentaclePlant-{Ignorecycle}, 5-TentaclePlant-{Ignorecycle}
+(Inv,NCREntropy)HH_08 : 3-SpitterSpider
+(Inv,NCREntropy)HH_09 : 6-Eel-{Ignorecycle}, 9-Eel-{PreCycle}
+(Inv,NCREntropy)HH_13 : 3-Small Centipede-2
+(Inv,NCREntropy)HH_13 : 2-SpitterSpider
+(Inv,NCREntropy)HH_23 : 3-FireBug
+(Inv,NCREntropy)HH_23 : 4-SpitterSpider
+(Inv,NCREntropy)LINEAGE : HH_26 : 4 : WaterSpitter-{Mean:1.0}-1, SpitLizard-{Mean:1.0}-1, Red-{Mean:1.0}-1, TrainLizard-{Mean:1.0}-0
+
+(Inv,NCREntropy)HH_U : 6-Seeker-{Mean:1.0}
+(Inv,NCREntropy)HH_H : 3-Polliwog-{Ignorecycle}
+(Inv,NCREntropy)HH_Extend : 3-Small Centipede, 3-Small Centipede-{AlternateForm}
+(Inv,NCREntropy)LINEAGE : HH_Extend : 3 : Centipede-{0.6}-1, Centipede-{0.8}-1, Centipede-{1.0}-1, RedCentipede-0
+(Inv,NCREntropy)LINEAGE : HH_Extend : 4 : Green-{Mean:1.0}-0.65, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(Inv,NCREntropy)LINEAGE : HH_19 : 2 : Scutigera-1, Centipede-{1.0}-1, RedCentipede-{Voidsea}-0
+(Inv,NCREntropy)HH_19 : 3-FireBug-2
+(Inv,NCREntropy)HH_22 : 3-FireBug
+(Inv,NCREntropy)LINEAGE : HH_25 : 4 : WaterSpitter-{Mean:1.0}-1, SpitLizard-{Mean:1.0}-1, Red-{Mean:1.0}-1, TrainLizard-{Mean:1.0}-0
+
+(Inv,NCREntropy)HH_15 : 3-AquaCenti-{Ignorecycle}
+
+(Inv,NCREntropy)HH_Cabinets : 4-Seeker-{Mean:1.0}
+(Inv,NCREntropy)HH_Deepinets : 3-Seeker-{Mean:1.0}
+
+(Inv,NCREntropy)LINEAGE : HH_Elevator : 3 : Centipede-{0.4}-1, Centipede-{0.5}-1, Centipede-{0.6}-1, Centipede-{0.7}-1, Centipede-{0.8}-1, Centipede-{0.9}-1, Centipede-{1.0}-1, RedCentipede-0
+(Inv,NCREntropy)HH_Elevator : 3-Small Centipede-3
+(Inv,NCREntropy)HH_Statue : 4-DropWig-{Ignorecycle}-2
+
+//Entropy
+(NCREntropy)OFFSCREEN : 0-Deer-{Ignorecycle}-14, 0-Leviathan-{Ignorecycle}-2, 0-Scavenger-10, 0-ScavengerElite-15, 0-MirosBird-30, 0-MirosVulture-2
+(NCREntropy)HH_03 : 3-BigNeedleWorm
+END CREATURES
+
+BAT MIGRATION BLOCKAGES
+HH_04
+HH_10
+HH_13
+HH_14
+HH_15
+HH_20
+HH_21
+HH_24
+HH_28
+HH_29
+HH_Chute
+HH_Puddle
+HH_AAAA
+HH_WATER
+END BAT MIGRATION BLOCKAGES

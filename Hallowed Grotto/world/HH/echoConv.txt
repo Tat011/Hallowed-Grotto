@@ -1,0 +1,142 @@
+(Spear)What has brought you here, creature?
+(Spear)Was it just random chance?
+(Spear)Or were you too brought here by visions from the abyss?
+(Spear)I once held a fascination for this place, its history, its knowledge.
+(Spear)Now roaming these corridors feels nostalgic.
+(Spear)I spent so much of my time here.
+(Spear)Studying, measuring, hypothesizing.
+(Spear)And I'm now supposed to just let it go?
+(Spear)Act like it never happened?
+(Spear)How would one even achieve that?
+
+(Artificer)I see you.
+(Artificer)You do not belong here.
+(Artificer)This place is incompatible with your hate.
+(Artificer)Then again, in this place, far from those who have wronged you,<LINE>perhaps you can learn to forgive.
+(Artificer)It's only up to you.
+
+(Red)I can feel your pain, little one.
+(Red)Know that it's not yet over for you. 
+(Red)Take this gift and keep descending.
+(Red)Perhaps you can do what I could not.
+
+(Gourmand)What would someone like you make of this place?
+(Gourmand)I was once fascinated by these ruins.
+(Gourmand)So many questions, so little answers. 
+(Gourmand)Do you feel the same way about the things we left behind?
+(Gourmand)A cycle within a cycle.
+(Gourmand)Eventually, some other creature will emerge and investigate the things your kind left behind.
+(Gourmand)I wonder just how deep beneath the earth our creations will be by then.
+(Gourmand)And the ruins we are standing on?
+(Gourmand)Gone, erased as if they never existed in the first place.
+
+(White)You! 
+(White)Come, sit down with me.
+(White)What do you think makes this place hallowed?
+(White)Is it its proximity to the void?
+(White)The vegetation?
+(White)Some ancient technology?
+(White)I pondered this question for countless cycles when I was whole, and for even more countless cycles now.
+(White)Even though the answer no longer matters.
+(White)Still, I can't help myself.
+(White)Why is this place different?
+(White)The answer has to lie in here somewhere.
+(White)It has to.
+
+(Yellow)Yet another creature!
+(Yellow)I'm growing rather fond of being visited by your kind.
+(Yellow)But it wasn't only your kind.
+(Yellow)All sorts of different beings have traversed these holy grounds throught my semi existence.
+(Yellow)...
+(Yellow)Can someone like me continue to make memories? 
+(Yellow)Continue changing despite my predicament? 
+(Yellow)I certainly hope so.
+
+(Rivulet)Another one is here, it has certainly been a long time.
+(Rivulet)Come.
+(Rivulet)Stay a while.
+(Rivulet)...
+(Rivulet)I've made peace with the fact that I'll never understand this place.
+(Rivulet)This place is,
+(Rivulet)and I am.
+(Rivulet)And that's good enough.
+
+(Saint)Can you feel it? 
+(Saint)The void is really close now. 
+(Saint)Soon this area will no longer exist, and who knows what will happen to me. 
+(Saint)Everything comes to an end eventually.
+(Saint)Do you think I will finally get to join my peers?
+
+(Inv)...
+(Inv)...
+(Inv)This region fucking sucks.
+(Inv)I want a refund.
+(Inv)Do you know how i can contact customer service?
+
+(Pearlcat)You are a fellow archaeologist, aren't you?
+(Pearlcat)I sense your collection,<LINE>each pearl has its own story to tell.
+(Pearlcat)The fate of so much information is in your hands.
+(Pearlcat)And yet you can't access it yourself, can you?
+(Pearlcat)...
+(Pearlcat)In the now dilapidated laboratory lies a pearl I think you'll like.
+(Pearlcat)It has undergone a fascinating transformation.
+(Pearlcat)Harness its secrets.
+
+(Gravelslug)What are you?
+(Gravelslug)You are the strangest thing to enter my sphere of influence.
+(Gravelslug)...
+(Gravelslug)I see you.
+(Gravelslug)It seems you'll beat me on our race to the bottom.
+(Gravelslug)I hope to see you at the finish line.
+
+(Incandescent,Begonia)...
+
+(thedronemaster)Thinking you can brute force your problems with technology is the kind of foolishness my kind engaged in.
+(thedronemaster)It didn't work out for them.
+(thedronemaster)And i doubt it will work out for you.
+(thedronemaster)Cease your violence.
+(thedronemaster)This system doesn't react well when its balance is disrupted.
+
+(Vinki)I BETTER NOT SEE YOU GRAFFITI THESE RUINS
+(Vinki)THESE ARE PRICELESS ARTIFACTS
+(Vinki)YOU HEAR ME?
+
+(Speedrunner)I see you're in a hurry.
+(Speedrunner)Are you sure this is the optimal path?
+(Speedrunner)Hang on,<LINE>let me get my map
+(Speedrunner)...
+(Speedrunner)Wait, are you trying to avoid going through filtration system?
+(Speedrunner)Did you install a region mod just to avoid it?
+(Speedrunner)That's no good, you can't just run from your problems.
+(Speedrunner)Well you can but you know what I mean.
+
+(Beacon,Photomaniac)You're looking at the one and only A Meadow of Mountains, Unchecked!
+(Beacon,Photomaniac)If only you knew what that meant, little blue... thing.
+(Beacon,Photomaniac)Everyone in the local group knew my name!
+(Beacon,Photomaniac)My technique and style were unparalleled!
+(Beacon,Photomaniac)No one could surpass me!
+(Beacon,Photomaniac)And yet...
+(Beacon,Photomaniac)Here I am.
+(Beacon,Photomaniac)I was warned that my hubris would prevent me from leaving this plane and I didn't listen.
+(Beacon,Photomaniac)But I regret nothing!
+(Beacon,Photomaniac)I lived a full life and if my "death" was far from ideal then so be it.
+(Beacon,Photomaniac)I'll reminisce about my glory till the end of time!
+
+(MMWingcat,Outsider)You've strayed far from your natural environment.
+(MMWingcat,Outsider)These claustrophobic chambers are hardly fitting for a winged creature.
+(MMWingcat,Outsider)In that way we're more alike than you might think.
+(MMWingcat,Outsider)Such is the nature of exploration and discovery.
+(MMWingcat,Outsider)We only reach new places by pushing the boundaries of what is possible, one step at a time.
+
+(NCREntropy)You come into MY house and tell me how to arrange MY furniture?
+(NCREntropy)What a fool you are.
+(NCREntropy)SKELETON DIVINE DEATH BLAST!
+
+(guide,darkness,CowBoySLug,slugSpiderDartSleep,PorcupineCat,Estranged,LancerMonk,MaulCat)The people who built this place, they were like us.
+(guide,darkness,CowBoySLug,slugSpiderDartSleep,PorcupineCat,Estranged,LancerMonk,MaulCat)They had their own hopes and dreams, as well as anxieties and fears.
+(guide,darkness,CowBoySLug,slugSpiderDartSleep,PorcupineCat,Estranged,LancerMonk,MaulCat)They had ideologies that clashed, culture that shifted over time, heroes they looked up to and villains they hated.
+(guide,darkness,CowBoySLug,slugSpiderDartSleep,PorcupineCat,Estranged,LancerMonk,MaulCat)And yet it's all lost to time.
+(guide,darkness,CowBoySLug,slugSpiderDartSleep,PorcupineCat,Estranged,LancerMonk,MaulCat)We can only see glimpses of what they were like from what little remains.
+(guide,darkness,CowBoySLug,slugSpiderDartSleep,PorcupineCat,Estranged,LancerMonk,MaulCat)And that's also us now, isn't it?
+(guide,darkness,CowBoySLug,slugSpiderDartSleep,PorcupineCat,Estranged,LancerMonk,MaulCat)We are not here anymore, we can't tell our story.
+(guide,darkness,CowBoySLug,slugSpiderDartSleep,PorcupineCat,Estranged,LancerMonk,MaulCat)It's up to whatever intelligence comes next to remember us, and our predecessors too.
