@@ -1,0 +1,6 @@
+Template: HH_SettingsTemplate_Survivor
+RandomItemDensity: 1
+RandomItemSpearChance: 1
+Effects: Advertisements-1-276-76, Darkness-0-296-84, Starfishies-0.6-19-97,
+AmbientSounds: OMNI><AM_ENV-WindGrass.ogg><20><20><0.4><1,
+FadePalette: 8, 0.4
