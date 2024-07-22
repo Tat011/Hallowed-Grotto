@@ -1,0 +1,3 @@
+Effects: Beetle-0.75-11-62, TinyDragonFly-0.65-267-123, RedSwarmer-0.65-267-9
+PlacedObjects: DandelionPeach><46.74631><252.5135><-110.4762~-131.6571~1~10, KarmaFlower><533.847><79.1749><0~0~2~14, DandelionPatch><476.1778><334.9098><-476.6771~12.53336,
+FadePalette: 2, 0.1
