@@ -1,0 +1,6 @@
+RandomItemDensity: 1
+RandomItemSpearChance: 1
+Effects: RockFlea-1-20-20, GrassHopper-1-9-4, Beetle-1-11-62, TinyDragonFly-0.1-267-123, RedSwarmer-0.1-267-9, Lightning-1-264-179, GreenSparks-1-264-179,
+AmbientSounds: OMNI><AM_ENV-WindGrass.ogg><20><20><0><1, OMNI><AM_ENV-LightWind.ogg><20><20><1><1, OMNI><AM_ENV-NatWind.ogg><20><20><1><1, OMNI><AM_RAIN-Rumbles.ogg><20><20><1><1, OMNI><AM_RAIN-RollingThunder.ogg><20><20><1><1, 
+EffectColorA: 14
+FadePalette: 8, 0.4, 0.44, 0.48
