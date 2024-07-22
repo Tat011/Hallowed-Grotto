@@ -1,0 +1,6 @@
+RandomItemDensity: 0.8
+RandomItemSpearChance: 0.8
+PlacedObjects: ExitSymbolHidden><2848.474><172.7167><, DandelionPatch><1313.881><329.6607><-1344~-40, DandelionPatch><3397.336><316.8849><-748~-9, DandelionPatch><5444.017><333.1993><-1304~-39, LanternOnStick><5008.043><342.8047><-28~-62, LanternOnStick><672.8068><349.0514><19~68, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><20><20><0.5><1,
+EffectColorA: 14
+FadePalette: 2, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1
