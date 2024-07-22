@@ -1,0 +1,7 @@
+Template: HH_SettingsTemplate_Riv
+RandomItemDensity: 1
+RandomItemSpearChance: 1
+Effects: Advertisements-1-276-76, Beetle-0.75-11-62, TinyDragonFly-0.65-267-123, RedSwarmer-0.65-267-9
+PlacedObjects: WaterNut><96.57312><200.6862><94~67~1~10,
+Triggers: Spot<tA>event<tB>ShowProjectedImageEvent<eA>afterEncounter<eB>0<eA>fromCycle<eB>0<eA>onlyWhenShowingDirection<eB>0<tA>multiUse<tB>1<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>714.5516<tB>259.5253<tA>fireChance<tB>0.6<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB><tA>pos<tB>488.5516<tB>216.5254<tA>handlePos<tB>-333.3553<tB>-3.355347, 
+FadePalette: 2, 0.1
