@@ -1,6 +1,7 @@
 [MERGE]
 GATE_HH_UF : Open : 2
 GATE_AB_HH : 1 : Open : Multi
+GATE_HH_SC : Open : 2
 
 GATE_DS_HH_Spear : 3 : Open
 GATE_DS_HH_Arti : 4 : Open
