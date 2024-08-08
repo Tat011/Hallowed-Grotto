@@ -2,3 +2,4 @@
 [ADD]HH_pearl_2 : 00fafa : ffffff : HH_SGarden
 [ADD]HH_pearl_3 : e6ff00 : ffff00 : HH_Pebbles
 [ADD]HH_pearl_4 : 787878 : ffffff : HH_SIUPearl
+[ADD]HH_pearl_5 : 000000 : 3e3e3e : HH_Members
