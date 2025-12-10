@@ -1,3 +1,3 @@
-PlacedObjects: ExitSymbolHidden><3227.688><326.3197><, DandelionPatch><1368.492><291.0711><-1346.079~-55.02223, DandelionPatch><2939.657><449.1169><-313.7531~6.133301,
+PlacedObjects: ExitSymbolHidden><3227.688><326.3197><, DandelionPatch><1368.492><291.0711><-1346.079~-55.02223, DandelionPatch><2939.657><449.1169><-313.7531~6.133301, LimeMushroom><2661.874><600.1555><0~0~2~3, LimeMushroom><2610.027><613.8019><0~0~2~3, LimeMushroom><2547.889><633.8334><0~0~2~3,
 AmbientSounds: OMNI><AM_ENV-WindGrass.ogg><20><20><0.7><1,
 FadePalette: 2, 0.1, 0.1, 0.1

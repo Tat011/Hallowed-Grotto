@@ -2,7 +2,7 @@ Template: HH_SettingsTemplate_Spear
 RandomItemDensity: 1
 RandomItemSpearChance: 1
 Effects: Advertisements-1-276-76, RockFlea-1-20-20, GrassHopper-1-9-4, Beetle-0.1-11-62, TinyDragonFly-0.01-267-123, RedSwarmer-0.1-267-9, Lightning-1-264-179, GreenSparks-1-264-179,
-PlacedObjects: ExitSymbolHidden><2848.474><172.7167><, WhiteToken><305.024><651.4637><27.03543~-20.88898~64.79785~-194.1082~0~LightsEclipse log~~0~1~0~0,
+PlacedObjects: ExitSymbolHidden><2848.474><172.7167><, WhiteToken><305.024><651.4637><27.03543~-20.88898~64.79785~-194.1082~0~LightsEclipseLog~~0~1~0~0,
 AmbientSounds: OMNI><AM_ENV-WindGrass.ogg><20><20><0><1, OMNI><AM_ENV-LightWind.ogg><20><20><1><1, OMNI><AM_ENV-NatWind.ogg><20><20><1><1, OMNI><AM_RAIN-Rumbles.ogg><20><20><1><1, OMNI><AM_RAIN-RollingThunder.ogg><20><20><1><1, 
 EffectColorA: 14
 FadePalette: 8, 0.35, 0.35, 0.35, 0.35, 0.35, 0.35

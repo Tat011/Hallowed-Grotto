@@ -22,6 +22,7 @@ corruptionEyeColor: 1,1,1
 corruptionEffectColor: 1,1,1
 rotEyeColor: BrotherLongLegs-ffffff,DaddyLongLegs-ffffff,TerrorLongLegs-ffffff,HunterDaddy-ffffff
 rotEffectColor: BrotherLongLegs-ffffff,DaddyLongLegs-ffffff,TerrorLongLegs-ffffff,HunterDaddy-ffffff
+inspectorColor: 0,0,0
 
 scavGearItems: ElectricSpear-1,ExplosiveSpear-1,LillyPuck-0.15,FirecrackerPlant-0.2,FlareBomb-0.15,PuffBall-0.15,SporePlant-0.15,Jellyfish-0.15,Hazer-0.15,ScavengerBomb-0.35,Lantern-1
 eliteScavGearItems: ElectricSpear-1,ExplosiveSpear-1,LillyPuck-0.2,FirecrackerPlant-0.15,FlareBomb-0.15,PuffBall-0.15,SporePlant-0.15,Jellyfish-0.2,Hazer-0.15,ScavengerBomb-1
@@ -181,3 +182,8 @@ Room_Attr: HH_SC: BigNeedleWorm-Avoid,Centipede-Avoid,Scutigera-Avoid,BlueLizard
 Room_Attr: HH_Shelter: BigNeedleWorm-Avoid,BlueLizard-Avoid,WhiteLizard-Avoid,CyanLizard-Avoid,hunterseeker-Avoid,
 
 Room_Attr: HH_U: BigNeedleWorm-Avoid,BlueLizard-Like,WhiteLizard-Like,CyanLizard-Like,hunterseeker-Like,Centipede-Like,Scutigera-Like,EggBug-Like,FireBug-Like,TerrorLongLegs-Forbidden,DaddyLongLegs-Forbidden,BrotherLongLegs-Forbidden,
+
+HH_Lake : Deer-Stay,MirosBird-Forbidden,MirosVulture-Forbidden,Salamander-Like,EelLizard-Like,Polliwog-Like,JetFish-Stay,
+HH_MS : Salamander-Avoid,EelLizard-Avoid,Polliwog-Avoid,JetFish-Stay,
+HH_DS : BlueLizard-Avoid,WhiteLizard-Avoid,CyanLizard-Avoid,hunterseeker-Avoid,Centipede-Forbidden,RedCentipede-Avoid,Scutigera-Forbidden,BigNeedleWorm-Avoid,
+HH_GW : BlueLizard-Avoid,WhiteLizard-Avoid,CyanLizard-Avoid,hunterseeker-Avoid,Centipede-Avoid,Scutigera-Avoid,RedCentipede-Avoid,TerrorLongLegs-Stay,DaddyLongLegs-Stay,BrotherLongLegs-Stay,BigNeedleWorm-Avoid,

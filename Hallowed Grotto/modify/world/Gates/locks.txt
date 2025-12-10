@@ -1,38 +1,40 @@
 [MERGE]
-GATE_HH_UF : Open : 2
-GATE_AB_HH : 1 : Open : Multi
-GATE_HH_SC : Open : 2
+GATE_HH_UF : Openalt : 2
+GATE_AB_HH : 1 : Openalt : Multi
+GATE_HH_SC : Openalt : 2
+GATE_4B_HH : 5txt : Open
+GATE_HH_MS : Open : 2
 
-GATE_DS_HH_Spear : 3 : Open
-GATE_DS_HH_Arti : 4 : Open
-GATE_DS_HH_Hunter : 3 : Open
-GATE_DS_HH_Gourmand : 3 : Open
-GATE_DS_HH : 2 : Open
-GATE_DS_HH_Monk : 1 : Open
-GATE_DS_HH_Riv : 3 : Open
-GATE_DS_HH_Saint : 2 : Open
+GATE_DS_HH_Spear : 3 : Openalt
+GATE_DS_HH_Arti : 4 : Openalt
+GATE_DS_HH_Hunter : 3 : Openalt
+GATE_DS_HH_Gourmand : 3 : Openalt
+GATE_DS_HH : 2 : Openalt
+GATE_DS_HH_Monk : 1 : Openalt
+GATE_DS_HH_Riv : 3 : Openalt
+GATE_DS_HH_Saint : 2 : Openalt
 
-GATE_HH_GW_Spear : Open : 3
-GATE_HH_GW_Arti : Open : 5
-GATE_HH_GW_Hunter : Open : 3
-GATE_HH_GW_Gourmand : Open : 3
-GATE_HH_GW : Open : 2
-GATE_HH_GW_Monk : Open : 2
-GATE_HH_GW_Riv : Open : 3
-GATE_HH_GW_Saint : Open : 3
+GATE_HH_GW_Spear : Open : 3txt
+GATE_HH_GW_Arti : Open : 5txt
+GATE_HH_GW_Hunter : Open : 3txt
+GATE_HH_GW_Gourmand : Open : 3txt
+GATE_HH_GW : Open : 2txt
+GATE_HH_GW_Monk : Open : 2txt
+GATE_HH_GW_Riv : Open : 3txt
+GATE_HH_GW_Saint : Open : 3txt
 
-GATE_HH_SL : Open : 1 : Multi
-GATE_HH_SL_Riv : Open : 3 : Multi
-GATE_HH_SL_Saint : Open : 2 : Multi
+GATE_HH_SL : Openalt : 1 : Multi
+GATE_HH_SL_Riv : Openalt : 3 : Multi
+GATE_HH_SL_Saint : Openalt : 2 : Multi
 
-GATE_SB_HH_Spear : 3 : Open : Multi
-GATE_SB_HH_Arti : 5 : Open : Multi
-GATE_SB_HH_Hunter : 3 : Open : Multi
-GATE_SB_HH_Gourmand : 2 : Open : Multi
-GATE_SB_HH : 2 : Open : Multi
-GATE_SB_HH_Monk : 1 : Open : Multi
-GATE_SB_HH_Riv : 2 : Open : Multi
-GATE_SB_HH_Saint : 2 : Open : Multi
+GATE_SB_HH_Spear : 3 : Openalt : Multi
+GATE_SB_HH_Arti : 5 : Openalt : Multi
+GATE_SB_HH_Hunter : 3 : Openalt : Multi
+GATE_SB_HH_Gourmand : 2 : Openalt : Multi
+GATE_SB_HH : 2 : Openalt : Multi
+GATE_SB_HH_Monk : 1 : Openalt : Multi
+GATE_SB_HH_Riv : 2 : Openalt : Multi
+GATE_SB_HH_Saint : 2 : Openalt : Multi
 
-GATE_HH_SB : Forbidden : 10
+GATE_HH_SB : Forbiddenalt : 10
 [ENDMERGE]

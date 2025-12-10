@@ -11,5 +11,5 @@ Palette: 9
 EffectColorA: 13
 EffectColorB: 3
 FadePalette: 195, 0.55
-Effects: RockFlea-1-20-20, TinyDragonFly-1-267-123, GrassHopper-0.9-9-4, Beetle-0.8-11-62,
+Effects: ReplaceEffectColorB-0.25-70.38-111.1-Color-0-0.949-0.6, RockFlea-1-20-20, TinyDragonFly-1-267-123, GrassHopper-0.9-9-4, Beetle-0.8-11-62,
 WetTerrain: ON

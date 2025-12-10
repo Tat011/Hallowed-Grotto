@@ -9,8 +9,8 @@ RandomItemDensity: 0.3
 RandomItemSpearChance: 0.4
 Palette: 10
 EffectColorA: 9
-EffectColorB: 6
+EffectColorB: 3
 FadePalette: 125, 0.3
-Effects: RockFlea-1-20-20,
+Effects: ReplaceEffectColorB-0.25-70.38-111.1-Color-0-0.949-0.6, RockFlea-1-20-20,
 PlacedObjects: ExitSymbolHidden><95.95355><308.6945><, ExitSymbolHidden><873.1938><311.7007><,
 WetTerrain: ON

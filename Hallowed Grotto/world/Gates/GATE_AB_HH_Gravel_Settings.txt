@@ -11,6 +11,6 @@ Palette: 10
 EffectColorA: 9
 EffectColorB: 3
 FadePalette: 195, 0.3
-Effects: WaterGlowworm-0.6-20-20, RockFlea-0.6-20-20, Starfishies-0.15-19-97,
+Effects: ReplaceEffectColorB-0.25-70.38-111.1-Color-0-0.949-0.6, WaterGlowworm-0.6-20-20, RockFlea-0.6-20-20, Starfishies-0.15-19-97,
 PlacedObjects: ExitSymbolHidden><175.6997><35.99043><, ExitSymbolHidden><793.9498><462.5061><,
 WetTerrain: ON

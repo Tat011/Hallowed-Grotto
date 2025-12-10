@@ -1,0 +1,12 @@
+DangerType: Flood
+CeilingDrips: 0.7
+RainIntensity: 0
+RumbleIntensity: 0.15
+Clouds: 0.4
+Grime: 0
+Palette: 45
+EffectColorA: 18
+EffectColorB: 7
+Effects: ElectricDeath-0.1-283-17, RockFlea-0.25-14-126, 
+AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><20.80548><457.9536><0.1><1, OMNI><AM_ENV-SubTerr.ogg><17.81799><528.1671><0.26><1, OMNI><AM_WIN-SubWnd.ogg><21.30286><380.7162><0.163><1, OMNI><MSC-HeavyCreaking.ogg><438.8279><645.0658><0.0847823><0.5, OMNI><MSC-UnrelentingBreakage.ogg><624.9498><647.2405><0.2043478><0.3152174, OMNI><MSC-StructureStrain.ogg><625.3441><563.3235><0.42><0.1, 
+FadePalette: 125, 0.5

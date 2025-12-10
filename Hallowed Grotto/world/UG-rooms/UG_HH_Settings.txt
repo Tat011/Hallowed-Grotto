@@ -9,7 +9,7 @@ RandomItemDensity: 0.2
 RandomItemSpearChance: 0.3
 Palette: 4
 EffectColorA: 2
-EffectColorB: 7
+EffectColorB: 3
 FadePalette: 14, 0.5
 Effects: RockFlea-1-20-20, GrassHopper-1-20-40, Beetle-1-100-20, TinyDragonFly-1-100-40 
 PlacedObjects: Mushroom><693.8555><160.3301><0~0~5~15, Mushroom><621.9399><185.8127><0~0~5~15, 

@@ -12,5 +12,5 @@ EffectColorA: 9
 EffectColorB: 5
 FadePalette: 8, 0.75
 Effects: RockFlea-1-20-20, Beetle-1-20-40, 
-PlacedObjects: Mushroom><796.6503><184.6319><10~-164~5~15, Mushroom><768.9783><178.4488><18~-95~5~15, Mushroom><821.5503><188.5101><-9~-127~5~15, Mushroom><831.121><188.9093><0~0~5~15, InsectGroup><818.9188><249.6072><1~148~-278~117~GrassHopper~0.5, InsectGroup><818.9188><249.6072><1~148~-278~117~GrassHopper~0.5, InsectGroup><481.0875><143.6166><0~435~-538~265~LightningBugA~1, InsectGroup><178.6126><246.1047><-5~138~0~0~GrassHopper~0.35, Mushroom><109.57><190.5872><-74~-117~5~10, Mushroom><139.5562><175.4504><0~0~5~10, 
+PlacedObjects: Mushroom><796.6503><184.6319><10~-164~5~15, Mushroom><768.9783><178.4488><18~-95~5~15, Mushroom><821.5503><188.5101><-9~-127~5~15, Mushroom><831.121><188.9093><0~0~5~15, InsectGroup><818.9188><249.6072><1~148~-278~117~GrassHopper~0.5, InsectGroup><818.9188><249.6072><1~148~-278~117~GrassHopper~0.5, InsectGroup><481.0875><143.6166><0~435~-538~265~LightningBugA~1, InsectGroup><178.6126><246.1047><-5~138~0~0~GrassHopper~0.35, Mushroom><109.57><190.5872><-74~-117~5~10, Mushroom><139.5562><175.4504><0~0~5~10, ExitSymbolHidden><52.63889><184.1054><,
 WetTerrain: ON

@@ -22,6 +22,7 @@ corruptionEyeColor: 0,0.8,0
 corruptionEffectColor: 0,1,0
 rotEyeColor: BrotherLongLegs-00c300,DaddyLongLegs-00e100,TerrorLongLegs-00ff00,HunterDaddy-926439
 rotEffectColor: BrotherLongLegs-00ff00,DaddyLongLegs-00ff00,TerrorLongLegs-00ff00,HunterDaddy-926439
+inspectorColor: 0,0.455,0
 
 playerGuideOverseerSpawnChance: 1
 guideShelterWeight: 2
@@ -30,7 +31,7 @@ guideColor: 0, 0.455, 0
 
 overseersSpawnChance: 0.6
 overseersMin: 0
-overseersMax: 40
+overseersMax: 21
 overseersColorOverride(0.5, 0, 0.5): 0.04 //Purpler
 overseersColorOverride(1, 1, 0): 0.04 //Saturated Yellow
 overseersColorOverride(5): 0.05 //Purple
@@ -174,3 +175,8 @@ Room_Attr: HH_SC: BigNeedleWorm-Avoid,Centipede-Avoid,Scutigera-Avoid,BlueLizard
 Room_Attr: HH_Shelter: BigNeedleWorm-Avoid,BlueLizard-Avoid,WhiteLizard-Avoid,CyanLizard-Avoid,hunterseeker-Avoid,
 
 Room_Attr: HH_U: BigNeedleWorm-Avoid,BlueLizard-Like,WhiteLizard-Like,CyanLizard-Like,hunterseeker-Like,Centipede-Like,Scutigera-Like,EggBug-Like,FireBug-Like,TerrorLongLegs-Forbidden,DaddyLongLegs-Forbidden,BrotherLongLegs-Forbidden,
+
+HH_Lake : Deer-Stay,MirosBird-Forbidden,MirosVulture-Forbidden,Salamander-Like,EelLizard-Like,Polliwog-Like,JetFish-Stay,
+HH_MS : Salamander-Avoid,EelLizard-Avoid,Polliwog-Avoid,JetFish-Stay,
+HH_DS : BlueLizard-Avoid,WhiteLizard-Avoid,CyanLizard-Avoid,hunterseeker-Avoid,Centipede-Forbidden,RedCentipede-Avoid,Scutigera-Forbidden,BigNeedleWorm-Avoid,
+HH_GW : BlueLizard-Avoid,WhiteLizard-Avoid,CyanLizard-Avoid,hunterseeker-Avoid,Centipede-Avoid,Scutigera-Avoid,RedCentipede-Avoid,TerrorLongLegs-Stay,DaddyLongLegs-Stay,BrotherLongLegs-Stay,BigNeedleWorm-Avoid,

@@ -9,6 +9,6 @@ RandomItemSpearChance: 0.4
 Palette: 195
 EffectColorA: 18
 EffectColorB: 3
-Effects: SkyDandelions-0-20-20, WaterGlowworm-1-20-20, RockFlea-1-20-20, GrassHopper-1-9-4, Beetle-1-11-62, TinyDragonFly-1-267-123, RedSwarmer-1-267-9, Darkness-0.25-264-179,
+Effects: ReplaceEffectColorB-0.25-70.38-111.1-Color-0-0.949-0.6, SkyDandelions-0-20-20, WaterGlowworm-1-20-20, RockFlea-1-20-20, GrassHopper-1-9-4, Beetle-1-11-62, TinyDragonFly-1-267-123, RedSwarmer-1-267-9, Darkness-0.25-264-179,
 AmbientSounds: OMNI><AM_ENV-WindGrass.ogg><20><20><0.6><1,
 WetTerrain: ON

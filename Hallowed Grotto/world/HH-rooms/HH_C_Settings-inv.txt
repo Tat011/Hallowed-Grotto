@@ -2,5 +2,5 @@ Template: HH_SettingsTemplate_Survivor
 RandomItemDensity: 1
 RandomItemSpearChance: 1
 Effects: Advertisements-1-276-76,
-PlacedObjects: WhiteToken><251.9099><422.9285><-42~-18~0~0~0~MISSING log~~0~1~0~0,
+PlacedObjects: WhiteToken><251.9099><422.9285><-42~-18~0~0~0~PebblesSIULog3~~0~1~0~0,
 FadePalette: 1, 1, 0.5

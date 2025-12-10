@@ -9,7 +9,7 @@ RandomItemDensity: 0.3
 RandomItemSpearChance: 0.4
 Palette: 125
 EffectColorA: 14
-EffectColorB: 7
+EffectColorB: 8
 Effects: Darkness-0.34-277-289, DirtyWater-1-286-159, LethalWater-1-1102-637, WaterViscosity-1-279-102, RockFlea-1-20-20, GrassHopper-1-20-40, Beetle-0.9-100-20, 
 PlacedObjects: SteamPipe><401.1418><153.891><0~100, SteamPipe><642.9562><153.0549><0~100, SteamPipe><581.626><152.4054><0~89, SteamPipe><462.1921><151.5586><0~84, SteamPipe><610.3273><152.0655><0~76, SteamPipe><429.3527><150.1353><1~74, 
 FadePalette: 11, 0.8

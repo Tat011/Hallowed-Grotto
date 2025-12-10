@@ -38,6 +38,9 @@ Spear : REPLACEROOM : HH_H : HH_H_Spear
 Spear : REPLACEROOM : HH_U : HH_U_Spear
 Spear : REPLACEROOM : HH_Shelter : HH_Shelter_Spear
 
+Spear,Artificer : HH_MS : GATE_HH_MS : DISCONNECTED
+Spear,Artificer : HIDEROOM : GATE_HH_MS
+
 //Spearmaster Lab
 Spear : REPLACEROOM : HH_Lab : HH_Lab_Spear
 Spear : REPLACEROOM : HH_CoLab : HH_CoLab_Spear
@@ -353,6 +356,10 @@ Yellow : REPLACEROOM : HH_H : HH_H_Monk
 Yellow : REPLACEROOM : HH_U : HH_U_Monk
 Yellow : REPLACEROOM : HH_Shelter : HH_Shelter_Monk
 
+Yellow : REPLACEROOM : HH_Lake : HH_Lake_Monk
+Yellow : REPLACEROOM : HH_MS : HH_MS_Monk
+Yellow : REPLACEROOM : HH_DS : HH_DS_Monk
+
 //Monk Lab
 Yellow : REPLACEROOM : HH_Lab : HH_Lab_Monk
 Yellow : REPLACEROOM : HH_CoLab : HH_CoLab_Monk
@@ -433,6 +440,10 @@ Rivulet : REPLACEROOM : HH_H : HH_H_Riv
 Rivulet : REPLACEROOM : HH_U : HH_U_Riv
 Rivulet : REPLACEROOM : HH_Shelter : HH_Shelter_Riv
 
+Rivulet : REPLACEROOM : HH_Lake : HH_Lake_Riv
+Rivulet : REPLACEROOM : HH_MS : HH_MS_Riv
+Rivulet : REPLACEROOM : HH_DS : HH_DS_Riv
+
 //Rivulet Lab
 Rivulet : REPLACEROOM : HH_Lab : HH_Lab_Riv
 Rivulet : REPLACEROOM : HH_CoLab : HH_CoLab_Riv
@@ -499,7 +510,7 @@ Gravelslug,Outsider : REPLACEROOM : HH_23 : HH_23_Gravel
 Gravelslug,Outsider : REPLACEROOM : HH_24 : HH_24_Gravel
 Gravelslug,Outsider : REPLACEROOM : HH_25 : HH_25_Gravel
 Gravelslug,Outsider : REPLACEROOM : HH_26 : HH_26_Gravel
-Gravelslug,Outsider : REPLACEROOM : HH_27 : HH_28_Riv
+Gravelslug,Outsider : REPLACEROOM : HH_28 : HH_28_Riv
 Gravelslug,Outsider : REPLACEROOM : HH_29 : HH_29_Gravel
 
 Gravelslug,Outsider : REPLACEROOM : HH_AAAA : HH_AAAA_Gravel
@@ -512,6 +523,10 @@ Gravelslug,Outsider : REPLACEROOM : HH_Extend : HH_Extend_Gravel
 Gravelslug,Outsider : REPLACEROOM : HH_H : HH_H_Gravel
 Gravelslug,Outsider : REPLACEROOM : HH_U : HH_U_Gravel
 Gravelslug,Outsider : REPLACEROOM : HH_Shelter : HH_Shelter_Gravel
+
+Gravelslug,Outsider : REPLACEROOM : HH_Lake : HH_Lake_Riv
+Gravelslug,Outsider : REPLACEROOM : HH_MS : HH_MS_Riv
+Gravelslug,Outsider : REPLACEROOM : HH_DS : HH_DS_Riv
 
 //Gravel-Eater Lab
 Gravelslug,Outsider : REPLACEROOM : HH_Lab : HH_Lab_Gravel
@@ -547,10 +562,10 @@ Gravelslug,Outsider : REPLACEROOM : HH_S01 : HH_S01_Gravel
 Gravelslug,Outsider : REPLACEROOM : HH_S04 : HH_S04_Gravel
 
 //Gravel-Eater gates
-Gravelslug,Outsider : REPLACEROOM : GATE_HH_GW : GATE_HH_GW_Gravel
-Gravelslug,Outsider : REPLACEROOM : GATE_DS_HH : GATE_DS_HH_Gravel
-Gravelslug,Outsider : REPLACEROOM : GATE_SB_HH : GATE_SB_HH_Gravel
-Gravelslug,Outsider : REPLACEROOM : GATE_HH_SL : GATE_HH_SL_Gravel
+Gravelslug,Outsider,Seer : REPLACEROOM : GATE_HH_GW : GATE_HH_GW_Gravel
+Gravelslug,Outsider,Seer : REPLACEROOM : GATE_DS_HH : GATE_DS_HH_Gravel
+Gravelslug,Outsider,Seer : REPLACEROOM : GATE_SB_HH : GATE_SB_HH_Gravel
+Gravelslug,Outsider,Seer : REPLACEROOM : GATE_HH_SL : GATE_HH_SL_Gravel
 
 //Saint rooms
 Saint : REPLACEROOM : HH_01 : HH_01_Saint
@@ -580,7 +595,9 @@ Saint : REPLACEROOM : HH_24 : HH_24_Saint
 Saint : REPLACEROOM : HH_25 : HH_25_Saint
 Saint : REPLACEROOM : HH_26 : HH_26_Saint
 Saint : REPLACEROOM : HH_27 : HH_27_Saint
+Saint : HIDEROOM : HH_28
 Saint : REPLACEROOM : HH_29 : HH_29_Saint
+Saint : HIDEROOM : HH_31
 
 Saint : REPLACEROOM : HH_AAAA : HH_AAAA_Saint
 Saint : REPLACEROOM : HH_Puddle : HH_Puddle_Saint
@@ -592,6 +609,10 @@ Saint : REPLACEROOM : HH_Extend : HH_Extend_Saint
 Saint : REPLACEROOM : HH_H : HH_H_Saint
 Saint : REPLACEROOM : HH_U : HH_U_Saint
 Saint : REPLACEROOM : HH_Shelter : HH_Shelter_Saint
+
+Saint : REPLACEROOM : HH_Lake : HH_Lake_Saint
+Saint : REPLACEROOM : HH_MS : HH_MS_Saint
+Saint : REPLACEROOM : HH_DS : HH_DS_Saint
 
 //Saint Lab
 Saint : REPLACEROOM : HH_Lab : HH_Lab_Saint
@@ -672,6 +693,10 @@ Beacon,Photomaniac : REPLACEROOM : HH_H : HH_H_Saint
 Beacon,Photomaniac : REPLACEROOM : HH_U : HH_U_Saint
 Beacon,Photomaniac : REPLACEROOM : HH_Shelter : HH_Shelter_Saint
 
+Beacon,Photomaniac : REPLACEROOM : HH_Lake : HH_Lake_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_MS : HH_MS_Saint
+Beacon,Photomaniac : REPLACEROOM : HH_DS : HH_DS_Saint
+
 //Pitch Black Lab
 Beacon,Photomaniac : REPLACEROOM : HH_Lab : HH_Lab_Saint
 Beacon,Photomaniac : REPLACEROOM : HH_CoLab : HH_CoLab_Saint
@@ -739,7 +764,9 @@ Incandescent,Begonia : REPLACEROOM : HH_24 : HH_24_Incan
 Incandescent,Begonia : REPLACEROOM : HH_25 : HH_25_Incan
 Incandescent,Begonia : REPLACEROOM : HH_26 : HH_26_Incan
 Incandescent,Begonia : REPLACEROOM : HH_27 : HH_27_Saint
+Incandescent,Begonia : HIDEROOM : HH_28
 Incandescent,Begonia : REPLACEROOM : HH_29 : HH_29_Incan
+Incandescent,Begonia : HIDEROOM : HH_31
 
 Incandescent,Begonia : REPLACEROOM : HH_AAAA : HH_AAAA_Incan
 Incandescent,Begonia : REPLACEROOM : HH_Puddle : HH_Puddle_Incan
@@ -751,6 +778,10 @@ Incandescent,Begonia : REPLACEROOM : HH_Extend : HH_Extend_Incan
 Incandescent,Begonia : REPLACEROOM : HH_H : HH_H_Incan
 Incandescent,Begonia : REPLACEROOM : HH_U : HH_U_Incan
 Incandescent,Begonia : REPLACEROOM : HH_Shelter : HH_Shelter_Incan
+
+Incandescent,Begonia : REPLACEROOM : HH_Lake : HH_Lake_Saint
+Incandescent,Begonia : REPLACEROOM : HH_MS : HH_MS_Saint
+Incandescent,Begonia : REPLACEROOM : HH_DS : HH_DS_Saint
 
 //Future Lab
 Incandescent,Begonia : REPLACEROOM : HH_Lab : HH_Lab_Incan
@@ -876,24 +907,28 @@ HH_S03 : HH_21 : SHELTER
 HH_S04 : HH_Shelter : SHELTER
 
 //Gates
-GATE_HH_GW : HH_01, DISCONNECTED : GATE
+GATE_HH_GW : HH_GW, DISCONNECTED : GATE
 GATE_DS_HH : DISCONNECTED, HH_12 : GATE
 GATE_HH_SL : HH_29, DISCONNECTED : GATE
-GATE_SB_HH : DISCONNECTED, HH_30 : GATE
+GATE_SB_HH : DISCONNECTED, DISCONNECTED, HH_30, DISCONNECTED : GATE
 GATE_HH_SB : HH_25, DISCONNECTED : GATE
+GATE_4B_HH : HH_4B, DISCONNECTED : GATE
+HH_4B : GATE_4B_HH, HH_U
+GATE_HH_MS : DISCONNECTED, HH_MS : GATE
 
-HH_01 : GATE_HH_GW, HH_02
+HH_01 : HH_GW, HH_02
 HH_02 : HH_01, HH_06, HH_U : SWARMROOM
 HH_03 : HH_13, HH_09, HH_04
 HH_04 : HH_03, HH_05
 HH_05 : HH_Cables, HH_04, HH_10, HH_21, HH_20 : SWARMROOM
+HH_06 : HH_SC, HH_07, HH_02, HH_Cables
 HH_07 : HH_08, HH_06, HH_11 : SWARMROOM
-HH_08 : HH_12, HH_S01, HH_07
+HH_08 : HH_DS, HH_S01, HH_07
 HH_09 : HH_11, HH_H, HH_03, HH_10, HH_WATER, HH_15
 HH_10 : HH_09, HH_14, HH_05
 HH_11 : HH_07, HH_09
-HH_12 : GATE_DS_HH, HH_08
-HH_13 : HH_U, HH_03
+HH_12 : GATE_DS_HH, HH_DS
+HH_13 : HH_U, HH_Lake, HH_03
 HH_14 : HH_C, HH_10, HH_24
 HH_15 : HH_09, HH_29, HH_21
 HH_16 : HH_H, HH_26, HH_23
@@ -901,6 +936,7 @@ HH_17 : HH_Chute, HH_18
 HH_18 : HH_WATER, HH_17, HH_19
 HH_19 : HH_22, HH_18
 HH_20 : HH_05, HH_Chute
+HH_21 : HH_AB, HH_05, HH_24, HH_S03, HH_15, HH_Puddle
 HH_22 : HH_Puddle, HH_25, HH_19
 HH_23 : HH_26, HH_16, HH_Extend
 HH_24 : HH_Extend, HH_14, HH_21, HH_AAAA
@@ -913,16 +949,22 @@ HH_30 : GATE_SB_HH, HH_26, HH_S02
 HH_31 : HH_27, HH_28
 
 //post release rooms
+HH_U : HH_02, HH_13, HH_4B, HH_Cables, HH_Shelter, HH_Entrance
+HH_H : HH_Acid, HH_09, HH_16
 HH_C : HH_14
 HH_Extend : HH_23, HH_Elevator, HH_24
 HH_Cables : HH_06, HH_Connection, HH_U, HH_05
-HH_U : HH_02, HH_13, DISCONNECTED, HH_Cables, HH_Shelter, HH_Entrance
 HH_Shelter : HH_U, HH_S04, HH_Cabinets
 
 HH_Chute : HH_20, HH_17
 HH_Puddle : HH_21, HH_Four, HH_22
 HH_AAAA : HH_24, HH_25
 HH_WATER : HH_09, HH_18
+
+HH_Lake : HH_13, HH_MS
+HH_MS : GATE_HH_MS, HH_Lake
+HH_DS : HH_12, HH_08
+HH_GW : GATE_HH_GW, HH_01
 
 //Arid Barrens conection rooms
 HH_AB : GATE_AB_HH, HH_21
@@ -954,14 +996,6 @@ HH_Deepinets : DISCONNECTED, HH_L, HH_Four
 HH_L : HH_Deepinets, HH_Machine
 HH_Four : HH_Elevator, HH_Cabinets, HH_Puddle, HH_Deepinets
 HH_Machine : HH_L
-
-//conditional rooms which break room ids
-{SC}HH_06 : HH_SC, HH_07, HH_02, HH_Cables
-{!SC}HH_06 : DISCONNECTED, HH_07, HH_02, HH_Cables
-{AB}HH_21 : HH_AB, HH_05, HH_24, HH_S03, HH_15, HH_Puddle
-{!AB}HH_21 : DISCONNECTED, HH_05, HH_24, HH_S03, HH_15, HH_Puddle
-{UF}HH_H : HH_Acid, HH_09, HH_16
-{!UF}HH_H : DISCONNECTED, HH_09, HH_16
 END ROOMS
 
 CREATURES
@@ -975,324 +1009,571 @@ HH_09 : 7-JetFish-{Ignorecycle}, 8-JetFish-{Ignorecycle}, 9-JetFish-{Ignorecycle
 HH_14 : 3-JetFish-{PreCycle}
 HH_15 : 4-JetFish-{Ignorecycle}, 4-JetFish-{PreCycle}
 HH_H : 4-JetFish-{Ignorecycle}
+HH_Lake : 2-JetFish-{Ignorecycle}, 3-JetFish-{Ignorecycle}
+HH_MS : 2-JetFish-{Ignorecycle}
 
 (X-Rivulet,Beacon,Photomaniac)HH_10 : 3-JetFish-{PreCycle}
 (Beacon,Photomaniac)HH_10 : 4-JetFish-{PreCycle}
 (Rivulet)HH_10 : 3-JetFish
 HH_21 : 6-TentaclePlant-{Ignorecycle}
 
-(X-Gravelslug,Outsider,Saint,Incandescent,Begonia)HH_22 : 3-FireBug
-(Gravelslug,Outsider,Saint,Incandescent,Begonia)HH_22 : 3-FireBug-{Ignorecycle}
+(X-Gravelslug,Outsider,Seer,Saint,Incandescent,Begonia){MSC}HH_22 : 3-FireBug
+(Gravelslug,Outsider,Seer,Saint,Incandescent,Begonia){MSC}HH_22 : 3-FireBug-{Ignorecycle}
+(X-Gravelslug,Outsider,Seer,Saint,Incandescent,Begonia){!MSC,#lb-fgf-m4r-ik.modpack}HH_22 : 3-TintedBeetle
+(Gravelslug,Outsider,Seer,Saint,Incandescent,Begonia){!MSC,#lb-fgf-m4r-ik.modpack}HH_22 : 3-TintedBeetle-{Ignorecycle}
+(X-Gravelslug,Outsider,Seer,Saint,Incandescent,Begonia){!MSC,#!lb-fgf-m4r-ik.modpack}HH_22 : 3-BigSpider
+(Gravelslug,Outsider,Seer,Saint,Incandescent,Begonia){!MSC,#!lb-fgf-m4r-ik.modpack}HH_22 : 3-BigSpider-{Ignorecycle}
 
-//Spearmaster
-(Spear)OFFSCREEN : 0-Deer-6, 0-Leviathan-{Ignorecycle}, 0-MirosBird-26, 0-MirosVulture
+//SPEARMASTER
+(Spear)OFFSCREEN : 0-Deer-5, 0-Leviathan-{Ignorecycle}, 0-MiniLeviathan-{Ignorecycle}, 0-MirosBird-26, 0-MirosVulture
 
 (Spear)LINEAGE : HH_01 : 2 : DaddyLongLegs-{Ignorecycle}-1, TerrorLongLegs-{Ignorecycle}-0
-(Spear)LINEAGE : HH_02 : 3 : Blue-{Mean:1.0}-0.7, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
 (Spear)LINEAGE : HH_03 : 3 : Eggbug-0.4, FireBug-0
 (Spear)HH_05 : 5-BigNeedleWorm, 9-Eel-{PreCycle}
 (Spear)LINEAGE : HH_05 : 7 : Salamander-{Ignorecycle}-0.6, Eel-{Ignorecycle}-0
-(Spear)LINEAGE : HH_06 : 4 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
 (Spear)HH_07 : 3-TentaclePlant-{Ignorecycle}
-(Spear)LINEAGE : HH_08 : 3 : Blue-{Mean:1.0}-0.7, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
 (Spear)HH_09 : 9-Eel-{PreCycle}
 (Spear)LINEAGE : HH_09 : 6 : Salamander-{Ignorecycle}-0.6, Eel-{Ignorecycle}-0
-(Spear)HH_13 : 2-Small Centipede-{AlternateForm}-2
 (Spear)LINEAGE : HH_23 : 3 : Eggbug-0.4, FireBug-0
-(Spear)LINEAGE : HH_26 : 4 : Green-{Mean:1.0}-0.7, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
-
-(Spear)LINEAGE : HH_U : 6 : Blue-{Mean:1.0}-0.7, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
 (Spear)LINEAGE : HH_H : 3 : Salamander-{Ignorecycle}-0.6, Eel-{Ignorecycle}-0
-(Spear)HH_Extend : 3-Small Centipede-{AlternateForm}-2
-(Spear)LINEAGE : HH_Extend : 3 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
-(Spear)LINEAGE : HH_Extend : 4 : Green-{Mean:1.0}-0.7, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
-
 (Spear)LINEAGE : HH_15 : 3 : Eel-{Ignorecycle}-0.4, AquaCenti-{Ignorecycle}-0
 
-(Spear)LINEAGE : HH_19 : 2 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-{Voidsea}-0
-(Spear)LINEAGE : HH_25 : 4 : Green-{Mean:1.0}-0.7, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(Spear){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_06 : 4 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(Spear){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_06 : 4 : Centiwing-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(Spear){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 3 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(Spear){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 3 : Centiwing-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(Spear){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_19 : 2 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-{Voidsea}-0
+(Spear){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_19 : 2 : Centiwing-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-{Voidsea}-0
+(Spear){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_Elevator : 3 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(Spear){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_Elevator : 3 : Centiwing-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
 
-(Spear)LINEAGE : HH_Elevator : 3 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
-(Spear)HH_Elevator : 3-Small Centipede-{AlternateForm}-2
-(Spear)LINEAGE : HH_Statue : 4 : Blue-{Mean:1.0}-0.7, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Spear){#lb-fgf-m4r-ik.modpack}HH_13 : 3-miniscutigera-2
+(Spear){#!lb-fgf-m4r-ik.modpack}HH_13 : 3-Small Centipede-{AlternateForm}-2
+(Spear){#lb-fgf-m4r-ik.modpack}HH_Extend : 3-miniscutigera-2
+(Spear){#!lb-fgf-m4r-ik.modpack}HH_Extend : 3-Small Centipede-{AlternateForm}-2
+(Spear){#lb-fgf-m4r-ik.modpack}HH_Elevator : 3-miniscutigera-2
+(Spear){#!lb-fgf-m4r-ik.modpack}HH_Elevator : 3-Small Centipede-{AlternateForm}-2
 
-//Artificer
-(Artificer)OFFSCREEN : 0-Deer-7, 0-Leviathan-{Ignorecycle}, 0-MirosBird-28, 0-MirosVulture
+(Spear){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_26 : 4 : Green-{Mean:1.0}-0.7, silverlizard-0.5, WaterSpitter-0.5, SpitLizard-{Mean:1.0}-0.5, Red-{Mean:1.0}-0
+(Spear){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_26 : 4 : Green-{Mean:1.0}-0.7, SpitLizard-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(Spear){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 4 : Green-{Mean:1.0}-0.7, silverlizard-0.5, WaterSpitter-0.5, SpitLizard-{Mean:1.0}-0.5, Red-{Mean:1.0}-0
+(Spear){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 4 : Green-{Mean:1.0}-0.7, SpitLizard-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(Spear){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_25 : 4 : Green-{Mean:1.0}-0.7, silverlizard-0.5, WaterSpitter-0.5, SpitLizard-{Mean:1.0}-0.5, Red-{Mean:1.0}-0
+(Spear){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_25 : 4 : Green-{Mean:1.0}-0.7, SpitLizard-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(Spear){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_02 : 3 : Blue-{Mean:1.0}-0.7, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Spear){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_02 : 3 : Blue-{Mean:1.0}-0.7, White-0.4, Cyan-0.4, Cyan-{Mean:1.0}-0
+(Spear){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_08 : 3 : Blue-{Mean:1.0}-0.7, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Spear){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_08 : 3 : Blue-{Mean:1.0}-0.7, White-0.4, Cyan-0.4, Cyan-{Mean:1.0}-0
+(Spear){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_U : 6 : Blue-{Mean:1.0}-0.7, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Spear){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_U : 6 : Blue-{Mean:1.0}-0.7, White-0.4, Cyan-0.4, Cyan-{Mean:1.0}-0
+(Spear){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_Statue : 4 : Blue-{Mean:1.0}-0.7, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Spear){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_Statue : 4 : Blue-{Mean:1.0}-0.7, White-0.4, Cyan-0.4, Cyan-{Mean:1.0}-0
+
+//ARTIFICER
+(Artificer)OFFSCREEN : 0-Deer-5, 0-Leviathan-{Ignorecycle}, 0-MiniLeviathan-{Ignorecycle}, 0-MirosBird-28, 0-MirosVulture
 
 (Artificer)LINEAGE : HH_01 : 2 : DaddyLongLegs-{Ignorecycle}-1, TerrorLongLegs-{Ignorecycle}-0
-(Artificer)LINEAGE : HH_02 : 3 : Blue-{Mean:1.0}-0.75, White-0.45, Cyan-0.45, Seeker-{Mean:1.0}-0
 (Artificer)LINEAGE : HH_03 : 3 : Eggbug-0.45, FireBug-0
 (Artificer)HH_05 : 5-BigNeedleWorm, 9-Eel-{PreCycle}
 (Artificer)LINEAGE : HH_05 : 7 : Salamander-{Ignorecycle}-0.65, Eel-{Ignorecycle}-0
-(Artificer)LINEAGE : HH_06 : 4 : Scutigera-0.45, Centipede-{0.8}-0.45, Centipede-{0.9}-0.45, Centipede-{1.0}-0.45, RedCentipede-0
 (Artificer)HH_07 : 3-TentaclePlant-{Ignorecycle}
-(Artificer)LINEAGE : HH_08 : 3 : Blue-{Mean:1.0}-0.75, White-0.45, Cyan-0.45, Seeker-{Mean:1.0}-0
 (Artificer)HH_09 : 9-Eel-{PreCycle}
 (Artificer)LINEAGE : HH_09 : 6 : Salamander-{Ignorecycle}-0.65, Eel-{Ignorecycle}-0
-(Artificer)HH_13 : 2-Small Centipede-{AlternateForm}-2
 (Artificer)LINEAGE : HH_23 : 3 : Eggbug-0.45, FireBug-0
-(Artificer)LINEAGE : HH_26 : 4 : Green-{Mean:1.0}-0.75, WaterSpitter-0.45, SpitLizard-{Mean:1.0}-0.45, Red-{Mean:1.0}-0
-
-(Artificer)LINEAGE : HH_U : 6 : Blue-{Mean:1.0}-0.75, White-0.45, Cyan-0.45, Seeker-{Mean:1.0}-0
 (Artificer)LINEAGE : HH_H : 3 : Salamander-{Ignorecycle}-0.65, Eel-{Ignorecycle}-0
-(Artificer)HH_Extend : 3-Small Centipede-{AlternateForm}-2
-(Artificer)LINEAGE : HH_Extend : 3 : Scutigera-0.45, Centipede-{0.8}-0.45, Centipede-{0.9}-0.45, Centipede-{1.0}-0.45, RedCentipede-0
-(Artificer)LINEAGE : HH_Extend : 4 : Green-{Mean:1.0}-0.75, WaterSpitter-0.45, SpitLizard-{Mean:1.0}-0.45, Red-{Mean:1.0}-0
-
 (Artificer)LINEAGE : HH_15 : 3 : Eel-{Ignorecycle}-0.45, AquaCenti-{Ignorecycle}-0
 
-(Artificer)LINEAGE : HH_19 : 2 : Scutigera-0.45, Centipede-{0.8}-0.45, Centipede-{0.9}-0.45, Centipede-{1.0}-0.45, RedCentipede-{Voidsea}-0
-(Artificer)LINEAGE : HH_25 : 4 : Green-{Mean:1.0}-0.75, WaterSpitter-0.45, SpitLizard-{Mean:1.0}-0.45, Red-{Mean:1.0}-0
+(Artificer){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_06 : 4 : Scutigera-0.45, Centipede-{0.8}-0.45, Centipede-{0.9}-0.45, Centipede-{1.0}-0.45, RedCentipede-0
+(Artificer){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_06 : 4 : Centiwing-0.45, Centipede-{0.8}-0.45, Centipede-{0.9}-0.45, Centipede-{1.0}-0.45, RedCentipede-0
+(Artificer){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 3 : Scutigera-0.45, Centipede-{0.8}-0.45, Centipede-{0.9}-0.45, Centipede-{1.0}-0.45, RedCentipede-0
+(Artificer){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 3 : Centiwing-0.45, Centipede-{0.8}-0.45, Centipede-{0.9}-0.45, Centipede-{1.0}-0.45, RedCentipede-0
+(Artificer){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_19 : 2 : Scutigera-0.45, Centipede-{0.8}-0.45, Centipede-{0.9}-0.45, Centipede-{1.0}-0.45, RedCentipede-{Voidsea}-0
+(Artificer){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_19 : 2 : Centiwing-0.45, Centipede-{0.8}-0.45, Centipede-{0.9}-0.45, Centipede-{1.0}-0.45, RedCentipede-{Voidsea}-0
+(Artificer){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_Elevator : 3 : Scutigera-0.45, Centipede-{0.8}-0.45, Centipede-{0.9}-0.45, Centipede-{1.0}-0.45, RedCentipede-0
+(Artificer){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_Elevator : 3 : Centiwing-0.45, Centipede-{0.8}-0.45, Centipede-{0.9}-0.45, Centipede-{1.0}-0.45, RedCentipede-0
 
-(Artificer)LINEAGE : HH_Elevator : 3 : Scutigera-0.45, Centipede-{0.8}-0.45, Centipede-{0.9}-0.45, Centipede-{1.0}-0.45, RedCentipede-0
-(Artificer)HH_Elevator : 3-Small Centipede-{AlternateForm}-2
-(Artificer)LINEAGE : HH_Statue : 4 : Blue-{Mean:1.0}-0.75, White-0.45, Cyan-0.45, Seeker-{Mean:1.0}-0
+(Artificer){#lb-fgf-m4r-ik.modpack}HH_13 : 3-miniscutigera-2
+(Artificer){#!lb-fgf-m4r-ik.modpack}HH_13 : 3-Small Centipede-{AlternateForm}-2
+(Artificer){#lb-fgf-m4r-ik.modpack}HH_Extend : 3-miniscutigera-2
+(Artificer){#!lb-fgf-m4r-ik.modpack}HH_Extend : 3-Small Centipede-{AlternateForm}-2
+(Artificer){#lb-fgf-m4r-ik.modpack}HH_Elevator : 3-miniscutigera-2
+(Artificer){#!lb-fgf-m4r-ik.modpack}HH_Elevator : 3-Small Centipede-{AlternateForm}-2
 
-//Hunter
-(Red)OFFSCREEN : 0-Deer-8, 0-Leviathan-{Ignorecycle}, 0-MirosBird-26, 0-MirosVulture
+(Artificer){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_26 : 4 : Green-{Mean:1.0}-0.75, silverlizard-0.55, WaterSpitter-0.55, SpitLizard-{Mean:1.0}-0.55, Red-{Mean:1.0}-0
+(Artificer){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_26 : 4 : Green-{Mean:1.0}-0.75, SpitLizard-0.45, SpitLizard-{Mean:1.0}-0.45, Red-{Mean:1.0}-0
+(Artificer){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 4 : Green-{Mean:1.0}-0.75, silverlizard-0.55, WaterSpitter-0.55, SpitLizard-{Mean:1.0}-0.55, Red-{Mean:1.0}-0
+(Artificer){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 4 : Green-{Mean:1.0}-0.75, SpitLizard-0.45, SpitLizard-{Mean:1.0}-0.45, Red-{Mean:1.0}-0
+(Artificer){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_25 : 4 : Green-{Mean:1.0}-0.75, silverlizard-0.55, WaterSpitter-0.55, SpitLizard-{Mean:1.0}-0.55, Red-{Mean:1.0}-0
+(Artificer){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_25 : 4 : Green-{Mean:1.0}-0.75, SpitLizard-0.45, SpitLizard-{Mean:1.0}-0.45, Red-{Mean:1.0}-0
 
-(Red)LINEAGE : HH_01 : 2 : DaddyLongLegs-{Ignorecycle}-1, TerrorLongLegs-{Ignorecycle}-0
-(Red)LINEAGE : HH_02 : 3 : Blue-{Mean:1.0}-0.7, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
-(Red)LINEAGE : HH_03 : 3 : Eggbug-0.4, FireBug-0
-(Red)HH_05 : 5-BigNeedleWorm, 9-Eel-{PreCycle}
-(Red)LINEAGE : HH_05 : 7 : Salamander-{Ignorecycle}-0.6, Eel-{Ignorecycle}-0
-(Red)LINEAGE : HH_06 : 4 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(Artificer){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_02 : 3 : Blue-{Mean:1.0}-0.75, White-0.45, Cyan-0.45, Seeker-{Mean:1.0}-0
+(Artificer){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_02 : 3 : Blue-{Mean:1.0}-0.75, White-0.45, Cyan-0.45, Cyan-{Mean:1.0}-0
+(Artificer){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_08 : 3 : Blue-{Mean:1.0}-0.75, White-0.45, Cyan-0.45, Seeker-{Mean:1.0}-0
+(Artificer){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_08 : 3 : Blue-{Mean:1.0}-0.75, White-0.45, Cyan-0.45, Cyan-{Mean:1.0}-0
+(Artificer){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_U : 6 : Blue-{Mean:1.0}-0.75, White-0.45, Cyan-0.45, Seeker-{Mean:1.0}-0
+(Artificer){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_U : 6 : Blue-{Mean:1.0}-0.75, White-0.45, Cyan-0.45, Cyan-{Mean:1.0}-0
+(Artificer){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_Statue : 4 : Blue-{Mean:1.0}-0.75, White-0.45, Cyan-0.45, Seeker-{Mean:1.0}-0
+(Artificer){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_Statue : 4 : Blue-{Mean:1.0}-0.75, White-0.45, Cyan-0.45, Cyan-{Mean:1.0}-0
+
+//HUNTER
+(Red){DLCShared}OFFSCREEN : 0-Deer-6, 0-Leviathan-{Ignorecycle}, 0-MiniLeviathan-{Ignorecycle}, 0-MirosBird-26, 0-MirosVulture
+(Red){!DLCShared}OFFSCREEN : 0-Deer-6, 0-Leviathan-{Ignorecycle}, 0-MiniLeviathan-{Ignorecycle}, 0-MirosBird-28
+
 (Red)HH_07 : 3-TentaclePlant-{Ignorecycle}
-(Red)LINEAGE : HH_08 : 3 : Blue-{Mean:1.0}-0.7, White-0.3, Cyan-0.4, Seeker-{Mean:1.0}-0
-(Red)HH_09 : 9-Eel-{PreCycle}
-(Red)LINEAGE : HH_09 : 6 : Salamander-{Ignorecycle}-0.6, Eel-{Ignorecycle}-0
-(Red)HH_13 : 2-Small Centipede-{AlternateForm}-2
-(Red)LINEAGE : HH_23 : 3 : Eggbug-0.4, FireBug-0
-(Red)LINEAGE : HH_26 : 4 : Green-{Mean:1.0}-0.7, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
 
-(Red)LINEAGE : HH_U : 6 : Blue-{Mean:1.0}-0.7, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
-(Red)LINEAGE : HH_H : 3 : Salamander-{Ignorecycle}-0.6, Eel-{Ignorecycle}-0
-(Red)HH_Extend : 3-Small Centipede-{AlternateForm}-2
-(Red)LINEAGE : HH_Extend : 3 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
-(Red)LINEAGE : HH_Extend : 4 : Green-{Mean:1.0}-0.7, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(Red){DLCShared}LINEAGE : HH_01 : 2 : DaddyLongLegs-{Ignorecycle}-1, TerrorLongLegs-{Ignorecycle}-0
+(Red){!DLCShared,#rainbowlonglegs}LINEAGE : HH_01 : 2 : DaddyLongLegs-{Ignorecycle}-1, RainbowLongLegs-{Ignorecycle}-0
+(Red){!DLCShared,#!rainbowlonglegs}HH_01 : 2-DaddyLongLegs-{Ignorecycle}
 
-(Red)LINEAGE : HH_15 : 3 : Eel-{Ignorecycle}-0.4, AquaCenti-{Ignorecycle}-0
+(Red){DLCShared}HH_05 : 5-BigNeedleWorm, 9-Eel-{PreCycle}
+(Red){!DLCShared,#lb-fgf-m4r-ik.modpack}HH_05 : 5-BigNeedleWorm, 9-CommonEel-{PreCycle}
+(Red){!DLCShared,#!lb-fgf-m4r-ik.modpack}HH_05 : 5-BigNeedleWorm, 9-Salamander-{PreCycle}
+(Red){DLCShared}LINEAGE : HH_05 : 7 : Salamander-{Ignorecycle}-0.6, Eel-{Ignorecycle}-0
+(Red){!DLCShared,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_05 : 7 : Salamander-{Ignorecycle}-0.6, CommonEel-{Ignorecycle}-0
+(Red){!DLCShared,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_05 : 7 : Salamander-{Ignorecycle}-0.6, Salamander-{Ignorecycle}-0
 
-(Red)LINEAGE : HH_19 : 2 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-{Voidsea}-0
-(Red)LINEAGE : HH_25 : 4 : Green-{Mean:1.0}-0.7, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(Red){DLCShared}HH_09 : 9-Eel-{PreCycle}
+(Red){!DLCShared,#lb-fgf-m4r-ik.modpack}HH_09 : 9-CommonEel-{PreCycle}
+(Red){!DLCShared,#!lb-fgf-m4r-ik.modpack}HH_09 : 9-Salamander-{PreCycle}
+(Red){DLCShared}LINEAGE : HH_09 : 6 : Salamander-{Ignorecycle}-0.6, Eel-{Ignorecycle}-0
+(Red){!DLCShared,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_09 : 6 : Salamander-{Ignorecycle}-0.6, CommonEel-{Ignorecycle}-0
+(Red){!DLCShared,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_09 : 6 : Salamander-{Ignorecycle}-0.6, Salamander-{Ignorecycle}-0
 
-(Red)LINEAGE : HH_Elevator : 3 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
-(Red)HH_Elevator : 3-Small Centipede-{AlternateForm}-2
-(Red)LINEAGE : HH_Statue : 4 : Blue-{Mean:1.0}-0.7, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Red){DLCShared}LINEAGE : HH_15 : 3 : Eel-{Ignorecycle}-0.4, AquaCenti-{Ignorecycle}-0
+(Red){!DLCShared,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_15 : 3 : CommonEel-{Ignorecycle}-0.4, CommonEel-{Ignorecycle}-0
+(Red){!DLCShared,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_15 : 3 : Salamander-{Ignorecycle}-0.4, Salamander-{Ignorecycle}-0
+(Red){DLCShared}LINEAGE : HH_H : 3 : Salamander-{Ignorecycle}-0.6, Eel-{Ignorecycle}-0
+(Red){!DLCShared,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_H : 3 : Salamander-{Ignorecycle}-0.6, CommonEel-{Ignorecycle}-0
+(Red){!DLCShared,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_H : 3 : Salamander-{Ignorecycle}-0.6, Salamander-{Ignorecycle}-0
 
-//Gourmand
-(Gourmand)OFFSCREEN : 0-Deer-9, 0-Leviathan-{Ignorecycle}, 0-MirosBird-24, 0-MirosVulture
+(Red){MSC}LINEAGE : HH_03 : 3 : Eggbug-0.4, FireBug-0
+(Red){!MSC,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_03 : 3 : Eggbug-0.4, TintedBeetle-0
+(Red){!MSC,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_03 : 3 : Eggbug-0.4, BigSpider-0
+(Red){MSC}LINEAGE : HH_23 : 3 : Eggbug-0.4, FireBug-0
+(Red){!MSC,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_23 : 3 : Eggbug-0.4, TintedBeetle-0
+(Red){!MSC,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_23 : 3 : Eggbug-0.4, BigSpider-0
+
+(Red){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_06 : 4 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(Red){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_06 : 4 : Centiwing-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(Red){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 3 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(Red){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 3 : Centiwing-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(Red){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_19 : 2 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-{Voidsea}-0
+(Red){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_19 : 2 : Centiwing-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-{Voidsea}-0
+(Red){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_Elevator : 3 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(Red){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_Elevator : 3 : Centiwing-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+
+(Red){#lb-fgf-m4r-ik.modpack}HH_13 : 3-miniscutigera-2
+(Red){#!lb-fgf-m4r-ik.modpack}HH_13 : 3-Small Centipede-{AlternateForm}-2
+(Red){#lb-fgf-m4r-ik.modpack}HH_Extend : 3-miniscutigera-2
+(Red){#!lb-fgf-m4r-ik.modpack}HH_Extend : 3-Small Centipede-{AlternateForm}-2
+(Red){#lb-fgf-m4r-ik.modpack}HH_Elevator : 3-miniscutigera-2
+(Red){#!lb-fgf-m4r-ik.modpack}HH_Elevator : 3-Small Centipede-{AlternateForm}-2
+
+(Red){DLCShared,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_26 : 4 : Green-{Mean:1.0}-0.7, silverlizard-0.5, WaterSpitter-0.5, SpitLizard-{Mean:1.0}-0.5, Red-{Mean:1.0}-0
+(Red){DLCShared,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_26 : 4 : Green-{Mean:1.0}-0.7, SpitLizard-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(Red){!DLCShared,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_26 : 4 : Green-{Mean:1.0}-0.7, silverlizard-0.4, WaterSpitter-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(Red){!DLCShared,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_26 : 4 : Green-{Mean:1.0}-0.7, Green-0.4, Green-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(Red){DLCShared,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 4 : Green-{Mean:1.0}-0.7, silverlizard-0.5, WaterSpitter-0.5, SpitLizard-{Mean:1.0}-0.5, Red-{Mean:1.0}-0
+(Red){DLCShared,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 4 : Green-{Mean:1.0}-0.7, SpitLizard-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(Red){!DLCShared,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 4 : Green-{Mean:1.0}-0.7, silverlizard-0.4, WaterSpitter-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(Red){!DLCShared,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 4 : Green-{Mean:1.0}-0.7, Green-0.4, Green-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(Red){DLCShared,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_25 : 4 : Green-{Mean:1.0}-0.7, silverlizard-0.5, WaterSpitter-0.5, SpitLizard-{Mean:1.0}-0.5, Red-{Mean:1.0}-0
+(Red){DLCShared,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_25 : 4 : Green-{Mean:1.0}-0.7, SpitLizard-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(Red){!DLCShared,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_25 : 4 : Green-{Mean:1.0}-0.7, silverlizard-0.4, WaterSpitter-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(Red){!DLCShared,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_25 : 4 : Green-{Mean:1.0}-0.7, Green-0.4, Green-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(Red){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_02 : 3 : Blue-{Mean:1.0}-0.7, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Red){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_02 : 3 : Blue-{Mean:1.0}-0.7, White-0.4, Cyan-0.4, Cyan-{Mean:1.0}-0
+(Red){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_08 : 3 : Blue-{Mean:1.0}-0.7, White-0.3, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Red){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_08 : 3 : Blue-{Mean:1.0}-0.7, White-0.3, Cyan-0.4, Cyan-{Mean:1.0}-0
+(Red){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_U : 6 : Blue-{Mean:1.0}-0.7, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Red){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_U : 6 : Blue-{Mean:1.0}-0.7, White-0.4, Cyan-0.4, Cyan-{Mean:1.0}-0
+(Red){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_Statue : 4 : Blue-{Mean:1.0}-0.7, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Red){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_Statue : 4 : Blue-{Mean:1.0}-0.7, White-0.4, Cyan-0.4, Cyan-{Mean:1.0}-0
+
+//GOURMAND
+(Gourmand)OFFSCREEN : 0-Deer-6, 0-Leviathan-{Ignorecycle}, 0-MiniLeviathan-{Ignorecycle}, 0-MirosBird-24, 0-MirosVulture
 
 (Gourmand)LINEAGE : HH_01 : 2 : DaddyLongLegs-{Ignorecycle}-1, TerrorLongLegs-{Ignorecycle}-0
-(Gourmand)LINEAGE : HH_02 : 3 : Blue-0.65, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
 (Gourmand)LINEAGE : HH_03 : 3 : Eggbug-0.4, FireBug-0
 (Gourmand)HH_05 : 5-BigNeedleWorm, 9-Eel-{PreCycle}
 (Gourmand)LINEAGE : HH_05 : 7 : Salamander-{Ignorecycle}-0.55, Eel-{Ignorecycle}-0
-(Gourmand)LINEAGE : HH_06 : 4 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
 (Gourmand)HH_07 : 3-TentaclePlant-{Ignorecycle}, 4-TentaclePlant-{Ignorecycle}
-(Gourmand)LINEAGE : HH_08 : 3 : Blue-0.65, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
 (Gourmand)HH_09 : 9-Eel-{PreCycle}
 (Gourmand)LINEAGE : HH_09 : 6 : Salamander-{Ignorecycle}-0.55, Eel-{Ignorecycle}-0
-(Gourmand)HH_13 : 2-Small Centipede-{AlternateForm}
 (Gourmand)LINEAGE : HH_23 : 3 : Eggbug-0.4, FireBug-0
-(Gourmand)LINEAGE : HH_26 : 4 : Green-{Mean:1.0}-0.65, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
-
-(Gourmand)LINEAGE : HH_U : 6 : Blue-{Mean:1.0}-0.65, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
 (Gourmand)LINEAGE : HH_H : 3 : Salamander-{Ignorecycle}-0.55, Eel-{Ignorecycle}-0
-(Gourmand)HH_Extend : 3-Small Centipede-{AlternateForm}-2
-(Gourmand)LINEAGE : HH_Extend : 3 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
-(Gourmand)LINEAGE : HH_Extend : 4 : Green-{Mean:1.0}-0.65, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
-
 (Gourmand)LINEAGE : HH_15 : 3 : Eel-{Ignorecycle}-0.4, AquaCenti-{Ignorecycle}-0
 
-(Gourmand)LINEAGE : HH_19 : 2 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-{Voidsea}-0
-(Gourmand)LINEAGE : HH_25 : 4 : Green-{Mean:1.0}-0.65, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(Gourmand){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_06 : 4 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(Gourmand){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_06 : 4 : Centiwing-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(Gourmand){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 3 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(Gourmand){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 3 : Centiwing-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(Gourmand){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_19 : 2 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-{Voidsea}-0
+(Gourmand){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_19 : 2 : Centiwing-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-{Voidsea}-0
+(Gourmand){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_Elevator : 3 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(Gourmand){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_Elevator : 3 : Centiwing-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
 
-(Gourmand)LINEAGE : HH_Elevator : 3 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
-(Gourmand)HH_Elevator : 3-Small Centipede-{AlternateForm}-2
-(Gourmand)LINEAGE : HH_Statue : 4 : Blue-0.65, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Gourmand){#lb-fgf-m4r-ik.modpack}HH_13 : 3-miniscutigera-{AlternateForm}
+(Gourmand){#!lb-fgf-m4r-ik.modpack}HH_13 : 3-Small Centipede-{AlternateForm}
+(Gourmand){#lb-fgf-m4r-ik.modpack}HH_Extend : 3-miniscutigera-{AlternateForm}-2
+(Gourmand){#!lb-fgf-m4r-ik.modpack}HH_Extend : 3-Small Centipede-{AlternateForm}-2
+(Gourmand){#lb-fgf-m4r-ik.modpack}HH_Elevator : 3-miniscutigera-{AlternateForm}-2
+(Gourmand){#!lb-fgf-m4r-ik.modpack}HH_Elevator : 3-Small Centipede-{AlternateForm}-2
 
-//Survivor
-(White)OFFSCREEN : 0-Deer-10, 0-Leviathan-{Ignorecycle}, 0-MirosBird-22, 0-MirosVulture
+(Gourmand){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_26 : 4 : Green-{Mean:1.0}-0.65, silverlizard-0.5, WaterSpitter-0.5, SpitLizard-{Mean:1.0}-0.5, Red-{Mean:1.0}-0
+(Gourmand){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_26 : 4 : Green-{Mean:1.0}-0.65, Green-0.4, Green-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(Gourmand){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 4 : Green-{Mean:1.0}-0.65, silverlizard-0.5, WaterSpitter-0.5, SpitLizard-{Mean:1.0}-0.5, Red-{Mean:1.0}-0
+(Gourmand){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 4 : Green-{Mean:1.0}-0.65, Green-0.4, Green-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(Gourmand){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_25 : 4 : Green-{Mean:1.0}-0.65, silverlizard-0.5, WaterSpitter-0.5, SpitLizard-{Mean:1.0}-0.5, Red-{Mean:1.0}-0
+(Gourmand){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_25 : 4 : Green-{Mean:1.0}-0.65, Green-0.4, Green-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
 
-(White)LINEAGE : HH_01 : 2 : BrotherLongLegs-{Ignorecycle}-1, DaddyLongLegs-{Ignorecycle}-1, TerrorLongLegs-{Ignorecycle}-0
-(White)LINEAGE : HH_02 : 3 : Blue-0.6, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
-(White)LINEAGE : HH_03 : 3 : Eggbug-0.35, FireBug-0
-(White)HH_05 : 5-BigNeedleWorm, 9-Eel-{PreCycle}
-(White)LINEAGE : HH_05 : 7 : Salamander-{Ignorecycle}-0.5, Eel-{Ignorecycle}-0
-(White)LINEAGE : HH_06 : 4 : Scutigera-0.4, Centipede-{0.7}-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
-(White)HH_06 : 4-Small Centipede-{AlternateForm}
+(Gourmand){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_02 : 3 : Blue-0.65, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Gourmand){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_02 : 3 : Blue-0.65, White-0.4, Cyan-0.4, Cyan-{Mean:1.0}-0
+(Gourmand){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_08 : 3 : Blue-0.65, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Gourmand){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_08 : 3 : Blue-0.65, White-0.4, Cyan-0.4, Cyan-{Mean:1.0}-0
+(Gourmand){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_U : 6 : Blue-{Mean:1.0}-0.65, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Gourmand){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_U : 6 : Blue-{Mean:1.0}-0.65, White-0.4, Cyan-0.4, Cyan-{Mean:1.0}-0
+(Gourmand){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_Statue : 4 : Blue-0.65, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Gourmand){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_Statue : 4 : Blue-0.65, White-0.4, Cyan-0.4, Cyan-{Mean:1.0}-0
+
+//SURVIVOR
+(White){DLCShared}OFFSCREEN : 0-Deer-7, 0-Leviathan-{Ignorecycle}, 0-MiniLeviathan-{Ignorecycle}, 0-MirosBird-22, 0-MirosVulture
+(White){!DLCShared}OFFSCREEN : 0-Deer-7, 0-Leviathan-{Ignorecycle}, 0-MiniLeviathan-{Ignorecycle}, 0-MirosBird-24
+
+(White){DLCShared}LINEAGE : HH_01 : 2 : BrotherLongLegs-{Ignorecycle}-1, DaddyLongLegs-{Ignorecycle}-1, TerrorLongLegs-{Ignorecycle}-0
+(White){!DLCShared,#rainbowlonglegs}LINEAGE : HH_01 : 2 : BrotherLongLegs-{Ignorecycle}-1, DaddyLongLegs-{Ignorecycle}-1, RainbowLongLegs-{Ignorecycle}-0
+(White){!DLCShared,#!rainbowlonglegs}LINEAGE : HH_01 : 2 : BrotherLongLegs-{Ignorecycle}-1, DaddyLongLegs-{Ignorecycle}-0
+
 (White)HH_07 : 3-TentaclePlant-{Ignorecycle}, 4-TentaclePlant-{Ignorecycle}
-(White)LINEAGE : HH_08 : 3 : Blue-0.6, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
-(White)HH_09 : 9-Eel-{PreCycle}
-(White)LINEAGE : HH_09 : 6 : Salamander-{Ignorecycle}-0.5, Eel-{Ignorecycle}-0
-(White)HH_13 : 2-Small Centipede-{AlternateForm}-2
-(White)LINEAGE : HH_23 : 3 : Eggbug-0.35, FireBug-0
-(White)LINEAGE : HH_26 : 4 : Green-0.6, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
 
-(White)LINEAGE : HH_U : 6 : Blue-0.6, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
-(White)LINEAGE : HH_H : 3 : Salamander-{Ignorecycle}-0.5, Eel-{Ignorecycle}-0
-(White)HH_Extend : 3-Small Centipede-{AlternateForm}-2
-(White)LINEAGE : HH_Extend : 3 : Scutigera-0.4, Centipede-{0.7}-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
-(White)LINEAGE : HH_Extend : 4 : Green-0.6, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(White){DLCShared}HH_05 : 5-BigNeedleWorm, 9-Eel-{PreCycle}
+(White){!DLCShared,#lb-fgf-m4r-ik.modpack}HH_05 : 5-BigNeedleWorm, 9-CommonEel-{PreCycle}
+(White){!DLCShared,#!lb-fgf-m4r-ik.modpack}HH_05 : 5-BigNeedleWorm, 9-Salamander-{PreCycle}
+(White){DLCShared}LINEAGE : HH_05 : 7 : Salamander-{Ignorecycle}-0.5, Eel-{Ignorecycle}-0
+(White){!DLCShared,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_05 : 7 : Salamander-{Ignorecycle}-0.5, CommonEel-{Ignorecycle}-0
+(White){!DLCShared,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_05 : 7 : Salamander-{Ignorecycle}-0.5, Salamander-{Ignorecycle}-0
 
-(White)LINEAGE : HH_15 : 3 : Eel-{Ignorecycle}-0.35, AquaCenti-{Ignorecycle}-0
+(White){DLCShared}HH_09 : 9-Eel-{PreCycle}
+(White){!DLCShared,#lb-fgf-m4r-ik.modpack}HH_09 : 9-CommonEel-{PreCycle}
+(White){!DLCShared,#!lb-fgf-m4r-ik.modpack}HH_09 : 9-Salamander-{PreCycle}
+(White){DLCShared}LINEAGE : HH_09 : 6 : Salamander-{Ignorecycle}-0.5, Eel-{Ignorecycle}-0
+(White){!DLCShared,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_09 : 6 : Salamander-{Ignorecycle}-0.5, CommonEel-{Ignorecycle}-0
+(White){!DLCShared,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_09 : 6 : Salamander-{Ignorecycle}-0.5, Salamander-{Ignorecycle}-0
 
-(White)LINEAGE : HH_19 : 2 : Scutigera-0.4, Centipede-{0.7}-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-{Voidsea}-0
-(White)LINEAGE : HH_25 : 4 : Green-0.6, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(White){DLCShared}LINEAGE : HH_15 : 3 : Eel-{Ignorecycle}-0.35, AquaCenti-{Ignorecycle}-0
+(White){!DLCShared,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_15 : 3 : CommonEel-{Ignorecycle}-0.35, CommonEel-{Ignorecycle}-0
+(White){!DLCShared,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_15 : 3 : Salamander-{Ignorecycle}-0.35, Salamander-{Ignorecycle}-0
+(White){DLCShared}LINEAGE : HH_H : 3 : Salamander-{Ignorecycle}-0.5, Eel-{Ignorecycle}-0
+(White){!DLCShared,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_H : 3 : CommonEel-{Ignorecycle}-0.5, CommonEel-{Ignorecycle}-0
+(White){!DLCShared,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_H : 3 : Salamander-{Ignorecycle}-0.5, Salamander-{Ignorecycle}-0
 
-(White)LINEAGE : HH_Elevator : 3 : Scutigera-0.4, Centipede-{0.7}-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
-(White)HH_Elevator : 3-Small Centipede-{AlternateForm}-2
-(White)LINEAGE : HH_Statue : 4 : Blue-0.6, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(White){MSC}LINEAGE : HH_03 : 3 : Eggbug-0.35, FireBug-0
+(White){!MSC,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_03 : 3 : Eggbug-0.35, TintedBeetle-0
+(White){!MSC,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_03 : 3 : Eggbug-0.35, BigSpider-0
+(White){MSC}LINEAGE : HH_23 : 3 : Eggbug-0.35, FireBug-0
+(White){!MSC,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_23 : 3 : Eggbug-0.35, TintedBeetle-0
+(White){!MSC,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_23 : 3 : Eggbug-0.35, BigSpider-0
 
-//Monk
-(Yellow)OFFSCREEN : 0-Deer-10, 0-Leviathan-{Ignorecycle}, 0-MirosBird-20, 0-MirosVulture
+(White){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_06 : 4 : Scutigera-0.4, Centipede-{0.7}-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(White){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_06 : 4 : Centiwing-0.4, Centipede-{0.7}-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(White){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 3 : Scutigera-0.4, Centipede-{0.7}-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(White){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 3 : Centiwing-0.4, Centipede-{0.7}-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(White){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_19 : 2 : Scutigera-0.4, Centipede-{0.7}-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-{Voidsea}-0
+(White){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_19 : 2 : Centiwing-0.4, Centipede-{0.7}-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-{Voidsea}-0
+(White){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_Elevator : 3 : Scutigera-0.4, Centipede-{0.7}-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(White){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_Elevator : 3 : Centiwing-0.4, Centipede-{0.7}-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
 
-(Yellow)LINEAGE : HH_01 : 2 : BrotherLongLegs-{Ignorecycle}-1, DaddyLongLegs-{Ignorecycle}-1, TerrorLongLegs-{Ignorecycle}-0
-(Yellow)LINEAGE : HH_02 : 3 : Blue-0.55, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
-(Yellow)LINEAGE : HH_03 : 3 : Eggbug-0.35, FireBug-0
-(Yellow)HH_05 : 5-BigNeedleWorm, 9-Eel-{PreCycle}
-(Yellow)LINEAGE : HH_05 : 7 : Salamander-{Ignorecycle}-0.45, Eel-{Ignorecycle}-0
-(Yellow)LINEAGE : HH_06 : 4 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
-(Yellow)HH_06 : 4-Small Centipede-{AlternateForm}
+(White){#lb-fgf-m4r-ik.modpack}HH_06 : 4-miniscutigera
+(White){#!lb-fgf-m4r-ik.modpack}HH_06 : 4-Small Centipede-{AlternateForm}
+(White){#lb-fgf-m4r-ik.modpack}HH_13 : 3-miniscutigera-2
+(White){#!lb-fgf-m4r-ik.modpack}HH_13 : 3-Small Centipede-{AlternateForm}-2
+(White){#lb-fgf-m4r-ik.modpack}HH_Extend : 3-miniscutigera-2
+(White){#!lb-fgf-m4r-ik.modpack}HH_Extend : 3-Small Centipede-{AlternateForm}-2
+(White){#lb-fgf-m4r-ik.modpack}HH_Elevator : 3-miniscutigera-2
+(White){#!lb-fgf-m4r-ik.modpack}HH_Elevator : 3-Small Centipede-{AlternateForm}-2
+
+(White){DLCShared,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_26 : 4 : Green-0.6, silverlizard-0.5, WaterSpitter-0.5, SpitLizard-{Mean:1.0}-5, Red-{Mean:1.0}-0
+(White){DLCShared,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_26 : 4 : Green-0.7, SpitLizard-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(White){!DLCShared,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_26 : 4 : Green-0.7, silverlizard-0.4, WaterSpitter-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(White){!DLCShared,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_26 : 4 : Green-0.6, Green-0.4, Green-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(White){DLCShared,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 4 : Green-0.6, silverlizard-0.5, WaterSpitter-0.5, SpitLizard-{Mean:1.0}-0.5, Red-{Mean:1.0}-0
+(White){DLCShared,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 4 : Green-0.7, SpitLizard-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(White){!DLCShared,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 4 : Green-0.7, silverlizard-0.4, WaterSpitter-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(White){!DLCShared,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 4 : Green-0.6, Green-0.4, Green-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(White){DLCShared,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_25 : 4 : Green-0.6, silverlizard-0.5, WaterSpitter-0.5, SpitLizard-{Mean:1.0}-0.5, Red-{Mean:1.0}-0
+(White){DLCShared,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_25 : 4 : Green-0.7, SpitLizard-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(White){!DLCShared,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_25 : 4 : Green-0.7, silverlizard-0.4, WaterSpitter-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(White){!DLCShared,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_25 : 4 : Green-0.6, Green-0.4, Green-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(White){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_02 : 3 : Blue-0.6, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(White){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_02 : 3 : Blue-0.6, White-0.4, Cyan-0.4, Cyan-{Mean:1.0}-0
+(White){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_08 : 3 : Blue-0.6, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(White){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_08 : 3 : Blue-0.6, White-0.4, Cyan-0.4, Cyan-{Mean:1.0}-0
+(White){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_U : 6 : Blue-0.6, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(White){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_U : 6 : Blue-0.6, White-0.4, Cyan-0.4, Cyan-{Mean:1.0}-0
+(White){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_Statue : 4 : Blue-0.6, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(White){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_Statue : 4 : Blue-0.6, White-0.4, Cyan-0.4, Cyan-{Mean:1.0}-0
+
+//MONK
+(Yellow){DLCShared}OFFSCREEN : 0-Deer-7, 0-Leviathan-{Ignorecycle}, 0-MiniLeviathan-{Ignorecycle}, 0-MirosBird-20, 0-MirosVulture
+(Yellow){!DLCShared}OFFSCREEN : 0-Deer-7, 0-Leviathan-{Ignorecycle}, 0-MiniLeviathan-{Ignorecycle}, 0-MirosBird-22
+
+(Yellow){DLCShared}LINEAGE : HH_01 : 2 : BrotherLongLegs-{Ignorecycle}-1, DaddyLongLegs-{Ignorecycle}-1, TerrorLongLegs-{Ignorecycle}-0
+(Yellow){!DLCShared,#rainbowlonglegs}LINEAGE : HH_01 : 2 : BrotherLongLegs-{Ignorecycle}-1, DaddyLongLegs-{Ignorecycle}-1, RainbowLongLegs-{Ignorecycle}-0
+(Yellow){!DLCShared,#!rainbowlonglegs}LINEAGE : HH_01 : 2 : BrotherLongLegs-{Ignorecycle}-1, DaddyLongLegs-{Ignorecycle}-0
+
 (Yellow)HH_07 : 3-TentaclePlant-{Ignorecycle}, 4-TentaclePlant-{Ignorecycle}
-(Yellow)LINEAGE : HH_08 : 3 : Blue-0.55, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
-(Yellow)HH_09 : 9-Eel-{PreCycle}
-(Yellow)LINEAGE : HH_09 : 6 : Salamander-{Ignorecycle}-0.45, Eel-{Ignorecycle}-0
-(Yellow)HH_13 : 2-Small Centipede-{AlternateForm}-2
-(Yellow)LINEAGE : HH_23 : 3 : Eggbug-0.35, FireBug-0
-(Yellow)LINEAGE : HH_26 : 4 : Green-0.55, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
 
-(Yellow)LINEAGE : HH_U : 6 : Blue-0.55, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
-(Yellow)LINEAGE : HH_H : 3 : Salamander-{Ignorecycle}-0.45, Eel-{Ignorecycle}-0
-(Yellow)HH_Extend : 3-Small Centipede-{AlternateForm}-2
-(Yellow)LINEAGE : HH_Extend : 3 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
-(Yellow)LINEAGE : HH_Extend : 4 : Green-0.55, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(Yellow){DLCShared}HH_05 : 5-BigNeedleWorm, 9-Eel-{PreCycle}
+(Yellow){!DLCShared,#lb-fgf-m4r-ik.modpack}HH_05 : 5-BigNeedleWorm, 9-CommonEel-{PreCycle}
+(Yellow){!DLCShared,#!lb-fgf-m4r-ik.modpack}HH_05 : 5-BigNeedleWorm, 9-Salamander-{PreCycle}
+(Yellow){DLCShared}LINEAGE : HH_05 : 7 : Salamander-{Ignorecycle}-0.45, Eel-{Ignorecycle}-0
+(Yellow){!DLCShared,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_05 : 7 : Salamander-{Ignorecycle}-0.45, CommonEel-{Ignorecycle}-0
+(Yellow){!DLCShared,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_05 : 7 : Salamander-{Ignorecycle}-0.45, Salamander-{Ignorecycle}-0
 
-(Yellow)LINEAGE : HH_15 : 3 : Eel-{Ignorecycle}-0.35, AquaCenti-{Ignorecycle}-0
+(Yellow){DLCShared}HH_09 : 9-Eel-{PreCycle}
+(Yellow){!DLCShared,#lb-fgf-m4r-ik.modpack}HH_09 : 9-CommonEel-{PreCycle}
+(Yellow){!DLCShared,#!lb-fgf-m4r-ik.modpack}HH_09 : 9-Salamander-{PreCycle}
+(Yellow){DLCShared}LINEAGE : HH_09 : 6 : Salamander-{Ignorecycle}-0.45, Eel-{Ignorecycle}-0
+(Yellow){!DLCShared,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_09 : 6 : Salamander-{Ignorecycle}-0.45, CommonEel-{Ignorecycle}-0
+(Yellow){!DLCShared,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_09 : 6 : Salamander-{Ignorecycle}-0.45, Salamander-{Ignorecycle}-0
 
-(Yellow)LINEAGE : HH_19 : 2 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-{Voidsea}-0
-(Yellow)LINEAGE : HH_25 : 4 : Green-0.55, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(Yellow){DLCShared}LINEAGE : HH_15 : 3 : Eel-{Ignorecycle}-0.35, AquaCenti-{Ignorecycle}-0
+(Yellow){!DLCShared,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_15 : 3 : CommonEel-{Ignorecycle}-0.35, CommonEel-{Ignorecycle}-0
+(Yellow){!DLCShared,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_15 : 3 : Salamander-{Ignorecycle}-0.35, AquSalamanderaCenti-{Ignorecycle}-0
+(Yellow){DLCShared}LINEAGE : HH_H : 3 : Salamander-{Ignorecycle}-0.45, Eel-{Ignorecycle}-0
+(Yellow){!DLCShared,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_H : 3 : Salamander-{Ignorecycle}-0.45, CommonEel-{Ignorecycle}-0
+(Yellow){!DLCShared,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_H : 3 : Salamander-{Ignorecycle}-0.45, Salamander-{Ignorecycle}-0
 
-(Yellow)LINEAGE : HH_Elevator : 3 : Scutigera-0.3, Centipede-{0.8}-0.35, Centipede-{0.9}-0.35, Centipede-{1.0}-0.4, RedCentipede-0
-(Yellow)HH_Elevator : 3-Small Centipede-{AlternateForm}-2
-(Yellow)LINEAGE : HH_Statue : 4 : Blue-0.55, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Yellow){MSC}LINEAGE : HH_03 : 3 : Eggbug-0.35, FireBug-0
+(Yellow){!MSC,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_03 : 3 : Eggbug-0.35, TintedBeetle-0
+(Yellow){!MSC,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_03 : 3 : Eggbug-0.35, BigSpider-0
+(Yellow){MSC}LINEAGE : HH_23 : 3 : Eggbug-0.35, FireBug-0
+(Yellow){!MSC,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_23 : 3 : Eggbug-0.35, TintedBeetle-0
+(Yellow){!MSC,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_23 : 3 : Eggbug-0.35, BigSpider-0
 
-//Rivulet
-(Rivulet)OFFSCREEN : 0-Deer-11, 0-Leviathan-{Ignorecycle}, 0-MirosBird-14
+(Yellow){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_06 : 4 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(Yellow){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_06 : 4 : Centiwing-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(Yellow){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 3 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(Yellow){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 3 : Centiwing-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(Yellow){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_19 : 2 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-{Voidsea}-0
+(Yellow){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_19 : 2 : Centiwing-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-{Voidsea}-0
+(Yellow){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_Elevator : 3 : Scutigera-0.3, Centipede-{0.8}-0.35, Centipede-{0.9}-0.35, Centipede-{1.0}-0.4, RedCentipede-0
+(Yellow){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_Elevator : 3 : Centiwing-0.3, Centipede-{0.8}-0.35, Centipede-{0.9}-0.35, Centipede-{1.0}-0.4, RedCentipede-0
+
+(Yellow){#lb-fgf-m4r-ik.modpack}HH_06 : 4-miniscutigera
+(Yellow){#!lb-fgf-m4r-ik.modpack}HH_06 : 4-Small Centipede-{AlternateForm}
+(Yellow){#lb-fgf-m4r-ik.modpack}HH_13 : 3-miniscutigera-2
+(Yellow){#!lb-fgf-m4r-ik.modpack}HH_13 : 3-Small Centipede-{AlternateForm}-2
+(Yellow){#lb-fgf-m4r-ik.modpack}HH_Extend : 3-miniscutigera-2
+(Yellow){#!lb-fgf-m4r-ik.modpack}HH_Extend : 3-Small Centipede-{AlternateForm}-2
+(Yellow){#lb-fgf-m4r-ik.modpack}HH_Elevator : 3-miniscutigera-2
+(Yellow){#!lb-fgf-m4r-ik.modpack}HH_Elevator : 3-Small Centipede-{AlternateForm}-2
+
+(Yellow){DLCShared,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_26 : 4 : Green-0.55, silverlizard-0.5, WaterSpitter-0.5, SpitLizard-{Mean:1.0}-0.5, Red-{Mean:1.0}-0
+(Yellow){DLCShared,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_26 : 4 : Green-0.55, SpitLizard-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(Yellow){!DLCShared,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_26 : 4 : Green-0.55, silverlizard-0.4, WaterSpitter-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(Yellow){!DLCShared,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_26 : 4 : Green-0.55, Green-0.4, Green-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(Yellow){DLCShared,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 4 : Green-0.55, silverlizard-0.5, WaterSpitter-0.5, SpitLizard-{Mean:1.0}-0.5, Red-{Mean:1.0}-0
+(Yellow){DLCShared,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 4 : Green-0.55, SpitLizard-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(Yellow){!DLCShared,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 4 : Green-0.55, silverlizard-0.4, WaterSpitter-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(Yellow){!DLCShared,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 4 : Green-0.55, Green-0.4, Green-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(Yellow){DLCShared,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_25 : 4 : Green-0.55, silverlizard-0.5, WaterSpitter-0.5, SpitLizard-{Mean:1.0}-0.5, Red-{Mean:1.0}-0
+(Yellow){DLCShared,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_25 : 4 : Green-0.55, SpitLizard-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(Yellow){!DLCShared,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_25 : 4 : Green-0.55, silverlizard-0.4, WaterSpitter-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(Yellow){!DLCShared,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_25 : 4 : Green-0.55, Green-0.4, Green-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(Yellow){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_02 : 3 : Blue-0.55, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Yellow){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_02 : 3 : Blue-0.55, White-0.4, Cyan-0.4, Cyan-{Mean:1.0}-0
+(Yellow){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_08 : 3 : Blue-0.55, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Yellow){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_08 : 3 : Blue-0.55, White-0.4, Cyan-0.4, Cyan-{Mean:1.0}-0
+(Yellow){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_U : 6 : Blue-0.55, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Yellow){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_U : 6 : Blue-0.55, White-0.4, Cyan-0.4, Cyan-{Mean:1.0}-0
+(Yellow){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_Statue : 4 : Blue-0.55, White-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Yellow){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_Statue : 4 : Blue-0.55, White-0.4, Cyan-0.4, Cyan-{Mean:1.0}-0
+
+//RIVULET
+(Rivulet)OFFSCREEN : 0-Deer-8, 0-Leviathan-{Ignorecycle}, 0-MiniLeviathan-{Ignorecycle}, 0-MirosBird-14
 
 (Rivulet)LINEAGE : HH_01 : 2 : BrotherLongLegs-{Ignorecycle}-1, DaddyLongLegs-{Ignorecycle}-0
-(Rivulet)LINEAGE : HH_02 : 3 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
 (Rivulet)LINEAGE : HH_03 : 3 : Eggbug-0.4, FireBug-0
 (Rivulet)HH_05 : 5-BigNeedleWorm, 7-AquaCenti-{Ignorecycle}, 9-Eel-{PreCycle}
-(Rivulet)LINEAGE : HH_06 : 4 : Centipede-{0.5}-0.65, Centipede-{0.6}-0.65, Centipede-{0.7}-0.65, Centipede-{0.8}-0.65, Centipede-{0.9}-0.65, Centipede-{1.0}-0.65, RedCentipede-0
 (Rivulet)HH_07 : 3-TentaclePlant-{Ignorecycle}, 4-TentaclePlant-{Ignorecycle}, 5-TentaclePlant-{Ignorecycle}
-(Rivulet)LINEAGE : HH_08 : 3 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
 (Rivulet)HH_09 : 6-AquaCenti-{Ignorecycle}, 9-Eel-{PreCycle}
-(Rivulet)HH_13 : 3-Small Centipede
-(Rivulet)LINEAGE : HH_13 : 2 : BigSpider-0.4, MotherSpider-0.4, SpitterSpider-0
+(Rivulet)LINEAGE : HH_13 : 3 : BigSpider-0.4, MotherSpider-0.4, SpitterSpider-0
 (Rivulet)LINEAGE : HH_23 : 3 : Eggbug-0.4, FireBug-0
 (Rivulet)LINEAGE : HH_23 : 4 : BigSpider-0.4, MotherSpider-0.4, SpitterSpider-0
-(Rivulet)LINEAGE : HH_26 : 4 : Green-{Mean:1.0}-0.65, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
-
-(Rivulet)LINEAGE : HH_U : 6 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
 (Rivulet)LINEAGE : HH_H : 3 : Salamander-{Ignorecycle}-0.55, Eel-{Ignorecycle}-0
-(Rivulet)HH_Extend : 3-Small Centipede-2
-(Rivulet)LINEAGE : HH_Extend : 3 : Centipede-{0.5}-0.65, Centipede-{0.6}-0.65, Centipede-{0.7}-0.65, Centipede-{0.8}-0.65, Centipede-{0.9}-0.65, Centipede-{1.0}-0.65, RedCentipede-0
-(Rivulet)LINEAGE : HH_Extend : 4 : Green-0.55, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
-
 (Rivulet)HH_15 : 3-AquaCenti-{Ignorecycle}
-
-(Rivulet)LINEAGE : HH_19 : 2 : Centipede-{0.5}-0.65, Centipede-{0.6}-0.65, Centipede-{0.7}-0.65, Centipede-{0.8}-0.65, Centipede-{0.9}-0.65, Centipede-{1.0}-0.65, RedCentipede-{Voidsea}-0
 (Rivulet)HH_19 : 3-FireBug
-(Rivulet)LINEAGE : HH_25 : 4 : Green-{Mean:1.0}-0.65, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
 
-(Rivulet)LINEAGE : HH_Elevator : 3 : Centipede-{0.5}-0.65, Centipede-{0.6}-0.65, Centipede-{0.7}-0.65, Centipede-{0.8}-0.65, Centipede-{0.9}-0.65, Centipede-{1.0}-0.65, RedCentipede-0
+(Rivulet)HH_13 : 4-Small Centipede
+(Rivulet)HH_Extend : 3-Small Centipede-2
 (Rivulet)HH_Elevator : 3-Small Centipede-2
-(Rivulet)LINEAGE : HH_Statue : 4 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
 
+(Rivulet)LINEAGE : HH_06 : 4 : Centipede-{0.5}-0.65, Centipede-{0.6}-0.65, Centipede-{0.7}-0.65, Centipede-{0.8}-0.65, Centipede-{0.9}-0.65, Centipede-{1.0}-0.65, RedCentipede-0
+(Rivulet)LINEAGE : HH_Extend : 3 : Centipede-{0.5}-0.65, Centipede-{0.6}-0.65, Centipede-{0.7}-0.65, Centipede-{0.8}-0.65, Centipede-{0.9}-0.65, Centipede-{1.0}-0.65, RedCentipede-0
+(Rivulet)LINEAGE : HH_19 : 2 : Centipede-{0.5}-0.65, Centipede-{0.6}-0.65, Centipede-{0.7}-0.65, Centipede-{0.8}-0.65, Centipede-{0.9}-0.65, Centipede-{1.0}-0.65, RedCentipede-{Voidsea}-0
+(Rivulet)LINEAGE : HH_Elevator : 3 : Centipede-{0.5}-0.65, Centipede-{0.6}-0.65, Centipede-{0.7}-0.65, Centipede-{0.8}-0.65, Centipede-{0.9}-0.65, Centipede-{1.0}-0.65, RedCentipede-0
+
+(Rivulet){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_26 : 4 : Green-{Mean:1.0}-0.65, silverlizard-0.5, WaterSpitter-0.5, SpitLizard-{Mean:1.0}-0.5, Red-{Mean:1.0}-0
+(Rivulet){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_26 : 4 : Green-{Mean:1.0}-0.65, SpitLizard-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(Rivulet){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 4 : Green-0.55, silverlizard-0.5, WaterSpitter-0.5, SpitLizard-{Mean:1.0}-0.5, Red-{Mean:1.0}-0
+(Rivulet){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 4 : Green-0.55, SpitLizard-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(Rivulet){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_25 : 4 : Green-{Mean:1.0}-0.65, silverlizard-0.5, WaterSpitter-0.5, SpitLizard-{Mean:1.0}-0.5, Red-{Mean:1.0}-0
+(Rivulet){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_25 : 4 : Green-{Mean:1.0}-0.65, SpitLizard-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(Rivulet)LINEAGE : HH_02 : 3 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Rivulet)LINEAGE : HH_08 : 3 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Rivulet)LINEAGE : HH_U : 6 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Rivulet)LINEAGE : HH_Statue : 4 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
 (Rivulet)LINEAGE : HH_Cabinets : 4 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
 (Rivulet)LINEAGE : HH_Deepinets : 3 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
 
-//Gravel Eater
-(Gravelslug,Outsider)OFFSCREEN : 0-Deer-12, 0-Leviathan-{Ignorecycle}, 0-Scavenger-{Ignorecycle}, 0-ScavengerElite-{Ignorecycle}
+//GRAVEL EATER
+(Gravelslug,Outsider){DLCShared}OFFSCREEN : 0-Deer-9, 0-Leviathan-{Ignorecycle}, 0-MiniLeviathan-{Ignorecycle}, 0-Scavenger-{Ignorecycle}, 0-ScavengerElite-{Ignorecycle}
+(Gravelslug,Outsider){!DLCShared}OFFSCREEN : 0-Deer-9, 0-Leviathan-{Ignorecycle}, 0-MiniLeviathan-{Ignorecycle}, 0-Scavenger-{Ignorecycle}-2
 
-(Gravelslug,Outsider)LINEAGE : HH_01 : 2 : BigSpider-{Ignorecycle}-0.4, MotherSpider-{Ignorecycle}-0.4, SpitterSpider-{Ignorecycle}-0
-(Gravelslug,Outsider)LINEAGE : HH_02 : 3 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
-(Gravelslug,Outsider)LINEAGE : HH_03 : 3 : Eggbug-{Ignorecycle}-0.4, FireBug-{Ignorecycle}-0
-(Gravelslug,Outsider)HH_05 : 5-BigNeedleWorm-{Ignorecycle}, 7-Polliwog-{Ignorecycle}, 9-Polliwog-{Ignorecycle}
-(Gravelslug,Outsider)LINEAGE : HH_06 : 4 : Centipede-{0.5}-0.65, Centipede-{0.6}-0.65, Centipede-{0.7}-0.65, Centipede-{0.8}-0.65, Centipede-{0.9}-0.65, Centipede-{1.0}-0.65, RedCentipede-0
-(Gravelslug,Outsider)HH_07 : 3-TentaclePlant-{Ignorecycle}, 4-TentaclePlant-{Ignorecycle}, 5-TentaclePlant-{Ignorecycle}
-(Gravelslug,Outsider)LINEAGE : HH_08 : 3 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
-(Gravelslug,Outsider)HH_09 : 6-Polliwog-{Ignorecycle}, 9-Polliwog-{Ignorecycle}
-(Gravelslug,Outsider)LINEAGE : HH_10 : 3 : BigSpider-{Ignorecycle}-0.4, MotherSpider-{Ignorecycle}-0.4, SpitterSpider-{Ignorecycle}-0
-(Gravelslug,Outsider)HH_13 : 3-Small Centipede-{Ignorecycle}
-(Gravelslug,Outsider)LINEAGE : HH_13 : 2 : BigSpider-{Ignorecycle}-0.4, MotherSpider-{Ignorecycle}-0.4, SpitterSpider-{Ignorecycle}-0
-(Gravelslug,Outsider)LINEAGE : HH_23 : 3 : Eggbug-{Ignorecycle}-0.4, FireBug-{Ignorecycle}-0
-(Gravelslug,Outsider)LINEAGE : HH_23 : 4 : BigSpider-0.4, MotherSpider-0.4, SpitterSpider-0
-(Gravelslug,Outsider)LINEAGE : HH_26 : 4 : Green-{Mean:1.0}-0.65, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(Gravelslug,Outsider,Seer)HH_07 : 3-TentaclePlant-{Ignorecycle}, 4-TentaclePlant-{Ignorecycle}, 5-TentaclePlant-{Ignorecycle}
 
-(Gravelslug,Outsider)LINEAGE : HH_U : 6 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
-(Gravelslug,Outsider)HH_H : 3-Polliwog-{Ignorecycle}
-(Gravelslug,Outsider)HH_Extend : 3-Small Centipede-2
-(Gravelslug,Outsider)LINEAGE : HH_Extend : 3 : Centipede-{0.5}-0.65, Centipede-{0.6}-0.65, Centipede-{0.7}-0.65, Centipede-{0.8}-0.65, Centipede-{0.9}-0.65, Centipede-{1.0}-0.65, RedCentipede-0
-(Gravelslug,Outsider)LINEAGE : HH_Extend : 4 : Green-{Mean:1.0}-0.65, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(Gravelslug,Outsider,Seer){#lb-fgf-m4r-ik.modpack}HH_05 : 5-BigNeedleWorm-{Ignorecycle}, 7-Polliwog-{Ignorecycle}, 9-Polliwog-{Ignorecycle}
+(Gravelslug,Outsider,Seer){#!lb-fgf-m4r-ik.modpack}HH_05 : 5-BigNeedleWorm-{Ignorecycle}, 7-Salamander-{Ignorecycle}, 9-Salamander-{Ignorecycle}
+(Gravelslug,Outsider,Seer){#lb-fgf-m4r-ik.modpack}HH_09 : 6-Polliwog-{Ignorecycle}, 9-Polliwog-{Ignorecycle}
+(Gravelslug,Outsider,Seer){#!lb-fgf-m4r-ik.modpack}HH_09 : 6-Salamander-{Ignorecycle}, 9-Salamander-{Ignorecycle}
+(Gravelslug,Outsider,Seer){#lb-fgf-m4r-ik.modpack}HH_H : 3-Polliwog-{Ignorecycle}
+(Gravelslug,Outsider,Seer){#!lb-fgf-m4r-ik.modpack}HH_H : 3-Salamander-{Ignorecycle}
 
-(Gravelslug,Outsider)LINEAGE : HH_15 : 3 : Eel-{Ignorecycle}-0.4, AquaCenti-{Ignorecycle}-0
+(Gravelslug,Outsider){DLCShared,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_15 : 3 : Eel-{Ignorecycle}-0.4, AquaCenti-{Ignorecycle}-0
+(Gravelslug,Outsider){!DLCShared,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_15 : 3 : CommonEel-{Ignorecycle}-0.4, CommonEel-{Ignorecycle}-0
+(Gravelslug,Outsider){!DLCShared,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_15 : 3 : Salamander-{Ignorecycle}-0.4, Salamander-{Ignorecycle}-0
 
-(Gravelslug,Outsider)LINEAGE : HH_19 : 2 : Centipede-{0.5}-0.65, Centipede-{0.6}-0.65, Centipede-{0.7}-0.65, Centipede-{0.8}-0.65, Centipede-{0.9}-0.65, Centipede-{1.0}-0.65, RedCentipede-{Voidsea}-0
-(Gravelslug,Outsider)HH_19 : 3-FireBug-{Ignorecycle}
-(Gravelslug,Outsider)HH_22 : 3-FireBug-{Ignorecycle}
-(Gravelslug,Outsider)LINEAGE : HH_25 : 4 : Green-{Mean:1.0}-0.65, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(Gravelslug,Outsider,Seer){MSC}LINEAGE : HH_03 : 3 : Eggbug-{Ignorecycle}-0.4, FireBug-{Ignorecycle}-0
+(Gravelslug,Outsider,Seer){!MSC,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_03 : 3 : Eggbug-{Ignorecycle}-0.4, TintedBeetle-{Ignorecycle}-0
+(Gravelslug,Outsider,Seer){!MSC,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_03 : 3 : Eggbug-{Ignorecycle}-0.4, BigSpider-{Ignorecycle}-0
+(Gravelslug,Outsider,Seer){MSC}LINEAGE : HH_23 : 3 : Eggbug-{Ignorecycle}-0.4, FireBug-{Ignorecycle}-0
+(Gravelslug,Outsider,Seer){!MSC,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_23 : 3 : Eggbug-{Ignorecycle}-0.4, TintedBeetle-{Ignorecycle}-0
+(Gravelslug,Outsider,Seer){!MSC,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_23 : 3 : Eggbug-{Ignorecycle}-0.4, BigSpider-{Ignorecycle}-0
+(Gravelslug,Outsider,Seer){MSC}HH_19 : 3-FireBug-{Ignorecycle}
+(Gravelslug,Outsider,Seer){!MSC,#lb-fgf-m4r-ik.modpack}HH_19 : 3-TintedBeetle-{Ignorecycle}
+(Gravelslug,Outsider,Seer){!MSC,#!lb-fgf-m4r-ik.modpack}HH_19 : 3-BigSpider-{Ignorecycle}
+(Gravelslug,Outsider,Seer){MSC}HH_22 : 3-FireBug-{Ignorecycle}
+(Gravelslug,Outsider,Seer){!MSC,#lb-fgf-m4r-ik.modpack}HH_22 : 3-TintedBeetle-{Ignorecycle}
+(Gravelslug,Outsider,Seer){!MSC,#!lb-fgf-m4r-ik.modpack}HH_22 : 3-BigSpider-{Ignorecycle}
 
-(Gravelslug,Outsider)LINEAGE : HH_Elevator : 3 : Centipede-{0.5}-0.65, Centipede-{0.6}-0.65, Centipede-{0.7}-0.65, Centipede-{0.8}-0.65, Centipede-{0.9}-0.65, Centipede-{1.0}-0.65, RedCentipede-0
-(Gravelslug,Outsider)HH_Elevator : 3-Small Centipede-{Ignorecycle}-2
-(Gravelslug,Outsider)LINEAGE : HH_Statue : 4 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Gravelslug,Outsider,Seer){DLCShared}LINEAGE : HH_01 : 2 : BigSpider-{Ignorecycle}-0.4, MotherSpider-{Ignorecycle}-0.4, SpitterSpider-{Ignorecycle}-0
+(Gravelslug,Outsider,Seer){!DLCShared}LINEAGE : HH_01 : 2 : BigSpider-{Ignorecycle}-0.4, BigSpider-{Ignorecycle}-0.4, SpitterSpider-{Ignorecycle}-0
+(Gravelslug,Outsider,Seer){DLCShared}LINEAGE : HH_10 : 3 : BigSpider-{Ignorecycle}-0.4, MotherSpider-{Ignorecycle}-0.4, SpitterSpider-{Ignorecycle}-0
+(Gravelslug,Outsider,Seer){!DLCShared}LINEAGE : HH_10 : 3 : BigSpider-{Ignorecycle}-0.4, BigSpider-{Ignorecycle}-0.4, SpitterSpider-{Ignorecycle}-0
+(Gravelslug,Outsider,Seer){DLCShared}LINEAGE : HH_13 : 3 : BigSpider-{Ignorecycle}-0.4, MotherSpider-{Ignorecycle}-0.4, SpitterSpider-{Ignorecycle}-0
+(Gravelslug,Outsider,Seer){!DLCShared}LINEAGE : HH_13 : 3 : BigSpider-{Ignorecycle}-0.4, BigSpider-{Ignorecycle}-0.4, SpitterSpider-{Ignorecycle}-0
+(Gravelslug,Outsider,Seer){DLCShared}LINEAGE : HH_23 : 4 : BigSpider-{Ignorecycle}-0.4, MotherSpider-{Ignorecycle}-0.4, SpitterSpider-{Ignorecycle}-0
+(Gravelslug,Outsider,Seer){!DLCShared}LINEAGE : HH_23 : 4 : BigSpider-{Ignorecycle}-0.4, BigSpider-{Ignorecycle}-0.4, SpitterSpider-{Ignorecycle}-0
 
-(Gravelslug,Outsider)LINEAGE : HH_Cabinets : 4 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
-(Gravelslug,Outsider)LINEAGE : HH_Cabinets : 4 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
-(Gravelslug,Outsider)LINEAGE : HH_Cabinets : 4 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
-(Gravelslug,Outsider)LINEAGE : HH_Deepinets : 3 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
-(Gravelslug,Outsider)LINEAGE : HH_Deepinets : 4 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
-(Gravelslug,Outsider)LINEAGE : HH_Deepinets : 4 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Gravelslug,Outsider,Seer)LINEAGE : HH_06 : 4 : Centipede-{0.5}-0.65, Centipede-{0.6}-0.65, Centipede-{0.7}-0.65, Centipede-{0.8}-0.65, Centipede-{0.9}-0.65, Centipede-{1.0}-0.65, RedCentipede-{Ignorecycle}-0
+(Gravelslug,Outsider,Seer)LINEAGE : HH_Extend : 3 : Centipede-{0.5}-0.65, Centipede-{0.6}-0.65, Centipede-{0.7}-0.65, Centipede-{0.8}-0.65, Centipede-{0.9}-0.65, Centipede-{1.0}-0.65, RedCentipede-{Ignorecycle}-0
+(Gravelslug,Outsider,Seer)LINEAGE : HH_19 : 2 : Centipede-{0.5}-0.65, Centipede-{0.6}-0.65, Centipede-{0.7}-0.65, Centipede-{0.8}-0.65, Centipede-{0.9}-0.65, Centipede-{1.0}-0.65, RedCentipede-{Voidsea}-0
+(Gravelslug,Outsider,Seer)LINEAGE : HH_Elevator : 3 : Centipede-{0.5}-0.65, Centipede-{0.6}-0.65, Centipede-{0.7}-0.65, Centipede-{0.8}-0.65, Centipede-{0.9}-0.65, Centipede-{1.0}-0.65, RedCentipede-{Ignorecycle}-0
 
-//Saint
-(Saint)OFFSCREEN : 0-Deer-{Ignorecycle}-13, 0-Leviathan-{Voidsea}
+(Gravelslug,Outsider,Seer)HH_13 : 4-Small Centipede-{Ignorecycle}
+(Gravelslug,Outsider,Seer)HH_Extend : 3-Small Centipede-{Ignorecycle}-2
+(Gravelslug,Outsider,Seer)HH_Elevator : 3-Small Centipede-{Ignorecycle}-2
 
-(Saint)LINEAGE : HH_01 : 2 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
-(Saint)LINEAGE : HH_02 : 3 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
-(Saint)LINEAGE : HH_03 : 3 : EggBug-{Ignorecycle}-1, FireBug-{Ignorecycle}-0
-(Saint)HH_05 : 5-BigNeedleWorm-{Ignorecycle}, 7-Polliwog-{Ignorecycle}, 9-Polliwog-{Ignorecycle}
-(Saint)LINEAGE : HH_06 : 4 : Centipede-{0.6}-1, Centipede-{0.8}-1, Centipede-{1.0}-1, RedCentipede-0
+(Gravelslug,Outsider,Seer){DLCShared,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_26 : 4 : Green-{Mean:1.0}-0.65, silverlizard-0.5, WaterSpitter-0.5, SpitLizard-{Mean:1.0}-0.5, Red-{Mean:1.0}-0
+(Gravelslug,Outsider,Seer){DLCShared,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_26 : 4 : Green-{Mean:1.0}-0.65, SpitLizard-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(Gravelslug,Outsider,Seer){!DLCShared,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_26 : 4 : Green-{Mean:1.0}-0.65, silverlizard-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(Gravelslug,Outsider,Seer){!DLCShared,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_26 : 4 : Green-{Mean:1.0}-0.65, Green-0.4, Green-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(Gravelslug,Outsider,Seer){DLCShared,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 4 : Green-{Mean:1.0}-0.65, silverlizard-0.5, WaterSpitter-0.5, SpitLizard-{Mean:1.0}-0.5, Red-{Mean:1.0}-0
+(Gravelslug,Outsider,Seer){DLCShared,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 4 : Green-{Mean:1.0}-0.65, SpitLizard-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(Gravelslug,Outsider,Seer){!DLCShared,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 4 : Green-{Mean:1.0}-0.65, silverlizard-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(Gravelslug,Outsider,Seer){!DLCShared,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 4 : Green-{Mean:1.0}-0.65, Green-0.4, Green-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(Gravelslug,Outsider,Seer){DLCShared,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_25 : 4 : Green-{Mean:1.0}-0.65, silverlizard-0.5, WaterSpitter-0.5, SpitLizard-{Mean:1.0}-0.5, Red-{Mean:1.0}-0
+(Gravelslug,Outsider,Seer){DLCShared,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_25 : 4 : Green-{Mean:1.0}-0.65, SpitLizard-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(Gravelslug,Outsider,Seer){!DLCShared,#lb-fgf-m4r-ik.modpack}LINEAGE : HH_25 : 4 : Green-{Mean:1.0}-0.65, silverlizard-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(Gravelslug,Outsider,Seer){!DLCShared,#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_25 : 4 : Green-{Mean:1.0}-0.65, Green-0.4, Green-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
+(Gravelslug,Outsider,Seer){DLCShared}LINEAGE : HH_02 : 3 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Gravelslug,Outsider,Seer){!DLCShared}LINEAGE : HH_02 : 3 : Blue-0.65, White-0.4, Cyan-0.4, Cyan-{Mean:1.0}-0
+(Gravelslug,Outsider,Seer){DLCShared}LINEAGE : HH_08 : 3 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Gravelslug,Outsider,Seer){!DLCShared}LINEAGE : HH_08 : 3 : Blue-0.65, White-0.4, Cyan-0.4, Cyan-{Mean:1.0}-0
+(Gravelslug,Outsider,Seer){DLCShared}LINEAGE : HH_U : 6 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Gravelslug,Outsider,Seer){!DLCShared}LINEAGE : HH_U : 6 : Blue-0.65, White-0.4, Cyan-0.4, Cyan-{Mean:1.0}-0
+(Gravelslug,Outsider,Seer){DLCShared}LINEAGE : HH_Statue : 4 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Gravelslug,Outsider,Seer){!DLCShared}LINEAGE : HH_Statue : 4 : Blue-0.65, White-0.4, Cyan-0.4, Cyan-{Mean:1.0}-0
+
+(Gravelslug,Outsider,Seer){DLCShared}LINEAGE : HH_Cabinets : 4 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Gravelslug,Outsider,Seer){!DLCShared}LINEAGE : HH_Cabinets : 4 : Blue-0.65, White-0.4, Cyan-0.4, Cyan-{Mean:1.0}-0
+
+(Gravelslug,Outsider,Seer){DLCShared}LINEAGE : HH_Cabinets : 4 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Gravelslug,Outsider,Seer){!DLCShared}LINEAGE : HH_Cabinets : 4 : Blue-0.65, White-0.4, Cyan-0.4, Cyan-{Mean:1.0}-0
+
+(Gravelslug,Outsider,Seer){DLCShared}LINEAGE : HH_Cabinets : 4 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Gravelslug,Outsider,Seer){!DLCShared}LINEAGE : HH_Cabinets : 4 : Blue-0.65, White-0.4, Cyan-0.4, Cyan-{Mean:1.0}-0
+
+(Gravelslug,Outsider,Seer){DLCShared}LINEAGE : HH_Deepinets : 3 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Gravelslug,Outsider,Seer){!DLCShared}LINEAGE : HH_Deepinets : 3 : Blue-0.65, White-0.4, Cyan-0.4, Cyan-{Mean:1.0}-0
+
+(Gravelslug,Outsider,Seer){DLCShared}LINEAGE : HH_Deepinets : 4 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Gravelslug,Outsider,Seer){!DLCShared}LINEAGE : HH_Deepinets : 4 : Blue-0.65, White-0.4, Cyan-0.4, Cyan-{Mean:1.0}-0
+
+(Gravelslug,Outsider,Seer){DLCShared}LINEAGE : HH_Deepinets : 4 : Blue-0.65, ZoopLizard-0.4, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Gravelslug,Outsider,Seer){!DLCShared}LINEAGE : HH_Deepinets : 4 : Blue-0.65, White-0.4, Cyan-0.4, Cyan-{Mean:1.0}-0
+
+//SAINT
+(Saint)OFFSCREEN : 0-Deer-{Ignorecycle}-10, 0-Leviathan-{Voidsea}, 0-MiniLeviathan-{Voidsea}
+
 (Saint)HH_07 : 3-TentaclePlant-{Ignorecycle}, 4-TentaclePlant-{Ignorecycle}, 5-TentaclePlant-{Ignorecycle}
-(Saint)LINEAGE : HH_08 : 3 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
-(Saint)HH_09 : 6-Polliwog-{Ignorecycle}, 9-Polliwog-{Ignorecycle}
-(Saint)LINEAGE : HH_10 : 3 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
-(Saint)HH_13 : 3-Small Centipede-{Ignorecycle}
-(Saint)LINEAGE : HH_13 : 2 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
-(Saint)LINEAGE : HH_23 : 3 : EggBug-{Ignorecycle}-1, FireBug-{Ignorecycle}-0
-(Saint)LINEAGE : HH_23 : 4 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
-(Saint)LINEAGE : HH_26 : 4 : Green-{Mean:1.0}-1, WaterSpitter-1, SpitLizard-{Mean:1.0}-1, Red-{Mean:1.0}-0
 
-(Saint)LINEAGE : HH_U : 6 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
-(Saint)LINEAGE : HH_U : 6 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
-(Saint)HH_H : 3-Polliwog-{Ignorecycle}
-(Saint)HH_Extend : 3-Small Centipede-2
-(Saint)LINEAGE : HH_Extend : 3 : Centipede-{0.6}-1, Centipede-{0.8}-1, Centipede-{1.0}-1, RedCentipede-0
-(Saint)LINEAGE : HH_Extend : 4 : Green-{Mean:1.0}-1, WaterSpitter-1, SpitLizard-{Mean:1.0}-1, Red-{Mean:1.0}-0
+(Saint){#lb-fgf-m4r-ik.modpack}HH_05 : 5-BigNeedleWorm-{Ignorecycle}, 7-Polliwog-{Ignorecycle}, 9-Polliwog-{Ignorecycle}
+(Saint){#!lb-fgf-m4r-ik.modpack}HH_05 : 5-BigNeedleWorm-{Ignorecycle}, 7-Salamander-{Ignorecycle}, 9-Salamander-{Ignorecycle}
+(Saint){#lb-fgf-m4r-ik.modpack}HH_09 : 6-Polliwog-{Ignorecycle}, 9-Polliwog-{Ignorecycle}
+(Saint){#!lb-fgf-m4r-ik.modpack}HH_09 : 6-Salamander-{Ignorecycle}, 9-Salamander-{Ignorecycle}
+(Saint){#lb-fgf-m4r-ik.modpack}HH_H : 3-Polliwog-{Ignorecycle}
+(Saint){#!lb-fgf-m4r-ik.modpack}HH_H : 3-Salamander-{Ignorecycle}
+
+(Saint)LINEAGE : HH_03 : 3 : EggBug-{Ignorecycle}-1, FireBug-{Ignorecycle}-0
+(Saint)LINEAGE : HH_23 : 3 : EggBug-{Ignorecycle}-1, FireBug-{Ignorecycle}-0
 
 (Saint)LINEAGE : HH_15 : 3 : Eel-{Ignorecycle}-1, AquaCenti-{Ignorecycle}-0
 
-(Saint)LINEAGE : HH_19 : 2 : Centipede-{0.6}-1, Centipede-{0.8}-1, Centipede-{1.0}-1, RedCentipede-{Voidsea}-0
 (Saint)HH_19 : 3-FireBug-{Ignorecycle}-2
 (Saint)HH_22 : 3-FireBug-{Ignorecycle}
-(Saint)LINEAGE : HH_25 : 4 : Green-{Mean:1.0}-1, WaterSpitter-1, SpitLizard-{Mean:1.0}-1, Red-{Mean:1.0}-0
 
-(Saint)LINEAGE : HH_Elevator : 3 : Centipede-{0.4}-1, Centipede-{0.6}-1, Centipede-{0.8}-1, Centipede-{1.0}-1, RedCentipede-0
+(Saint){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_26 : 4 : Green-{Mean:1.0}-1, silverlizard-1, WaterSpitter-1, SpitLizard-{Mean:1.0}-1, Red-{Mean:1.0}-0
+(Saint){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_26 : 4 : Green-{Mean:1.0}-1, SpitLizard-1, SpitLizard-{Mean:1.0}-1, Red-{Mean:1.0}-0
+(Saint){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_25 : 4 : Green-{Mean:1.0}-1, silverlizard-1, WaterSpitter-1, SpitLizard-{Mean:1.0}-1, Red-{Mean:1.0}-0
+(Saint){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_25 : 4 : Green-{Mean:1.0}-1, SpitLizard-1, SpitLizard-{Mean:1.0}-1, Red-{Mean:1.0}-0
+(Saint){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 4 : Green-{Mean:1.0}-1, silverlizard-1, WaterSpitter-1, SpitLizard-{Mean:1.0}-1, Red-{Mean:1.0}-0
+(Saint){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 4 : Green-{Mean:1.0}-1, SpitLizard-1, SpitLizard-{Mean:1.0}-1, Red-{Mean:1.0}-0
+
+(Saint)LINEAGE : HH_06 : 4 : Centipede-{0.6}-1, Centipede-{0.8}-1, Centipede-{1.0}-1, RedCentipede-{Ignorecycle}-0
+(Saint)LINEAGE : HH_Extend : 3 : Centipede-{0.6}-1, Centipede-{0.8}-1, Centipede-{1.0}-1, RedCentipede-{Ignorecycle}-0
+(Saint)LINEAGE : HH_19 : 2 : Centipede-{0.6}-1, Centipede-{0.8}-1, Centipede-{1.0}-1, RedCentipede-{Voidsea}-0
+(Saint)LINEAGE : HH_Elevator : 3 : Centipede-{0.4}-1, Centipede-{0.6}-1, Centipede-{0.8}-1, Centipede-{1.0}-1, RedCentipede-{Ignorecycle}-0
+
+(Saint)HH_13 : 4-Small Centipede-{Ignorecycle}
+(Saint)HH_Extend : 3-Small Centipede-2
 (Saint)HH_Elevator : 3-Small Centipede-{Ignorecycle}-2
-(Saint)LINEAGE : HH_Statue : 4 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
-(Saint)LINEAGE : HH_Statue : 4 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
 
+(Saint)LINEAGE : HH_01 : 2 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
+(Saint)LINEAGE : HH_02 : 3 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
+(Saint)LINEAGE : HH_08 : 3 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
+(Saint)LINEAGE : HH_10 : 3 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
+(Saint)LINEAGE : HH_13 : 3 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
+(Saint)LINEAGE : HH_23 : 4 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
+(Saint)LINEAGE : HH_U : 6 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
+(Saint)LINEAGE : HH_U : 6 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
+(Saint)LINEAGE : HH_Statue : 4 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
+(Saint)LINEAGE : HH_Statue : 4 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
 (Saint)LINEAGE : HH_Cabinets : 4 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
 (Saint)LINEAGE : HH_Cabinets : 4 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
 (Saint)LINEAGE : HH_Cabinets : 4 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
@@ -1302,118 +1583,148 @@ HH_21 : 6-TentaclePlant-{Ignorecycle}
 (Saint)LINEAGE : HH_Deepinets : 4 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
 (Saint)LINEAGE : HH_Deepinets : 4 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
 
-//Future
-(Incandescent,Begonia)OFFSCREEN : 0-Deer-{Ignorecycle}-14, 0-Leviathan-{Voidsea}
+//FUTURE
+(Incandescent,Begonia)OFFSCREEN : 0-Deer-{Ignorecycle}-11, 0-Leviathan-{Voidsea}, 0-MiniLeviathan-{Voidsea}
+
+(Incandescent,Begonia)HH_07 : 3-TentaclePlant-{Ignorecycle}, 4-TentaclePlant-{Ignorecycle}, 5-TentaclePlant-{Ignorecycle}
 
 (Incandescent,Begonia)HH_01 : 2-DropWig-{Ignorecycle}
 (Incandescent,Begonia)HH_02 : 3-DropWig-{Ignorecycle}
-(Incandescent,Begonia)LINEAGE : HH_03 : 3 : EggBug-{Ignorecycle}-0.4, FireBug-{Ignorecycle}-0
-(Incandescent,Begonia)HH_05 : 5-BigNeedleWorm-{Ignorecycle}, 7-Polliwog-{Ignorecycle}, 9-Polliwog-{Ignorecycle}
-(Incandescent,Begonia)LINEAGE : HH_06 : 4 : Centipede-{0.5}-0.65, Centipede-{0.6}-0.65, Centipede-{0.7}-0.65, Centipede-{0.8}-0.65, Centipede-{0.9}-0.65, Centipede-{1.0}-0.65, RedCentipede-0
-(Incandescent,Begonia)HH_07 : 3-TentaclePlant-{Ignorecycle}, 4-TentaclePlant-{Ignorecycle}, 5-TentaclePlant-{Ignorecycle}
 (Incandescent,Begonia)HH_08 : 3-DropWig-{Ignorecycle}
-(Incandescent,Begonia)HH_09 : 6-Polliwog-{Ignorecycle}, 9-Polliwog-{Ignorecycle}
 (Incandescent,Begonia)HH_10 : 3-DropWig-{Ignorecycle}
-(Incandescent,Begonia)HH_13 : 3-Small Centipede-{Ignorecycle}
-(Incandescent,Begonia)HH_13 : 2-DropWig-{Ignorecycle}
-(Incandescent,Begonia)LINEAGE : HH_23 : 3 : EggBug-{Ignorecycle}-0.4, FireBug-{Ignorecycle}-0
+(Incandescent,Begonia)HH_13 : 3-DropWig-{Ignorecycle}
 (Incandescent,Begonia)HH_23 : 4-DropWig-{Ignorecycle}
-(Incandescent,Begonia)LINEAGE : HH_26 : 4 : Green-{Mean:1.0}-0.65, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
-
 (Incandescent,Begonia)HH_U : 6-DropWig-{Ignorecycle}
-(Incandescent,Begonia)HH_H : 3-Polliwog-{Ignorecycle}
-(Incandescent,Begonia)HH_Extend : 3-Small Centipede-2
-(Incandescent,Begonia)LINEAGE : HH_Extend : 3 : Centipede-{0.5}-0.65, Centipede-{0.6}-0.65, Centipede-{0.7}-0.65, Centipede-{0.8}-0.65, Centipede-{0.9}-0.65, Centipede-{1.0}-0.65, RedCentipede-0
-(Incandescent,Begonia)LINEAGE : HH_Extend : 4 : Green-{Mean:1.0}-0.65, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
-
-(Incandescent,Begonia)LINEAGE : HH_15 : 3 : Eel-{Ignorecycle}-0.4, AquaCenti-{Ignorecycle}-0
-
-(Incandescent,Begonia)LINEAGE : HH_19 : 2 : Centipede-{0.5}-0.65, Centipede-{0.6}-0.65, Centipede-{0.7}-0.65, Centipede-{0.8}-0.65, Centipede-{0.9}-0.65, Centipede-{1.0}-0.65, RedCentipede-{Voidsea}-0
-(Incandescent,Begonia)HH_19 : 3-FireBug-{Ignorecycle}-2
-(Incandescent,Begonia)HH_22 : 3-FireBug-{Ignorecycle}
-(Incandescent,Begonia)LINEAGE : HH_25 : 4 : Green-{Mean:1.0}-0.65, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
-
-(Incandescent,Begonia)LINEAGE : HH_Elevator : 3 : Centipede-{0.5}-0.65, Centipede-{0.6}-0.65, Centipede-{0.7}-0.65, Centipede-{0.8}-0.65, Centipede-{0.9}-0.65, Centipede-{1.0}-0.65, RedCentipede-0
-(Incandescent,Begonia)HH_Elevator : 3-Small Centipede-{Ignorecycle}-2
 (Incandescent,Begonia)HH_Statue : 4-DropWig-{Ignorecycle}-2
-
 (Incandescent,Begonia)HH_Cabinets : 4-DropWig-{Ignorecycle}-4
 (Incandescent,Begonia)HH_Deepinets : 3-DropWig-{Ignorecycle}-4
 
+(Incandescent,Begonia)LINEAGE : HH_03 : 3 : EggBug-{Ignorecycle}-0.4, FireBug-{Ignorecycle}-0
+(Incandescent,Begonia)LINEAGE : HH_23 : 3 : EggBug-{Ignorecycle}-0.4, FireBug-{Ignorecycle}-0
+
+(Incandescent,Begonia){#lb-fgf-m4r-ik.modpack}HH_05 : 5-BigNeedleWorm-{Ignorecycle}, 7-Polliwog-{Ignorecycle}, 9-Polliwog-{Ignorecycle}
+(Incandescent,Begonia){#!lb-fgf-m4r-ik.modpack}HH_05 : 5-BigNeedleWorm-{Ignorecycle}, 7-Salamander-{Ignorecycle}, 9-Salamander-{Ignorecycle}
+(Incandescent,Begonia){#lb-fgf-m4r-ik.modpack}HH_09 : 6-Polliwog-{Ignorecycle}, 9-Polliwog-{Ignorecycle}
+(Incandescent,Begonia){#!lb-fgf-m4r-ik.modpack}HH_09 : 6-Salamander-{Ignorecycle}, 9-Salamander-{Ignorecycle}
+(Incandescent,Begonia){#lb-fgf-m4r-ik.modpack}HH_H : 3-Polliwog-{Ignorecycle}
+(Incandescent,Begonia){#!lb-fgf-m4r-ik.modpack}HH_H : 3-Salamander-{Ignorecycle}
+
+(Incandescent,Begonia)LINEAGE : HH_15 : 3 : Eel-{Ignorecycle}-0.4, AquaCenti-{Ignorecycle}-0
+
+(Incandescent,Begonia)HH_19 : 3-FireBug-{Ignorecycle}-2
+(Incandescent,Begonia)HH_22 : 3-FireBug-{Ignorecycle}
+
+(Incandescent,Begonia)LINEAGE : HH_06 : 4 : Centipede-{0.5}-0.65, Centipede-{0.6}-0.65, Centipede-{0.7}-0.65, Centipede-{0.8}-0.65, Centipede-{0.9}-0.65, Centipede-{1.0}-0.65, RedCentipede-{Ignorecycle}-0
+(Incandescent,Begonia)LINEAGE : HH_Extend : 3 : Centipede-{0.5}-0.65, Centipede-{0.6}-0.65, Centipede-{0.7}-0.65, Centipede-{0.8}-0.65, Centipede-{0.9}-0.65, Centipede-{1.0}-0.65, RedCentipede-{Ignorecycle}-0
+(Incandescent,Begonia)LINEAGE : HH_19 : 2 : Centipede-{0.5}-0.65, Centipede-{0.6}-0.65, Centipede-{0.7}-0.65, Centipede-{0.8}-0.65, Centipede-{0.9}-0.65, Centipede-{1.0}-0.65, RedCentipede-{Voidsea}-0
+(Incandescent,Begonia)LINEAGE : HH_Elevator : 3 : Centipede-{0.5}-0.65, Centipede-{0.6}-0.65, Centipede-{0.7}-0.65, Centipede-{0.8}-0.65, Centipede-{0.9}-0.65, Centipede-{1.0}-0.65, RedCentipede-{Ignorecycle}-0
+
+(Incandescent,Begonia)HH_13 : 4-Small Centipede-{Ignorecycle}
+(Incandescent,Begonia)HH_Extend : 3-Small Centipede-2
+(Incandescent,Begonia)HH_Elevator : 3-Small Centipede-{Ignorecycle}-2
+
+(Incandescent,Begonia){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_26 : 4 : Green-{Mean:1.0}-0.65, silverlizard-0.5, WaterSpitter-0.5, SpitLizard-{Mean:1.0}-0.5, Red-{Mean:1.0}-0
+(Incandescent,Begonia){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_26 : 4 : Green-{Mean:1.0}-0.65, SpitLizard-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(Incandescent,Begonia){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 4 : Green-{Mean:1.0}-0.65, silverlizard-0.5, WaterSpitter-0.5, SpitLizard-{Mean:1.0}-0.5, Red-{Mean:1.0}-0
+(Incandescent,Begonia){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 4 : Green-{Mean:1.0}-0.65, SpitLizard-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(Incandescent,Begonia){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_25 : 4 : Green-{Mean:1.0}-0.65, silverlizard-0.5, WaterSpitter-0.5, SpitLizard-{Mean:1.0}-0.5, Red-{Mean:1.0}-0
+(Incandescent,Begonia){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_25 : 4 : Green-{Mean:1.0}-0.65, SpitLizard-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
 //Pitch Black
-(Beacon,Photomaniac)OFFSCREEN : 0-Deer-10, 0-Leviathan-{Ignorecycle}, 0-MirosBird-22, 0-MirosVulture
+(Beacon,Photomaniac)OFFSCREEN : 0-Deer-10, 0-Leviathan-{Ignorecycle}, 0-MiniLeviathan-{Ignorecycle}, 0-MirosBird-22, 0-MirosVulture
 
 (Beacon,Photomaniac)LINEAGE : HH_02 : 3 : BigSpider-{Ignorecycle}-0.4, MotherSpider-{Ignorecycle}-0.4, SpitterSpider-{Ignorecycle}-0
 (Beacon,Photomaniac)LINEAGE : HH_03 : 3 : EggBug-{Ignorecycle}-0.4, FireBug-{Ignorecycle}-0
-(Beacon,Photomaniac)HH_05 : 5-BigNeedleWorm, 7-Polliwog-{Ignorecycle}, 9-Polliwog-{PreCycle}
-(Beacon,Photomaniac)LINEAGE : HH_06 : 4 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
 (Beacon,Photomaniac)HH_07 : 3-TentaclePlant-{Ignorecycle}, 4-TentaclePlant-{Ignorecycle}, 5-TentaclePlant-{Ignorecycle}
-(Beacon,Photomaniac)LINEAGE : HH_08 : 3 : BigSpider-{Ignorecycle}-0.4, MotherSpider-{Ignorecycle}-0.4, SpitterSpider-{Ignorecycle}-0
-(Beacon,Photomaniac)HH_09 : 6-Polliwog-{Ignorecycle}, 9-Polliwog-{PreCycle}
-(Beacon,Photomaniac)LINEAGE : HH_10 : 3 : BigSpider-{Ignorecycle}-0.4, MotherSpider-{Ignorecycle}-0.4, SpitterSpider-{Ignorecycle}-0
-(Beacon,Photomaniac)HH_13 : 3-Small Centipede-{AlternateForm}
-(Beacon,Photomaniac)LINEAGE : HH_13 : 2 : BigSpider-{Ignorecycle}-0.4, MotherSpider-{Ignorecycle}-0.4, SpitterSpider-{Ignorecycle}-0
+(Beacon,Photomaniac)HH_13 : 4-Small Centipede-{AlternateForm}
 (Beacon,Photomaniac)LINEAGE : HH_23 : 3 : EggBug-{Ignorecycle}-0.4, FireBug-{Ignorecycle}-0
-(Beacon,Photomaniac)LINEAGE : HH_26 : 4 : Green-{Mean:1.0}-0.65, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
-
-(Beacon,Photomaniac)LINEAGE : HH_U : 6 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
-(Beacon,Photomaniac)LINEAGE : HH_U : 6 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
-(Beacon,Photomaniac)HH_H : 3-Polliwog-{Ignorecycle}
 (Beacon,Photomaniac)HH_Extend : 3-Small Centipede-2
-(Beacon,Photomaniac)LINEAGE : HH_Extend : 3 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
-(Beacon,Photomaniac)LINEAGE : HH_Extend : 4 : Green-{Mean:1.0}-0.65, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
-
 (Beacon,Photomaniac)LINEAGE : HH_15 : 3 : Eel-{Ignorecycle}-0.4, AquaCenti-{Ignorecycle}-0
-
-(Beacon,Photomaniac)LINEAGE : HH_19 : 2 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-{Voidsea}-0
-(Beacon,Photomaniac)LINEAGE : HH_25 : 4 : Green-{Mean:1.0}-0.65, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
-
-(Beacon,Photomaniac)LINEAGE : HH_Elevator : 3 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
 (Beacon,Photomaniac)HH_Elevator : 3-Small Centipede-{AlternateForm}-2, 3-Small Centipede
 (Beacon,Photomaniac)HH_Statue : 4-DropWig-{Ignorecycle}-2
 
+(Beacon,Photomaniac){#lb-fgf-m4r-ik.modpack}HH_05 : 5-BigNeedleWorm, 7-Polliwog-{Ignorecycle}, 9-Polliwog-{PreCycle}
+(Beacon,Photomaniac){#!lb-fgf-m4r-ik.modpack}HH_05 : 5-BigNeedleWorm, 7-Salamander-{Ignorecycle}, 9-Salamander-{PreCycle}
+(Beacon,Photomaniac){#lb-fgf-m4r-ik.modpack}HH_09 : 6-Polliwog-{Ignorecycle}, 9-Polliwog-{PreCycle}
+(Beacon,Photomaniac){#!lb-fgf-m4r-ik.modpack}HH_09 : 6-Salamander-{Ignorecycle}, 9-Salamander-{PreCycle}
+(Beacon,Photomaniac){#lb-fgf-m4r-ik.modpack}HH_H : 3-Polliwog-{Ignorecycle}
+(Beacon,Photomaniac){#!lb-fgf-m4r-ik.modpack}HH_H : 3-Salamander-{Ignorecycle}
+
+(Beacon,Photomaniac){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 3 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(Beacon,Photomaniac){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 3 : Centiwing-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(Beacon,Photomaniac){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_06 : 4 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(Beacon,Photomaniac){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_06 : 4 : Centiwing-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(Beacon,Photomaniac){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_19 : 2 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-{Voidsea}-0
+(Beacon,Photomaniac){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_19 : 2 : Centiwing-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-{Voidsea}-0
+(Beacon,Photomaniac){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_Elevator : 3 : Scutigera-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+(Beacon,Photomaniac){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_Elevator : 3 : Centiwing-0.4, Centipede-{0.8}-0.4, Centipede-{0.9}-0.4, Centipede-{1.0}-0.4, RedCentipede-0
+
+(Beacon,Photomaniac)LINEAGE : HH_08 : 3 : BigSpider-{Ignorecycle}-0.4, MotherSpider-{Ignorecycle}-0.4, SpitterSpider-{Ignorecycle}-0
+(Beacon,Photomaniac)LINEAGE : HH_10 : 3 : BigSpider-{Ignorecycle}-0.4, MotherSpider-{Ignorecycle}-0.4, SpitterSpider-{Ignorecycle}-0
+(Beacon,Photomaniac)LINEAGE : HH_13 : 3 : BigSpider-{Ignorecycle}-0.4, MotherSpider-{Ignorecycle}-0.4, SpitterSpider-{Ignorecycle}-0
+(Beacon,Photomaniac)LINEAGE : HH_U : 6 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
+(Beacon,Photomaniac)LINEAGE : HH_U : 6 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
+
+(Beacon,Photomaniac){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 4 : Green-{Mean:1.0}-0.65, silverlizard-0.5, WaterSpitter-0.5, SpitLizard-{Mean:1.0}-0.5, Red-{Mean:1.0}-0
+(Beacon,Photomaniac){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 4 : Green-{Mean:1.0}-0.65, SpitLizard-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(Beacon,Photomaniac){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_26 : 4 : Green-{Mean:1.0}-0.65, silverlizard-0.5, WaterSpitter-0.5, SpitLizard-{Mean:1.0}-0.5, Red-{Mean:1.0}-0
+(Beacon,Photomaniac){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_26 : 4 : Green-{Mean:1.0}-0.65, SpitLizard-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+(Beacon,Photomaniac){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_25 : 4 : Green-{Mean:1.0}-0.65, silverlizard-0.5, WaterSpitter-0.5, SpitLizard-{Mean:1.0}-0.5, Red-{Mean:1.0}-0
+(Beacon,Photomaniac){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_25 : 4 : Green-{Mean:1.0}-0.65, SpitLizard-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
+
 //Inv
-(Inv)OFFSCREEN : 0-Deer-{Ignorecycle}-14, 0-Leviathan-{Ignorecycle}-2, 0-Overseer-400, 0-Scavenger-20, 0-ScavengerElite-100, 0-MirosBird-30, 0-MirosVulture-2
+(Inv)OFFSCREEN : 0-Deer-{Ignorecycle}-14, 0-Leviathan-{Ignorecycle}, 0-MiniLeviathan-{Ignorecycle}-6, 0-Overseer-400, 0-Scavenger-20, 0-ScavengerElite-100, 0-MirosBird-30, 0-MirosVulture-2
 
 (Inv,NCREntropy)HH_01 : 2-TerrorLongLegs-{Ignorecycle}
-(Inv,NCREntropy)HH_02 : 3-Seeker-{Mean:1.0}
+(Inv,NCREntropy){#lb-fgf-m4r-ik.modpack}HH_02 : 3-Seeker-{Mean:1.0}
+(Inv,NCREntropy){#!lb-fgf-m4r-ik.modpack}HH_02 : 3-Cyan-{Mean:1.0}
 (Inv,NCREntropy)HH_03 : 3-FireBug
 (Inv,NCREntropy)HH_05 : 5-BigNeedleWorm, 7-Eel-{Ignorecycle}, 9-Eel-{PreCycle}
-(Inv,NCREntropy)LINEAGE : HH_06 : 4 : Scutigera-1, Centipede-{1.0}-1, RedCentipede-0
+(Inv,NCREntropy){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_06 : 4 : Scutigera-1, Centipede-{1.0}-1, RedCentipede-0
+(Inv,NCREntropy){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_06 : 4 : Centiwing-1, Centipede-{1.0}-1, RedCentipede-0
 (Inv,NCREntropy)HH_07 : 3-TentaclePlant-{Ignorecycle}, 4-TentaclePlant-{Ignorecycle}, 5-TentaclePlant-{Ignorecycle}
 (Inv,NCREntropy)HH_08 : 3-SpitterSpider
 (Inv,NCREntropy)HH_09 : 6-Eel-{Ignorecycle}, 9-Eel-{PreCycle}
-(Inv,NCREntropy)HH_13 : 3-Small Centipede-2
-(Inv,NCREntropy)HH_13 : 2-SpitterSpider
+(Inv,NCREntropy)HH_13 : 4-Small Centipede-2
+(Inv,NCREntropy)HH_13 : 3-SpitterSpider
 (Inv,NCREntropy)HH_23 : 3-FireBug
 (Inv,NCREntropy)HH_23 : 4-SpitterSpider
-(Inv,NCREntropy)LINEAGE : HH_26 : 4 : WaterSpitter-{Mean:1.0}-1, SpitLizard-{Mean:1.0}-1, Red-{Mean:1.0}-1, TrainLizard-{Mean:1.0}-0
+(Inv,NCREntropy){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_26 : 4 : silverlizard-{Mean:1.0}-1, WaterSpitter-{Mean:1.0}-1, SpitLizard-{Mean:1.0}-1, Red-{Mean:1.0}-1, TrainLizard-{Mean:1.0}-0
+(Inv,NCREntropy){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_26 : 4 : SpitLizard-{Mean:1.0}-1, SpitLizard-{Mean:1.0}-1, Red-{Mean:1.0}-1, TrainLizard-{Mean:1.0}-0
 
-(Inv,NCREntropy)HH_U : 6-Seeker-{Mean:1.0}
-(Inv,NCREntropy)HH_H : 3-Polliwog-{Ignorecycle}
+(Inv,NCREntropy){#lb-fgf-m4r-ik.modpack}HH_U : 6-Seeker-{Mean:1.0}
+(Inv,NCREntropy){#!lb-fgf-m4r-ik.modpack}HH_U : 6-Cyan-{Mean:1.0}
+(Inv,NCREntropy){#lb-fgf-m4r-ik.modpack}HH_H : 3-Polliwog-{Ignorecycle}
+(Inv,NCREntropy){#!lb-fgf-m4r-ik.modpack}HH_H : 3-Salamander-{Ignorecycle}
+
 (Inv,NCREntropy)HH_Extend : 3-Small Centipede, 3-Small Centipede-{AlternateForm}
 (Inv,NCREntropy)LINEAGE : HH_Extend : 3 : Centipede-{0.6}-1, Centipede-{0.8}-1, Centipede-{1.0}-1, RedCentipede-0
-(Inv,NCREntropy)LINEAGE : HH_Extend : 4 : Green-{Mean:1.0}-0.65, WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.4, Red-{Mean:1.0}-0
 
-(Inv,NCREntropy)LINEAGE : HH_19 : 2 : Scutigera-1, Centipede-{1.0}-1, RedCentipede-{Voidsea}-0
+(Inv,NCREntropy){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 4 : Green-{Mean:1.0}-1, silverlizard-{Mean:1.0}-1, WaterSpitter-{Mean:1.0}-1, SpitLizard-{Mean:1.0}-1, Red-{Mean:1.0}-0
+(Inv,NCREntropy){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_Extend : 4 : Green-{Mean:1.0}-1, SpitLizard-{Mean:1.0}-0.4, SpitLizard-{Mean:1.0}-1, Red-{Mean:1.0}-0
+
+(Inv,NCREntropy){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_19 : 2 : Scutigera-1, Centipede-{1.0}-1, RedCentipede-{Voidsea}-0
+(Inv,NCREntropy){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_19 : 2 : Centiwing-1, Centipede-{1.0}-1, RedCentipede-{Voidsea}-0
 (Inv,NCREntropy)HH_19 : 3-FireBug-2
 (Inv,NCREntropy)HH_22 : 3-FireBug
-(Inv,NCREntropy)LINEAGE : HH_25 : 4 : WaterSpitter-{Mean:1.0}-1, SpitLizard-{Mean:1.0}-1, Red-{Mean:1.0}-1, TrainLizard-{Mean:1.0}-0
+(Inv,NCREntropy){#lb-fgf-m4r-ik.modpack}LINEAGE : HH_25 : 4 : silverlizard-{Mean:1.0}-1, WaterSpitter-{Mean:1.0}-1, SpitLizard-{Mean:1.0}-1, Red-{Mean:1.0}-1, TrainLizard-{Mean:1.0}-0
+(Inv,NCREntropy){#!lb-fgf-m4r-ik.modpack}LINEAGE : HH_25 : 4 : SpitLizard-{Mean:1.0}-1, SpitLizard-{Mean:1.0}-1, Red-{Mean:1.0}-1, TrainLizard-{Mean:1.0}-0
 
 (Inv,NCREntropy)HH_15 : 3-AquaCenti-{Ignorecycle}
 
-(Inv,NCREntropy)HH_Cabinets : 4-Seeker-{Mean:1.0}
-(Inv,NCREntropy)HH_Deepinets : 3-Seeker-{Mean:1.0}
+(Inv,NCREntropy){#lb-fgf-m4r-ik.modpack}HH_Cabinets : 4-Seeker-{Mean:1.0}
+(Inv,NCREntropy){#!lb-fgf-m4r-ik.modpack}HH_Cabinets : 4-Cyan-{Mean:1.0}
+(Inv,NCREntropy){#lb-fgf-m4r-ik.modpack}HH_Deepinets : 3-Seeker-{Mean:1.0}
+(Inv,NCREntropy){#!lb-fgf-m4r-ik.modpack}HH_Deepinets : 3-Cyan-{Mean:1.0}
 
 (Inv,NCREntropy)LINEAGE : HH_Elevator : 3 : Centipede-{0.4}-1, Centipede-{0.5}-1, Centipede-{0.6}-1, Centipede-{0.7}-1, Centipede-{0.8}-1, Centipede-{0.9}-1, Centipede-{1.0}-1, RedCentipede-0
 (Inv,NCREntropy)HH_Elevator : 3-Small Centipede-3
 (Inv,NCREntropy)HH_Statue : 4-DropWig-{Ignorecycle}-2
 
 //Entropy
-(NCREntropy)OFFSCREEN : 0-Deer-{Ignorecycle}-14, 0-Leviathan-{Ignorecycle}-2, 0-Scavenger-10, 0-ScavengerElite-15, 0-MirosBird-30, 0-MirosVulture-2
+(NCREntropy)OFFSCREEN : 0-Deer-{Ignorecycle}-14, 0-Leviathan-{Ignorecycle}, 0-MiniLeviathan-{Ignorecycle}-6, 0-Scavenger-10, 0-ScavengerElite-15, 0-MirosBird-30, 0-MirosVulture-2
 (NCREntropy)HH_03 : 3-BigNeedleWorm
 END CREATURES
-
 BAT MIGRATION BLOCKAGES
 HH_04
 HH_10

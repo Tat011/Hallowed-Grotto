@@ -1,0 +1,5 @@
+Template: MS_SettingsTemplate_Vents
+RumbleIntensity: 0.15
+Effects: ElectricDeath-0.2-283-17, Darkness-0-26-18, 
+PlacedObjects: BubbleGrass><998.667><128.1645><0~0~4~9, BubbleGrass><753.5157><128.1915><0~0~4~9,
+FadePalette: 125, 0.33, 0.15

@@ -15,3 +15,4 @@
 [ADD]SM_SIU : SMSIU
 [ADD]Machine_Log : MachineLog
 [ADD]Lights_Eclipse_Log : LightsEclipseLog
+[ADD]Pebbles_SIU_Log_3 : PebblesSIULog3

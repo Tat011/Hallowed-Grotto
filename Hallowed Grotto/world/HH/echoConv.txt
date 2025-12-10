@@ -103,7 +103,7 @@
 
 (Speedrunner)I see you're in a hurry.
 (Speedrunner)Are you sure this is the optimal path?
-(Speedrunner)Hang on,<LINE>let me get my map
+(Speedrunner)Hang on,<LINE>let me get my map.
 (Speedrunner)...
 (Speedrunner)Wait, are you trying to avoid going through filtration system?
 (Speedrunner)Did you install a region mod just to avoid it?
@@ -128,9 +128,7 @@
 (MMWingcat,Outsider)Such is the nature of exploration and discovery.
 (MMWingcat,Outsider)We only reach new places by pushing the boundaries of what is possible, one step at a time.
 
-(NCREntropy)You come into MY house and tell me how to arrange MY furniture?
-(NCREntropy)What a fool you are.
-(NCREntropy)SKELETON DIVINE DEATH BLAST!
+(NCREntropy)KARMA courses through your veins.
 
 (guide,darkness,CowBoySLug,slugSpiderDartSleep,PorcupineCat,Estranged,LancerMonk,MaulCat)The people who built this place, they were like us.
 (guide,darkness,CowBoySLug,slugSpiderDartSleep,PorcupineCat,Estranged,LancerMonk,MaulCat)They had their own hopes and dreams, as well as anxieties and fears.

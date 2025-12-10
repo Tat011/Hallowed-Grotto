@@ -2,6 +2,6 @@ Template: HH_SettingsTemplate_Spear
 RandomItemDensity: 1
 RandomItemSpearChance: 1
 Effects: Advertisements-1-276-76,
-PlacedObjects: WhiteToken><1121.719><561.3024><49~45~82~11~0~DPBad~~0~1~0~0~0~1~0~0, ExitSymbolHidden><3227.688><326.3197><,
+PlacedObjects: WhiteToken><1121.719><561.3024><49~45~82~11~0~DPBad~~0~1~0~0~0~1~0~0, ExitSymbolHidden><3227.688><326.3197><, Mushroom><2661.874><600.1555><0~0~2~3, Mushroom><2610.027><613.8019><0~0~2~3, Mushroom><2547.889><633.8334><0~0~2~3,
 AmbientSounds: OMNI><AM_ENV-WindGrass.ogg><20><20><0.7><1,
 FadePalette: 2, 0.1, 0.1, 0.1

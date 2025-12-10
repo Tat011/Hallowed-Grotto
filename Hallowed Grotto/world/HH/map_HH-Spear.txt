@@ -1,0 +1,172 @@
+HH_S01: -135><327><-148><158><0><
+HH_S02: -1320><-82.5><-906><-88><0><
+HH_S03: -276><-336><-272><-284><0><
+HH_S04: 498><-165><400><-130><1><
+GATE_HH_GW: 777><462><410><184><0><
+GATE_DS_HH: -348><669><-154><330><0><
+GATE_HH_SL: 630><-345><354><-262><1><
+GATE_SB_HH: -1653><18><-1118><-14><0><
+GATE_HH_SB: -936><-732><-638><-544><0><
+GATE_4B_HH: 552><108><0><-70><2><
+HH_4B: 417><93><0><-68><2><
+GATE_HH_MS: 1842><109.5><0><-70><0><
+HH_01: 489><273><326><140><0><
+HH_02: 360><201><228><96><0><Hallowed Grotto
+HH_03: 543><69><340><0><0><Hallowed Grotto
+HH_04: 504><-21><310><-68><2><Hallowed Grotto
+HH_05: 183><-294><-6><-240><1><Hallowed Grotto
+HH_06: 234><144><86><44><0><Hallowed Grotto
+HH_07: 43.5><241.5><-14><96><0><Hallowed Grotto
+HH_08: 0><339><-50><168><0><Hallowed Grotto
+HH_09: 45><-96><-100><-138><0><Hallowed Grotto
+HH_10: -237><-153><-230><-100><1><
+HH_11: -9><126><-54><4><1><Hallowed Grotto
+HH_12: -297><549><-124><246><0><
+HH_13: 666><129><448><44><0><Hallowed Grotto
+HH_14: -435><-198><-332><-172><1><
+HH_15: 108><-429><-76><-320><1><Anchialine System
+HH_16: -822><-48><-572><-58><0><Hallowed Grotto
+HH_17: 339><-573><246><-420><0><Hallowed Depths
+HH_18: -57><-549><-58><-420><0><Hallowed Depths
+HH_19: -453><-540><-302><-416><0><Hallowed Depths
+HH_20: 357><-342><258><-228><0><Anchialine System
+HH_21: -207><-309><-176><-274><0><Anchialine System
+HH_22: -648><-555><-452><-424><0><Hallowed Depths
+HH_23: -978><-138><-642><-130><0><Hallowed Grotto
+HH_24: -531><-360><-384><-268><1><Anchialine System
+HH_25: -840><-597><-560><-490><0><Hallowed Depths
+HH_26: -1104><54><-810><-34><0><Hallowed Grotto
+HH_27: -678><-747><-450><-526><0><Hallowed Depths
+HH_28: -684><-981><-450><-684><0><Hallowed Depths
+HH_29: 447><-369><214><-276><1><Anchialine System
+HH_30: -1425><-6><-1016><-26><0><
+HH_31: -678><-864><-474><-610><0><Hallowed Depths
+HH_U: 438><99><210><-14><1><Hallowed Grotto
+HH_H: -480><-24><-462><-50><0><Hallowed Grotto
+HH_C: -654><-42><-562><-34><1><Hallowed Grotto
+HH_Extend: -750><-276><-628><-212><0><Hallowed Grotto
+HH_Cables: 192><33><114><-20><1><Hallowed Grotto
+HH_Shelter: 456><-132><280><-156><0><Hallowed Grotto
+HH_Chute: 393><-456><252><-308><0><Anchialine System
+HH_Puddle: -393><-453><-328><-360><0><Anchialine System
+HH_AAAA: -684><-441><-490><-336><0><Anchialine System
+HH_WATER: -21><-357><-40><-292><0><Anchialine System
+HH_Lake: 994.5><85.5><0><-86><0><Hallowed Grotto
+HH_MS: 1506><69><0><-74><0><
+HH_DS: -165><444><0><-82><0><
+HH_GW: 615><369><0><-82><0><
+HH_AB: -243><-51><-182><-156><2><Anchialine System
+GATE_AB_HH: -360><195><-202><108><2><
+HH_Acid: -570><99><-410><24><1><Hallowed Grotto
+HH_UF: -351><153><-322><54><1><Hallowed Grotto
+GATE_HH_UF: -111><234><-116><94><1><
+HH_SC: 297><345><104><162><0><
+GATE_HH_SC: 453><423><224><260><0><
+HH_Connection: 81><105><-2><-16><0><
+HH_CoConnection: -870><102><-606><34><0><
+HH_Lab: -165><114><-188><44><0><Lost Facility
+HH_Statue: -402><108><-302><34><0><Lost Facility
+HH_CoLab: -645><129><-508><42><0><Lost Facility
+HH_Elevator: -402><-135><-304><-198><2><Lost Facility
+HH_SIU: -402><270><-302><116><0><Sealed Intelligence Unit
+HH_Entrance: 948><-108><592><-144><1><Hallowed Grotto
+HH_Between: 867><-204><570><-158><2><
+HH_Cabinets: 303><-279><-66><-218><2><Unstable System
+HH_Deepinets: 159><-540><-76><-400><2><Unstable System
+HH_L: 318><-639><134><-502><1><Unstable System
+HH_Four: -249><-423><-196><-392><2><
+HH_Machine: 90><-712.5><6><-516><2><Unstable System
+OffScreenDen_HH: -687><-132><-232><-92><0><
+Connection: HH_S01,HH_08,39,16,15,11,0,2
+Connection: HH_S02,HH_30,24,31,85,14,1,3
+Connection: HH_S03,HH_21,30,17,14,16,0,2
+Connection: HH_S04,HH_Shelter,20,19,31,27,2,0
+Connection: GATE_HH_GW,HH_GW,2,9,59,36,2,0
+Connection: GATE_DS_HH,HH_12,36,5,31,31,3,2
+Connection: GATE_HH_SL,HH_29,4,12,80,25,2,0
+Connection: GATE_SB_HH,HH_30,45,9,4,17,0,2
+Connection: GATE_HH_SB,HH_25,47,22,16,3,0,3
+Connection: GATE_4B_HH,HH_4B,2,12,44,17,2,0
+Connection: HH_4B,HH_U,7,14,36,29,2,1
+Connection: GATE_HH_MS,HH_MS,1,8,160,24,2,0
+Connection: HH_01,HH_GW,37,29,14,4,0,3
+Connection: HH_01,HH_02,12,5,49,27,2,0
+Connection: HH_02,HH_06,4,18,43,46,2,0
+Connection: HH_02,HH_U,45,10,60,65,0,2
+Connection: HH_03,HH_13,43,25,2,4,0,2
+Connection: HH_03,HH_09,5,24,173,68,2,0
+Connection: HH_03,HH_04,34,7,46,32,3,1
+Connection: HH_04,HH_05,5,12,150,96,2,0
+Connection: HH_05,HH_Cables,98,109,40,2,1,3
+Connection: HH_05,HH_10,5,89,89,24,2,0
+Connection: HH_05,HH_21,58,29,40,47,2,0
+Connection: HH_05,HH_20,109,22,4,27,0,2
+Connection: HH_06,HH_SC,23,52,11,7,1,2
+Connection: HH_06,HH_07,8,46,47,19,2,0
+Connection: HH_06,HH_Cables,23,6,44,38,3,1
+Connection: HH_07,HH_08,6,30,26,1,1,3
+Connection: HH_07,HH_11,6,5,26,48,3,1
+Connection: HH_08,HH_DS,3,32,57,4,2,3
+Connection: HH_09,HH_11,72,90,26,1,1,3
+Connection: HH_09,HH_H,1,68,162,20,2,0
+Connection: HH_09,HH_10,37,49,85,38,3,1
+Connection: HH_09,HH_WATER,66,5,35,76,3,1
+Connection: HH_09,HH_15,93,4,63,35,3,1
+Connection: HH_10,HH_14,1,25,47,61,2,0
+Connection: HH_12,HH_DS,37,3,10,38,0,1
+Connection: HH_13,HH_U,3,32,111,61,2,0
+Connection: HH_13,HH_Lake,42,8,12,17,0,2
+Connection: HH_14,HH_C,2,79,110,10,2,0
+Connection: HH_14,HH_24,5,11,38,33,3,1
+Connection: HH_15,HH_29,156,33,16,12,0,2
+Connection: HH_15,HH_21,1,20,39,8,2,0
+Connection: HH_16,HH_H,51,23,12,19,0,2
+Connection: HH_16,HH_26,2,22,112,11,2,0
+Connection: HH_16,HH_23,18,1,45,36,3,0
+Connection: HH_17,HH_Chute,42,33,34,2,1,3
+Connection: HH_17,HH_18,3,13,47,13,2,0
+Connection: HH_18,HH_WATER,37,12,34,1,1,3
+Connection: HH_18,HH_19,4,12,55,10,2,0
+Connection: HH_19,HH_22,4,11,65,15,2,0
+Connection: HH_20,HH_Chute,33,4,34,39,3,1
+Connection: HH_21,HH_AB,21,52,58,4,0,3
+Connection: HH_21,HH_24,7,30,48,20,2,0
+Connection: HH_21,HH_Puddle,21,1,54,37,3,1
+Connection: HH_22,HH_Puddle,59,24,13,4,1,3
+Connection: HH_22,HH_25,2,15,48,48,2,0
+Connection: HH_23,HH_26,3,37,83,3,1,3
+Connection: HH_23,HH_Extend,26,5,12,39,3,1
+Connection: HH_24,HH_Extend,11,31,148,11,1,3
+Connection: HH_24,HH_AAAA,3,5,58,34,2,0
+Connection: HH_25,HH_AAAA,44,72,11,5,0,2
+Connection: HH_25,HH_27,47,11,1,30,0,2
+Connection: HH_26,HH_CoConnection,109,52,10,18,0,2
+Connection: HH_26,HH_30,6,17,95,16,2,0
+Connection: HH_27,HH_31,18,9,29,38,0,0
+Connection: HH_28,HH_31,20,32,29,3,0,0
+Connection: HH_U,HH_Cables,10,9,53,13,2,0
+Connection: HH_U,HH_Shelter,67,3,35,75,3,1
+Connection: HH_U,HH_Entrance,91,12,14,74,0,1
+Connection: HH_H,HH_Acid,40,35,14,3,1,3
+Connection: HH_Extend,HH_Elevator,161,16,14,3,0,2
+Connection: HH_Cables,HH_Connection,2,13,59,16,2,0
+Connection: HH_Shelter,HH_Cabinets,37,3,214,40,3,1
+Connection: HH_Puddle,HH_Four,60,17,10,9,0,2
+Connection: HH_Lake,HH_MS,161,14,9,16,0,2
+Connection: HH_AB,GATE_AB_HH,10,116,39,1,1,3
+Connection: HH_Acid,HH_UF,52,8,14,9,1,3
+Connection: HH_UF,GATE_HH_UF,107,18,10,5,1,3
+Connection: HH_SC,GATE_HH_SC,60,53,4,9,0,2
+Connection: HH_Connection,HH_Lab,10,16,110,13,2,0
+Connection: HH_CoConnection,HH_CoLab,59,21,10,12,0,2
+Connection: HH_Lab,HH_Statue,7,17,59,19,2,0
+Connection: HH_Statue,HH_SIU,39,35,39,2,1,3
+Connection: HH_Statue,HH_CoLab,9,12,110,5,2,0
+Connection: HH_Statue,HH_Elevator,55,3,55,112,0,0
+Connection: HH_Elevator,HH_Four,55,8,10,105,0,2
+Connection: HH_Entrance,HH_Between,60,9,59,14,2,0
+Connection: HH_Between,HH_Cabinets,10,13,321,35,2,0
+Connection: HH_Cabinets,HH_Four,10,18,59,104,2,0
+Connection: HH_Deepinets,HH_L,212,26,112,72,0,0
+Connection: HH_Deepinets,HH_Four,9,12,59,8,2,0
+Connection: HH_L,HH_Machine,11,12,59,18,3,0

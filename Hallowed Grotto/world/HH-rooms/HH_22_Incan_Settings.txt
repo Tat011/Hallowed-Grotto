@@ -1,6 +1,6 @@
-EffectColorA: 9
+EffectColorA: 7
 EffectColorB: 7
 Effects: TinyDragonFly-0.01-267-123, RedSwarmer-0.01-267-9, Darkness-0-264-179, VoidSpawn-1-20-20, VoidMelt-0.4-253.4286-70.22857,
-PlacedObjects: KarmaFlower><708.6185><399.9111><-423~-335~2~14, 
+PlacedObjects: KarmaFlower><708.6185><399.9111><-423~-335~2~14, LimeMushroom><172.4179><396.3586><-143~59~1~12, LimeMushroom><213.2184><401.4475><0~0~1~12, DepthsFruit><831.8191><489.9538><100~54~1~12, DepthsFruit><657.4082><485.101><-230~-233.9965~1~12, DepthsFruit><751.8238><496.9053><-95~85~1~12, DepthsFruit><548.3569><472.1398><-162~-108~1~12,
 Triggers: RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>NA_39 - Cracked Earth<eA>vol<eB>0.4<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>6<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>1<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>1<tA>multiUse<tB>1<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>74.38602<tB>395.8904<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>,
 FadePalette: 8, 0.5

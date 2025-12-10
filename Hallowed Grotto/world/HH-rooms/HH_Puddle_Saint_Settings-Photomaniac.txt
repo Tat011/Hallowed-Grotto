@@ -1,3 +1,3 @@
 Effects: Darkness-0-296-84, Starfishies-0.35-19-97, TinyDragonFly-0.4-267-123, RedSwarmer-0.4-267-9,
 AmbientSounds: OMNI><AM_ENV-WindGrass.ogg><20><20><0.25><1, OMNI><AM_ENV-NatWind.ogg><20><20><0.25><0.65, OMNI><AM_RAIN-Rumbles.ogg><20><20><0.25><0.85, OMNI><AM_RAIN-RollingThunder.ogg><20><20><0.25><1,
-PlacedObjects: ExitSymbolHidden><1208.458><344.8185><,
+PlacedObjects: ExitSymbolHidden><1208.458><344.8185><, LillyPuck><556.1393><320.8935><-15~44~1~12, LillyPuck><502.1851><319.6741><-25~138~1~12,
