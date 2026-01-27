@@ -5,6 +5,7 @@ size : 0.85
 (Inv)size : 0.1
 (NCREntropy)size : 4
 minkarma : 0
+(Watcher)minkarma : 99
 radius : 2
 echosong : NA_07 - Phasing
 (Beacon,Photomaniac)echosong : SB

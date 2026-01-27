@@ -97,9 +97,10 @@
 (thedronemaster)Cease your violence.
 (thedronemaster)This system doesn't react well when its balance is disrupted.
 
-(Vinki)I BETTER NOT SEE YOU GRAFFITI THESE RUINS
-(Vinki)THESE ARE PRICELESS ARTIFACTS
+(Vinki)I BETTER NOT SEE YOU GRAFFITI THESE RUINS!
+(Vinki)THESE ARE PRICELESS ARTIFACTS!
 (Vinki)YOU HEAR ME?
+(Vinki)I WILL KICK YOUR ASS!
 
 (Speedrunner)I see you're in a hurry.
 (Speedrunner)Are you sure this is the optimal path?

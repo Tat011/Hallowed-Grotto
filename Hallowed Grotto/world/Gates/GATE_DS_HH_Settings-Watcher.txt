@@ -1,0 +1,16 @@
+Template: NONE
+DangerType: Flood
+CeilingDrips: 0.6
+RainIntensity: 0
+RumbleIntensity: 0.7
+Clouds: 1
+Grime: 0
+RandomItemDensity: 0.3
+RandomItemSpearChance: 0.4
+Palette: 4
+EffectColorA: 9
+EffectColorB: 8
+Effects: RockFlea-1-20-20, GrassHopper-1-20-40, Beetle-1-100-20, 
+PlacedObjects: Mushroom><866.136><187.6466><-38~334~5~15, Mushroom><844.8203><179.3381><-16~432~5~15, Mushroom><106.805><193.9554><-199~-175~5~15, InsectGroup><787.6241><243.8445><0~140~0~0~TinyDragonFly~0.25, Corruption><122.6678><208.6412><-3~103, Corruption><956.0642><440.8239><36~54, Corruption><776.325><352.1854><9~104, Corruption><387.0708><468.1871><76~23, Corruption><571.87><461.91><75~3, CorruptionTube><78.67188><211.6477><185~144, CorruptionTube><362.9288><448.4105><82~-41, CorruptionTube><521.6497><407.1174><101~10, CorruptionTube><965.1437><441.8609><55~-45, 
+FadePalette: 125, 0.25
+WetTerrain: OFF

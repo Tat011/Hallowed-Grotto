@@ -2,5 +2,5 @@ Template: HH_SettingsTemplate_Survivor
 RandomItemDensity: 1
 RandomItemSpearChance: 1
 Effects: Advertisements-1-276-76,
-PlacedObjects: WhiteToken><251.9099><422.9285><-42~-18~0~0~0~PebblesSIULog3~~0~1~0~0,
+PlacedObjects: WhiteToken><251.9099><422.9285><-42~-18~0~0~0~PebblesSIULog3~~0~1~0~0, KarmaFlower><578.0403><306.9001><-271.777~365.5111~2~9, BubbleGrass><343.8293><327.0367><-283.1604~-105.2444~2~8, BubbleGrass><405.1748><355.9586><-283.8719~-216.1778~2~8, KarmaFlowerPatch><563.2691><298.7147><5.691711~92.1778~0.5~-175.0187~-94.57779~0.25~0.5,
 FadePalette: 1, 1, 0.5

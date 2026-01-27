@@ -11,6 +11,6 @@ Palette: 125
 EffectColorA: 14
 EffectColorB: 7
 Effects: Darkness-0.34-277-289, DirtyWater-1-286-159, LethalWater-1-1102-637, WaterViscosity-1-279-102, RockFlea-1-20-20, GrassHopper-0.7-20-40, Beetle-0.6-100-20, 
-PlacedObjects: SteamPipe><401.1418><153.891><0~100, SteamPipe><642.9562><153.0549><0~100, SteamPipe><581.626><152.4054><0~89, SteamPipe><462.1921><151.5586><0~84, SteamPipe><610.3273><152.0655><0~76, SteamPipe><429.3527><150.1353><1~74, 
+PlacedObjects: SteamPipe><357.1418><91.89101><0~100, SteamPipe><601.9562><91.0549><0~100, SteamPipe><538.626><91.4054><0~89, SteamPipe><427.1921><88.55859><0~84, SteamPipe><569.3273><90.06552><0~76, SteamPipe><391.3527><91.1353><1~74,
 FadePalette: 11, 0.8
 WetTerrain: ON

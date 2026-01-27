@@ -1,5 +1,8 @@
+globalCreatureFlags: Voidsea
 Palette: 370
 pupSpawnChance: 0
+rippleSpiderThreshold: 10
+
 earlyCycleChance: 0.4
 earlyCycleFloodChance: 1
 
@@ -15,14 +18,32 @@ hideVoidSpawn: false
 
 albinos: false
 blackSalamanderChance: 1
-kelpColor: 0,0,0.41
-batGlowColor: 0,0,0.41
-dragonflyColor: 0,0,0.41
-inspectorColor: 0,0,0.0.41
+kelpColor: 0,0,0.4
+batGlowColor: 0,0,0.4
+dragonflyColor: 0,0,0.4
+boxWormColor: 0,0,0.4
+inspectorColor: 0,0,0.4
+wormGrassLight: true
+
+{#moreslugcats,#watcher}scavGearItems: ExplosiveSpear-0.1,ElectricSpear-0.1,HellSpear-0.1,PoisonSpear-0.1,Boomerang-0.15,ScavengerBomb-0.15,Lantern-0.1,GlowWeed-0.1,LillyPuck-0.2,FireEgg-0.1,WaterNut-0.2,FirecrackerPlant-0.05,BubbleGrass-0.1,PuffBall-0.05,Hazer-0.2,VultureMask-0.025,KarmaFlower-0.1,Mushroom-0.2,DataPearl-1
+{#moreslugcats,#!watcher}scavGearItems: ExplosiveSpear-0.1,ElectricSpear-0.15,HellSpear-0.1,ScavengerBomb-0.15,Lantern-0.1,GlowWeed-0.1,LillyPuck-0.2,FireEgg-0.1,WaterNut-0.2,FirecrackerPlant-0.05,BubbleGrass-0.1,PuffBall-0.05,Hazer-0.2,VultureMask-0.025,KarmaFlower-0.1,Mushroom-0.2,DataPearl-1
+{#!moreslugcats,#watcher}scavGearItems: ExplosiveSpear-0.1,ElectricSpear-0.15,PoisonSpear-0.1,Boomerang-0.15,ScavengerBomb-0.15,Lantern-0.1,GlowWeed-0.1,LillyPuck-0.2,WaterNut-0.2,FirecrackerPlant-0.05,BubbleGrass-0.1,PuffBall-0.05,Hazer-0.2,VultureMask-0.025,KarmaFlower-0.1,Mushroom-0.2,DataPearl-1
+{#!moreslugcats,#!watcher}scavGearItems: ExplosiveSpear-0.2,ScavengerBomb-0.2,Lantern-0.1,WaterNut-0.2,FirecrackerPlant-0.05,BubbleGrass-0.1,PuffBall-0.05,Hazer-0.2,VultureMask-0.025,KarmaFlower-0.1,Mushroom-0.2,DataPearl-1
+
+{#moreslugcats,#watcher}eliteScavGearItems: HellSpear-0.15,PoisonSpear-0.15,Boomerang-0.15,ScavengerBomb-0.2,Lantern-0.1,GlowWeed-0.1,LillyPuck-0.3,FireEgg-0.1,WaterNut-0.2,FirecrackerPlant-0.05,BubbleGrass-0.1,PuffBall-0.05,Hazer-0.2,KarmaFlower-0.1,Mushroom-0.1,DandelionPeach-0.1,DataPearl-1
+{#moreslugcats,#!watcher}eliteScavGearItems: HellSpear-0.2,ScavengerBomb-0.2,Lantern-0.1,GlowWeed-0.1,LillyPuck-0.3,FireEgg-0.1,WaterNut-0.2,FirecrackerPlant-0.05,BubbleGrass-0.1,PuffBall-0.05,Hazer-0.2,KarmaFlower-0.1,Mushroom-0.1,DandelionPeach-0.1,DataPearl-1
+{#!moreslugcats,#watcher}eliteScavGearItems: PoisonSpear-0.2,Boomerang-0.15,ScavengerBomb-0.2,Lantern-0.1,GlowWeed-0.1,LillyPuck-0.3,WaterNut-0.2,FirecrackerPlant-0.05,BubbleGrass-0.1,PuffBall-0.05,Hazer-0.2,KarmaFlower-0.1,Mushroom-0.1,DandelionPeach-0.1,DataPearl-1
+
+scavScoreItems: SingularityBomb-15,InspectorCarcass-14,OracleSwarmer-14,OverseerCarcass-10,DataPearl-10,KingVultureMask-11,Rifle-8,VultureMask-8,ExplosiveSpear-6,ElectricSpear-5,HellSpear-5,ScavengerBomb-5,KarmaFlower-4,ChargedFlareBomb-5,FireEgg-5,PoisonSpear-4,Lantern-4,LillyPuck-2,JellyFish-4,Spear-3,SporePlant-3,VultureGrub-1,Durian-3,FirecrackerPlant-4,GlowWeed-3,NeedleEgg-3,FireSpriteLarva-3,Boomerang-3,RockFruit-3,LittleBalloon-2,ThornyStrawberry-2,BouncingMelon-2,Hazer-2,GraffitiBomb-2,PuffBall-3,FlareBomb-2,Mushroom-2,WaterNut-2,GooieDuck-2,EggBugEgg-2,SlimeMold-2,DandelionPeach-2,BubbleGrass-3,MarineEye-2,DangleFruit-1,LimeMushroom-1,Seed-1,FlyLure-1,Rock-1
+
+{#moreslugcats,#watcher}dropwigBaitItems: ElectricSpear-0.1,ExplosiveSpear-0.1,HellSpear-0.1,PoisonSpear-0.1,Boomerang-0.15,ScavengerBomb-0.15,Lantern-0.1,GlowWeed-0.1,FirecrackerPlant-0.1,FlyLure-0.1,WaterNut-0.1,Hazer-0.2,FireEgg-0.1,Mushroom-0.2,OverseerCarcass-0.15,DataPearl-0.25,KarmaFlower-1
+{#moreslugcats,#!watcher}dropwigBaitItems: ElectricSpear-0.15,ExplosiveSpear-0.1,HellSpear-0.1,ScavengerBomb-0.15,Lantern-0.1,GlowWeed-0.1,FirecrackerPlant-0.1,FlyLure-0.1,WaterNut-0.1,Hazer-0.2,FireEgg-0.1,Mushroom-0.2,OverseerCarcass-0.15,DataPearl-0.25,KarmaFlower-1
+{#!moreslugcats,#watcher}dropwigBaitItems: ExplosiveSpear-0.1,PoisonSpear-0.15,Boomerang-0.15,ScavengerBomb-0.15,Lantern-0.1,GlowWeed-0.1,FirecrackerPlant-0.1,FlyLure-0.1,WaterNut-0.1,Hazer-0.2,Mushroom-0.2,OverseerCarcass-0.15,DataPearl-0.25,KarmaFlower-1
+{#!moreslugcats,#!watcher}dropwigBaitItems: ExplosiveSpear-0.2,ScavengerBomb-0.2,Lantern-0.1,FirecrackerPlant-0.1,FlyLure-0.1,WaterNut-0.1,Hazer-0.2,Mushroom-0.2,OverseerCarcass-0.15,DataPearl-0.25,KarmaFlower-1
 
 playerGuideOverseerSpawnChance: 1
-guideShelterWeight: 2
-guideDangerousCreatureWeight: 2
+guideShelterWeight: 5
+guideDangerousCreatureWeight: 5
 guideColor: 0, 0, 0.4
 
 overseersSpawnChance: 0.6
