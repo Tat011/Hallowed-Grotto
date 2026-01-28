@@ -1,4 +1,4 @@
 Effects: Darkness-0-296-84, Starfishies-0.6-19-97,
-PlacedObjects: BubbleGrass><1206.797><216.307><-123.7938~142.2222~1~4, CGDrySpot><1163.471><189.7451><-151.1448~-60.93333~161.1854^58.75555~False~Sync, 
+PlacedObjects: BubbleGrass><1206.797><216.307><-123.7938~142.2222~1~1, BubbleGrass><344.7999><2268.194><-183~-148~1~4, BubbleGrass><389.9434><2266.551><-155~-130~1~4, CGDrySpot><1163.471><189.7451><-151.1448~-60.93333~161.1854^58.75555~False~Sync, 
 Triggers: RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>RW_48 - Wind Chimes<eA>vol<eB>0.3<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>1<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>1<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>682.285<tB>170.0158<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>,
 FadePalette: 8, 0.3, 0.3, 0.3

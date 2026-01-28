@@ -1,5 +1,5 @@
 RandomItemDensity: 1
 RandomItemSpearChance: 1
 EffectColorA: 9
-PlacedObjects: UniqueDataPearl><856.71><1246.554><0~0~0~0~HH_pearl_2~0, ColoredLightBeam><844.0663><1016.061><152~265~218~245~248~0~-375~58~0.5086955~1~0~0~Flash~0.6086956~0~Environment, 
+PlacedObjects: UniqueDataPearl><856.71><1246.554><0~0~0~0~HH_pearl_2~0, ColoredLightBeam><844.0663><1016.061><152~265~218~245~248~0~-375~58~0.5086955~1~0~0~Flash~0.6086956~0~Environment, DynamicWarpTarget><624.6065><1056.389><-415~-38~0~false~false,
 FadePalette: 8, 0.4, 0.2

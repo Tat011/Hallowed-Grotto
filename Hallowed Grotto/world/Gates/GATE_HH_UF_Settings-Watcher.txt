@@ -10,7 +10,7 @@ RandomItemSpearChance: 0.4
 Palette: 125
 EffectColorA: 14
 EffectColorB: 8
-Effects: Darkness-0.34-277-289, DirtyWater-1-286-159, LethalWater-1-1102-637, WaterViscosity-1-279-102, RockFlea-1-20-20, GrassHopper-0.9-20-40, Beetle-0.8-100-20, 
-PlacedObjects: SteamPipe><357.1418><91.89101><0~100, SteamPipe><601.9562><91.0549><0~100, SteamPipe><538.626><91.4054><0~89, SteamPipe><427.1921><88.55859><0~84, SteamPipe><569.3273><90.06552><0~76, SteamPipe><391.3527><91.1353><1~74, Corruption><111.5208><301.5511><120~87, Corruption><330.6228><445.9079><42~46, Corruption><872.3169><330.8115><-20~64, Corruption><570.6913><470.8082><80~28, CorruptionTube><103.1999><227.0066><172~129, CorruptionTube><620.4282><405.1867><-75~84, CorruptionTube><715.4322><356.4382><168~-30, 
+Effects: Darkness-0.34-277-289, DirtyWater-1-286-159, LethalWater-1-1102-637, WaterViscosity-1-279-102, RockFlea-1-20-20, GrassHopper-0.9-20-40, Beetle-0.8-100-20, Sentient Rot Spores-0.5-191-111,
+PlacedObjects: SteamPipe><357.1418><91.89101><0~100, SteamPipe><601.9562><91.0549><0~100, SteamPipe><538.626><91.4054><0~89, SteamPipe><427.1921><88.55859><0~84, SteamPipe><569.3273><90.06552><0~76, SteamPipe><391.3527><91.1353><1~74, Corruption><111.5208><301.5511><120~87, Corruption><330.6228><445.9079><42~46, Corruption><872.3169><330.8115><-20~64, Corruption><570.6913><470.8082><80~28, CorruptionTube><103.1999><227.0066><172~129, CorruptionTube><620.4282><405.1867><-75~84, CorruptionTube><715.4322><356.4382><168~-30, StuckDaddy><452.5733><353.0937><-146~-222, PlayerPushback><478.1042><199.137><-213~-16, PlayerPushback><478.8005><187.6935><-215~-21, 
 FadePalette: 11, 0.8
 WetTerrain: OFF

@@ -1,7 +1,7 @@
 RandomItemDensity: 0.5
 RandomItemSpearChance: 0.6
 Effects: RockFlea-1-20-20, GrassHopper-1-9-4, Beetle-1-11-62, TinyDragonFly-0.1-267-123, RedSwarmer-0.1-267-9, Lightning-0.8-264-179, GreenSparks-1-264-179,
-PlacedObjects: ExitSymbolHidden><212.0836><2112.556><, ExitSymbolHidden><214.6051><186.1089><, BubbleGrass><566.5693><91.05061><0~0~1~12,
+PlacedObjects: ExitSymbolHidden><212.0836><2112.556><, ExitSymbolHidden><214.6051><186.1089><, BubbleGrass><566.5693><91.05061><0~0~1~12, WeaverSpot><750.1494><564.506><0~-460,
 AmbientSounds: OMNI><AM_ENV-WindGrass.ogg><20><20><0.25><1, OMNI><AM_ENV-LightWind.ogg><20><20><0.8><1, OMNI><AM_ENV-NatWind.ogg><20><20><0.8><1, OMNI><AM_RAIN-Rumbles.ogg><20><20><0.8><1, OMNI><AM_RAIN-RollingThunder.ogg><20><20><0.8><1, 
 EffectColorA: 14
 FadePalette: 8, 0.35, 0.35, 0.4

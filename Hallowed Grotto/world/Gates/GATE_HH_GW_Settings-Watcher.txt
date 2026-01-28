@@ -11,6 +11,6 @@ Palette: 35
 EffectColorA: 7
 EffectColorB: 6
 FadePalette: 125, 0.5
-Effects: RockFlea-1-20-20, TinyDragonFly-0.3-267-123, Darkness-0.2-264-179, GrassHopper-0.2-9-4, Beetle-0.1-11-62,
-PlacedObjects: Corruption><815><326.0922><-84~128.6857, Corruption><156.4567><331.8047><-153~-46, Corruption><613.9498><432.8064><-17~79, Corruption><392.0502><457.2584><-5~90, Corruption><349.4551><25.55511><-5~85, GooDrips><482.6842><253.4221><-481~-32~288~197~0.5, CorruptionTube><521.9487><127.7728><90~-82, CorruptionTube><447.3549><107.3297><-100~-71, CorruptionTube><440.301><405.2301><-206~-57,
+Effects: RockFlea-1-20-20, TinyDragonFly-0.3-267-123, Darkness-0.2-264-179, GrassHopper-0.2-9-4, Beetle-0.1-11-62, Sentient Rot Spores-0.5-870-445,
+PlacedObjects: Corruption><815><326.0922><-84~128.6857, Corruption><156.4567><331.8047><-153~-46, Corruption><613.9498><432.8064><-17~79, Corruption><392.0502><457.2584><-5~90, Corruption><349.4551><25.55511><-5~85, GooDrips><482.6842><253.4221><-481~-32~288~197~0.5, CorruptionTube><521.9487><127.7728><90~-82, CorruptionTube><447.3549><107.3297><-100~-71, CorruptionTube><440.301><405.2301><-206~-57, PlayerPushback><480.9313><211.5622><-219~-6, PlayerPushback><481.1782><198.6867><-220~-17, StuckDaddy><436.6973><143.6929><-173~161,
 WetTerrain: ON

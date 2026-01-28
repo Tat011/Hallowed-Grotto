@@ -7,7 +7,7 @@ Grime: 0
 Palette: 45
 EffectColorA: 18
 EffectColorB: 7
-Effects: ElectricDeath-0.1-283-17, RockFlea-0.25-14-126, 
-PlacedObjects: Corruption><748.0502><371.4908><-150~143, CorruptionTube><866.3612><247.394><-178~101, 
+Effects: ElectricDeath-0.1-283-17, RockFlea-0.25-14-126, Sentient Rot Spores-0.5-191-111,
+PlacedObjects: Corruption><748.0502><371.4908><-150~143, CorruptionTube><866.3612><247.394><-178~101, PlayerPushback><479.5503><182.7608><-215~-17, PlayerPushback><480.2774><196.5519><-215~-10, Corruption><317.9368><125.8216><93~2,
 AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><20.80548><457.9536><0.1><1, OMNI><AM_ENV-SubTerr.ogg><17.81799><528.1671><0.26><1, OMNI><AM_WIN-SubWnd.ogg><21.30286><380.7162><0.163><1, OMNI><MSC-HeavyCreaking.ogg><438.8279><645.0658><0.0847823><0.5, OMNI><MSC-UnrelentingBreakage.ogg><624.9498><647.2405><0.2043478><0.3152174, OMNI><MSC-StructureStrain.ogg><625.3441><563.3235><0.42><0.1, 
 FadePalette: 125, 0.5

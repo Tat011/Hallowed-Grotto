@@ -1,0 +1,16 @@
+Template: NONE
+DangerType: Flood
+CeilingDrips: 0.4
+RainIntensity: 0
+RumbleIntensity: 0.7
+Clouds: 1
+Grime: 0
+RandomItemDensity: 0.3
+RandomItemSpearChance: 0.4
+Palette: 10
+EffectColorA: 9
+EffectColorB: 8
+Effects: RockFlea-1-20-20, Sentient Rot Spores-0.5-191-111,
+PlacedObjects: ExitSymbolHidden><95.95355><308.6945><, ExitSymbolHidden><873.1938><311.7007><, Corruption><401.1954><135.2072><120~58, Corruption><177.4159><365.3618><68~22, Corruption><392.5365><453.1967><66~1, Corruption><555.8669><466.0877><76~-6, Corruption><517.4969><280.7><0~100, Corruption><744.0742><246.1857><3~68, Corruption><615.179><-7.813019><12~65, GooDrips><478.1033><238.1712><-438~-6~0~0~0.5, PlayerPushback><478.1744><213.0648><-205~-15, PlayerPushback><479.0891><227.3687><-206~-4, 
+FadePalette: 125, 0.3
+WetTerrain: OFF

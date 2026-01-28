@@ -1,4 +1,4 @@
-Effects: Beetle-0.75-11-62, TinyDragonFly-0.65-267-123, RedSwarmer-0.65-267-9
-PlacedObjects: GooieDuck><152.0669><484.4196><94~67~1~10, KarmaFlower><533.847><79.1749><0~0~2~14, KarmaFlowerPatch><489.7621><84.64786><7.114563~127.0222~0.5~-282.449~-90.3111~0.2036007~0.5,
+Effects: Beetle-0.75-11-62, TinyDragonFly-0.65-267-123, RedSwarmer-0.65-267-9,
+PlacedObjects: GooieDuck><152.0669><484.4196><94~67~1~10, KarmaFlower><533.847><79.1749><6~-95~2~14, KarmaFlowerPatch><489.7621><84.64786><7.114563~127.0222~0.5~-209.449~-92.3111~0.15~0.5, 
 Triggers: Spot<tA>event<tB>ShowProjectedImageEvent<eA>afterEncounter<eB>0<eA>fromCycle<eB>0<eA>onlyWhenShowingDirection<eB>0<tA>multiUse<tB>1<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>714.5516<tB>259.5253<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB><tA>pos<tB>488.5516<tB>216.5254<tA>handlePos<tB>-333.3553<tB>-3.355347, 
 FadePalette: 9, 0.1

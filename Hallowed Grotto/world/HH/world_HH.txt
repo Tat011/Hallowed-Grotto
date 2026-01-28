@@ -1285,8 +1285,8 @@ HH_21 : 6-TentaclePlant-{Ignorecycle}
 (White){#!moreslugcats,#watcher}HH_05 : 9-Eel-{PreCycle}
 (White){#!moreslugcats,#!watcher}HH_05 : 9-Salamander-{PreCycle}
 
-(White)HH_05 : 7 : Salamander-{Ignorecycle}
-(White)HH_09 : 7 : Salamander-{Ignorecycle}
+(White)HH_05 : 7-Salamander-{Ignorecycle}
+(White)HH_09 : 7-Salamander-{Ignorecycle}
 
 (White){#moreslugcats}LINEAGE : HH_15 : 5 : Eel-{Ignorecycle}-0.35, AquaCenti-{Ignorecycle}-0
 (White){#!moreslugcats,#watcher}LINEAGE : HH_15 : 5 : Eel-{Ignorecycle}-0.35, AquaCenti-{Ignorecycle}-0
@@ -1794,8 +1794,8 @@ HH_21 : 6-TentaclePlant-{Ignorecycle}
 
 (Watcher)HH_05 : 9-Eel-{PreCycle}
 
-(Watcher)HH_05 : 7 : Salamander-{Ignorecycle}
-(Watcher)HH_09 : 7 : Salamander-{Ignorecycle}
+(Watcher)HH_05 : 7-Salamander-{Ignorecycle}
+(Watcher)HH_09 : 7-Salamander-{Ignorecycle}
 
 (Watcher)LINEAGE : HH_15 : 5 : Eel-{Ignorecycle}-0.35, AquaCenti-{Ignorecycle}-0
 

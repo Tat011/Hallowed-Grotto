@@ -10,7 +10,7 @@ RandomItemSpearChance: 0.4
 Palette: 4
 EffectColorA: 9
 EffectColorB: 8
-Effects: RockFlea-1-20-20, GrassHopper-1-20-40, Beetle-1-100-20, 
-PlacedObjects: Mushroom><866.136><187.6466><-38~334~5~15, Mushroom><844.8203><179.3381><-16~432~5~15, Mushroom><106.805><193.9554><-199~-175~5~15, InsectGroup><787.6241><243.8445><0~140~0~0~TinyDragonFly~0.25, Corruption><122.6678><208.6412><-3~103, Corruption><956.0642><440.8239><36~54, Corruption><776.325><352.1854><9~104, Corruption><387.0708><468.1871><76~23, Corruption><571.87><461.91><75~3, CorruptionTube><78.67188><211.6477><185~144, CorruptionTube><362.9288><448.4105><82~-41, CorruptionTube><521.6497><407.1174><101~10, CorruptionTube><965.1437><441.8609><55~-45, 
+Effects: RockFlea-1-20-20, GrassHopper-1-20-40, Beetle-1-100-20, Sentient Rot Spores-0.5-870-445,
+PlacedObjects: Mushroom><866.136><187.6466><-38~334~5~15, Mushroom><844.8203><179.3381><-16~432~5~15, InsectGroup><787.6241><243.8445><0~140~108.9999~17~TinyDragonFly~0.25, Corruption><122.6678><208.6412><-3~103, Corruption><956.0642><440.8239><36~54, Corruption><776.325><352.1854><9~104, Corruption><387.0708><468.1871><76~23, Corruption><571.87><461.91><75~3, CorruptionTube><78.67188><211.6477><185~144, CorruptionTube><362.9288><448.4105><82~-41, CorruptionTube><521.6497><407.1174><101~10, CorruptionTube><965.1437><441.8609><55~-45, CorruptionTube><750.8855><356.0861><137~-83, Corruption><350.1875><52.43053><-9~60, LobeTree><663.6213><244.6531><-74~-56~-146~-104, GooDrips><512.2919><249.0545><-566~-17~-477~169~0.5, PlayerPushback><480.6968><211.2859><216~-9, PlayerPushback><480.7096><196.6959><217~-1, 
 FadePalette: 125, 0.25
 WetTerrain: OFF

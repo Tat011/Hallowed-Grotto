@@ -1,0 +1,16 @@
+Template: NONE
+DangerType: Flood
+CeilingDrips: 1
+RainIntensity: 0
+RumbleIntensity: 0.7
+Clouds: 1
+Grime: 0.1
+RandomItemDensity: 0.3
+RandomItemSpearChance: 0.4
+Palette: 10
+EffectColorA: 9
+EffectColorB: 8
+Effects: WaterGlowworm-0.6-20-20, RockFlea-0.6-20-20, Starfishies-0.15-19-97, 
+PlacedObjects: ExitSymbolHidden><175.6997><35.99043><, ExitSymbolHidden><793.9498><462.5061><, WaterCurrent><870.6702><225.645><-782~0~-80.00024~553.3918, 
+FadePalette: 125, 0.3
+WetTerrain: OFF
